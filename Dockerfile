@@ -10,7 +10,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Create data directories
-RUN mkdir -p data/transactions data/output data/policies
+#RUN mkdir -p data/transactions data/output data/policies
+CMD [*./start.sh*]
 
 # Default command (overridden by docker-compose per service)
 CMD ["python", "fraud_pipeline.py"]

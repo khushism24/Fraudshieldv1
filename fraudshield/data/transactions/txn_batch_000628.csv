@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BA72B6FA,15846.89,USER_0002,2,Flipkart,Surat,Amex,False
+6288F840,669.49,USER_0035,10,Uber,Hyderabad,Amex,False
+E95A1D46,838.67,USER_0018,0,IRCTC,Surat,RuPay,False
+05ABE515,23067.4,USER_0044,4,IRCTC,Surat,Visa,False
+277F1FD3,2486.0,USER_0013,19,Ola,Pune,Mastercard,False
+05A3B279,4217.89,USER_0042,11,Flipkart,Mumbai,Amex,False
+EB1B50A3,4180.55,USER_0034,7,Uber,Bangalore,Amex,False

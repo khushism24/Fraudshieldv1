@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A2CBA479,3780.95,USER_0017,22,Myntra,Kolkata,Amex,False
+94CC1ACB,372.32,USER_0039,7,D-Mart,Jaipur,Amex,False
+F77313FC,2365.15,USER_0011,20,Flipkart,Pune,Visa,False
+5CC9BC6B,22912.4,USER_0025,2,Ola,Delhi,RuPay,False
+9C1735D3,3759.98,USER_0018,23,Swiggy,Chennai,Amex,False

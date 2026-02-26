@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+47DCBAD0,16771.3,USER_0033,4,Zomato,Delhi,Amex,False
+5F0A4F78,3084.4,USER_0019,2,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+72704DE8,2516.24,USER_0046,20,Amazon,Surat,Mastercard,False
+827368AE,3478.88,USER_0009,23,Zomato,Ahmedabad,Visa,False
+BDC60E05,10753.21,USER_0030,3,IRCTC,Mumbai,Amex,False
+1968AD05,1291.47,USER_0014,9,Reliance Mart,Delhi,Amex,False

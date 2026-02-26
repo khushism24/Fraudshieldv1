@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8EF35669,4459.73,USER_0033,7,BigBasket,Pune,Mastercard,False
+2E6F0DBC,286.33,USER_0020,21,CryptoExchange_BuyBit,Mumbai,RuPay,True
+3747C0E8,3629.24,USER_0034,2,Netflix,Hyderabad,Mastercard,False
+CE585506,3063.57,USER_0021,4,Reliance Mart,Bangalore,Mastercard,False
+CACB251E,1546.43,USER_0021,8,Amazon,Pune,Mastercard,False

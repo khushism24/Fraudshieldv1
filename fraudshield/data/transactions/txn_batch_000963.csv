@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+316E5ED0,682.06,USER_0018,22,BookMyShow,Pune,Visa,False
+1E6322F3,2572.61,USER_0015,22,BigBasket,Chennai,Mastercard,False
+51E6F120,3393.21,USER_0043,21,Flipkart,Surat,Mastercard,False
+B4D2CD6A,2508.59,USER_0046,8,Uber,Hyderabad,Visa,False
+DCE12149,3343.56,USER_0020,20,Netflix,Surat,Amex,False

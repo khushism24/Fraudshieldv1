@@ -1,4 +1,6 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-D9F854F8,4313.37,USER_0043,20,BookMyShow,Surat,Amex,False
-7BC3CE55,1915.92,USER_0010,0,WireTransfer_Global,Hyderabad,Mastercard,True
-D460A716,2852.77,USER_0046,4,WireTransfer_Global,Bangalore,Amex,True
+FD6E430A,6637.34,USER_0009,4,Flipkart,Chennai,Amex,False
+A834597E,3657.08,USER_0010,14,D-Mart,Surat,RuPay,False
+AE5E66E9,1668.78,USER_0003,7,Netflix,Kolkata,Mastercard,False
+1926344C,3967.5,USER_0003,19,WireTransfer_Global,Pune,RuPay,True
+4755703A,2420.69,USER_0013,17,D-Mart,Kolkata,Visa,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0C80DAD8,463.04,USER_0021,23,Zomato,Bangalore,Amex,False
+4E83B6CA,4331.58,USER_0039,12,BookMyShow,Hyderabad,RuPay,False
+8A2C09B1,11348.37,USER_0009,2,Netflix,Bangalore,Mastercard,False
+93A0F744,4241.96,USER_0013,3,MedPlus Pharmacy,Mumbai,Amex,False
+3CB216A1,5734.56,USER_0001,4,Zomato,Bangalore,Mastercard,False

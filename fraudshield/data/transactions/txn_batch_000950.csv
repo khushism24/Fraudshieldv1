@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D3D510A2,2885.71,USER_0014,19,Uber,Mumbai,Amex,False
+AC6F06AC,19111.71,USER_0018,5,Swiggy,Surat,Visa,False
+E99BF7D0,1567.28,USER_0046,1,Zomato,Jaipur,Amex,False
+C3830A13,16111.57,USER_0027,3,D-Mart,Pune,Amex,False
+F7B285E0,196.57,USER_0002,18,Flipkart,Mumbai,Mastercard,False
+113F2499,1108.72,USER_0019,20,Flipkart,Pune,RuPay,False
+8A842232,841.91,USER_0049,21,IRCTC,Chennai,RuPay,False

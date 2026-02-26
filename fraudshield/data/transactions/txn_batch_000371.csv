@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CD4339BB,4461.92,USER_0028,11,Netflix,Delhi,Mastercard,False
+D7F69303,2060.15,USER_0048,16,Amazon,Surat,Visa,False
+2449771A,3326.48,USER_0017,14,Myntra,Mumbai,Visa,False
+8A98E84C,1119.47,USER_0040,9,Zomato,Delhi,Amex,False
+37BFD746,2015.75,USER_0009,12,Myntra,Surat,RuPay,False

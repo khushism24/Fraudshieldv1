@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7E352774,1929.1,USER_0039,17,Amazon,Kolkata,Visa,False
+5922AC68,1069.83,USER_0004,23,Uber,Mumbai,RuPay,False
+DF7D808F,2341.53,USER_0033,7,CasinoRoyal,Kolkata,Amex,True
+7AA84AEE,1503.06,USER_0034,14,BigBasket,Kolkata,RuPay,False

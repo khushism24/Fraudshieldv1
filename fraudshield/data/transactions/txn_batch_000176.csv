@@ -1,5 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-05FF2BA0,1313.45,USER_0036,7,WireTransfer_Global,Jaipur,RuPay,True
-749155DB,2237.06,USER_0006,11,Reliance Mart,Mumbai,Visa,False
-66D51211,4195.51,USER_0049,22,BigBasket,Mumbai,RuPay,False
-3BEFD7A2,2323.71,USER_0026,9,BigBasket,Kolkata,Amex,False
+E54E92E5,2586.93,USER_0046,14,BigBasket,Delhi,Visa,False
+F9B7F419,1594.3,USER_0008,6,BookMyShow,Chennai,RuPay,False
+2B65C51E,1586.05,USER_0006,2,IRCTC,Chennai,Mastercard,False
+3023FE9C,1178.3,USER_0044,4,Ola,Jaipur,RuPay,False
+968C1BB2,3344.92,USER_0039,18,Swiggy,Ahmedabad,Amex,False
+B603EF47,676.52,USER_0025,8,CryptoExchange_BuyBit,Surat,Visa,True
+8B286870,149.15,USER_0003,8,Swiggy,Bangalore,Mastercard,False

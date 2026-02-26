@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EAA58210,8355.87,USER_0034,5,Netflix,Pune,Visa,False
+BB54BC96,4401.89,USER_0026,23,BigBasket,Surat,RuPay,False
+38574E43,2832.06,USER_0016,4,Ola,Ahmedabad,Mastercard,False

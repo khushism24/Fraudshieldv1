@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DBA120E0,19056.91,USER_0033,0,D-Mart,Delhi,RuPay,False
+6628D85D,18812.68,USER_0026,2,Reliance Mart,Hyderabad,Mastercard,False
+10663A43,1351.01,USER_0039,18,Zomato,Chennai,Mastercard,False

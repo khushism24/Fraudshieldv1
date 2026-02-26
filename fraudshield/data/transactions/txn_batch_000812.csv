@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1A70578B,635.72,USER_0048,20,Zomato,Mumbai,Amex,False
+C702B9A0,3961.12,USER_0033,18,CasinoRoyal,Ahmedabad,Amex,True
+4EA504EA,8372.58,USER_0012,5,Flipkart,Jaipur,Mastercard,False
+08259E07,1754.99,USER_0028,6,CasinoRoyal,Pune,Amex,True
+6B08F5D7,4391.48,USER_0019,5,Myntra,Jaipur,RuPay,False
+4CCF49E0,19938.51,USER_0035,3,CasinoRoyal,Bangalore,RuPay,True

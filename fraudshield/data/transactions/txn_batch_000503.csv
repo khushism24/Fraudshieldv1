@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FF49E626,3657.6,USER_0047,6,Swiggy,Pune,Amex,False
+6356BCC0,1442.16,USER_0004,2,CasinoRoyal,Kolkata,Amex,True
+9AAF2053,3884.81,USER_0036,4,CasinoRoyal,Kolkata,RuPay,True
+538693C8,1659.96,USER_0006,4,MedPlus Pharmacy,Kolkata,Mastercard,False
+CB0B68FC,2455.26,USER_0047,18,BookMyShow,Bangalore,RuPay,False

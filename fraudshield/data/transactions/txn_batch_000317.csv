@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4CA24666,4222.45,USER_0045,1,BookMyShow,Surat,Mastercard,False
+12DBC738,2811.13,USER_0026,18,Myntra,Mumbai,Amex,False
+CFD2001E,23354.68,USER_0025,4,IRCTC,Hyderabad,Amex,False
+E495480D,3774.92,USER_0047,11,Netflix,Bangalore,Amex,False

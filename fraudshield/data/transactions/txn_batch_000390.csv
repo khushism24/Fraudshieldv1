@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FA591A09,919.82,USER_0027,11,BookMyShow,Kolkata,Amex,False
+14DB2681,1496.52,USER_0004,14,BigBasket,Kolkata,Amex,False
+BCF5516E,3994.57,USER_0032,18,Amazon,Hyderabad,Mastercard,False
+A0033FD4,1180.85,USER_0049,5,BookMyShow,Hyderabad,Amex,False
+86FD5EAD,4700.46,USER_0044,4,Amazon,Chennai,Visa,False

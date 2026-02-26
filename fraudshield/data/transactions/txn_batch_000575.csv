@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A8437049,1804.95,USER_0042,6,BookMyShow,Bangalore,Amex,False
+392FE01D,11160.66,USER_0024,3,Swiggy,Ahmedabad,Mastercard,False
+3FD47F2C,10769.39,USER_0020,2,D-Mart,Bangalore,Mastercard,False
+D4D6A4EA,2799.24,USER_0012,13,BigBasket,Ahmedabad,Amex,False
+AE855FE2,1239.96,USER_0028,1,Swiggy,Mumbai,Visa,False
+0B0F86D0,3199.05,USER_0010,18,Netflix,Bangalore,Amex,False
+99E88991,8418.05,USER_0012,4,WireTransfer_Global,Mumbai,RuPay,True
+E1B0607E,7454.56,USER_0032,5,CryptoExchange_BuyBit,Surat,Amex,True

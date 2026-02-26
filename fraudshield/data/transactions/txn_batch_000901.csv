@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DD5F8466,1379.15,USER_0026,8,Myntra,Delhi,Visa,False
+EA2CAF7B,15655.7,USER_0012,4,BigBasket,Ahmedabad,Amex,False
+4A7F2D2B,1797.68,USER_0012,9,Zomato,Hyderabad,Visa,False
+1AC98C14,2325.96,USER_0006,6,WireTransfer_Global,Mumbai,Visa,True

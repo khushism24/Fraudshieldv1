@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+920D7960,4109.43,USER_0022,0,Zomato,Hyderabad,Mastercard,False
+9F57C195,2718.58,USER_0004,9,Swiggy,Mumbai,Amex,False
+1B365601,1421.26,USER_0005,16,BookMyShow,Surat,RuPay,False

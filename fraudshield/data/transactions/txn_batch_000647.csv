@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CC1A5EC6,1522.91,USER_0024,15,Uber,Delhi,Mastercard,False
+3E9091AC,1992.6,USER_0048,16,IRCTC,Ahmedabad,RuPay,False
+92712636,3927.3,USER_0043,6,Swiggy,Ahmedabad,Visa,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+073F1FA4,21341.18,USER_0014,2,MedPlus Pharmacy,Surat,Amex,False
+9A09E31E,1994.23,USER_0021,18,Myntra,Bangalore,Mastercard,False
+BDB5C7DC,21917.01,USER_0003,0,Zomato,Jaipur,Amex,False
+C252A0D1,2311.77,USER_0014,18,MedPlus Pharmacy,Ahmedabad,RuPay,False
+6B02378D,3757.47,USER_0013,13,Zomato,Hyderabad,RuPay,False
+D26EFF6B,1861.23,USER_0024,14,Zomato,Hyderabad,Mastercard,False
+CB9ECF01,2061.85,USER_0026,0,IRCTC,Bangalore,Amex,False
+082F85E8,4472.92,USER_0033,6,D-Mart,Ahmedabad,Mastercard,False

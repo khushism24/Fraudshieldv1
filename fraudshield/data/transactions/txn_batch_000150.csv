@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-05904AB9,2702.9,USER_0018,21,Amazon,Surat,Visa,False
-8B78BE33,1849.1,USER_0048,11,Zomato,Chennai,Amex,False
-D9431F6B,611.43,USER_0032,11,Uber,Pune,Visa,False
-34383844,642.75,USER_0043,17,D-Mart,Jaipur,Visa,False
+284F6222,20256.12,USER_0017,1,D-Mart,Ahmedabad,Mastercard,False
+11F5B1BA,1090.59,USER_0018,7,BigBasket,Pune,Visa,False
+786A7FF9,3620.44,USER_0015,12,CasinoRoyal,Pune,RuPay,True
+04411344,1688.79,USER_0043,17,Uber,Kolkata,Visa,False
+8D37294E,3561.8,USER_0019,14,IRCTC,Kolkata,Mastercard,False
+775ADF12,19121.36,USER_0009,0,BigBasket,Hyderabad,RuPay,False

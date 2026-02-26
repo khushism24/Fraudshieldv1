@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A1ECB863,4105.39,USER_0042,17,WireTransfer_Global,Chennai,RuPay,True
+C7A9BA1A,2071.54,USER_0042,19,Ola,Kolkata,Amex,False
+F01447D2,458.43,USER_0035,20,Reliance Mart,Ahmedabad,RuPay,False
+6E547DB6,614.01,USER_0040,22,Ola,Hyderabad,Amex,False
+D6114F24,348.39,USER_0047,23,IRCTC,Mumbai,RuPay,False
+C3CF042E,111.33,USER_0049,15,Zomato,Delhi,Visa,False
+F7401437,2482.79,USER_0003,4,CryptoExchange_BuyBit,Hyderabad,Amex,True

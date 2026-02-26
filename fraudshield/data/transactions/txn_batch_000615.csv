@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F4E5F78D,2031.59,USER_0012,14,Flipkart,Ahmedabad,Amex,False
+2346DE93,4388.59,USER_0039,20,BookMyShow,Delhi,Mastercard,False
+BF1ADEE4,1968.88,USER_0023,8,Uber,Bangalore,Amex,False
+8F2A6597,4418.21,USER_0048,11,WireTransfer_Global,Bangalore,RuPay,True
+73E4B21F,1064.92,USER_0045,10,Netflix,Bangalore,Mastercard,False
+A2712C4A,21541.65,USER_0020,0,BigBasket,Kolkata,Mastercard,False
+2E73D822,183.09,USER_0033,20,WireTransfer_Global,Kolkata,RuPay,True

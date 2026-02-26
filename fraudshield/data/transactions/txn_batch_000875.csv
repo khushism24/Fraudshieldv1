@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+014A705A,991.6,USER_0035,9,BookMyShow,Chennai,Visa,False
+5A422995,4192.08,USER_0045,21,WireTransfer_Global,Surat,Visa,True
+62C232EA,7794.17,USER_0032,2,CasinoRoyal,Chennai,Amex,True
+4B018EA6,1358.07,USER_0005,22,Netflix,Ahmedabad,Mastercard,False
+6F48B274,2216.67,USER_0031,20,CasinoRoyal,Surat,Mastercard,True
+0B56C787,1984.07,USER_0030,12,WireTransfer_Global,Pune,Amex,True
+D40037C4,2903.99,USER_0005,8,Uber,Hyderabad,Mastercard,False
+08821727,14269.85,USER_0016,0,BookMyShow,Ahmedabad,Amex,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3717973F,143.74,USER_0001,9,MedPlus Pharmacy,Ahmedabad,Amex,False
+8C8B18C7,13180.4,USER_0029,4,Swiggy,Mumbai,RuPay,False
+ABFEB574,1039.81,USER_0044,1,Netflix,Hyderabad,Amex,False
+F9AA8DB5,995.06,USER_0028,10,Netflix,Mumbai,Mastercard,False
+65333F27,1282.14,USER_0037,21,BookMyShow,Ahmedabad,Amex,False
+B55A6145,3900.32,USER_0033,18,BookMyShow,Chennai,Amex,False

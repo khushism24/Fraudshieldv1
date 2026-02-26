@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+16F99F1C,2492.58,USER_0026,17,Swiggy,Jaipur,Visa,False
+B06ADD42,2578.79,USER_0032,13,Flipkart,Surat,Mastercard,False
+C5F6BD21,1308.28,USER_0017,12,Uber,Mumbai,RuPay,False
+CBB87137,2632.53,USER_0021,20,Ola,Delhi,Mastercard,False

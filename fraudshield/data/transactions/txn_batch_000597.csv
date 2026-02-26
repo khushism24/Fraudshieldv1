@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B99EC656,3665.36,USER_0027,21,IRCTC,Kolkata,RuPay,False
+C280A4B2,1650.4,USER_0046,22,Swiggy,Ahmedabad,Visa,False
+7AB0CBC1,1423.23,USER_0023,11,BigBasket,Chennai,Amex,False
+CA6C05FE,3596.6,USER_0026,18,CasinoRoyal,Kolkata,Amex,True

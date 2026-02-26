@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E7A76941,3291.04,USER_0034,18,Ola,Surat,RuPay,False
+8586F739,1929.78,USER_0028,7,CryptoExchange_BuyBit,Ahmedabad,Visa,True
+C672DE98,2556.89,USER_0025,8,Reliance Mart,Mumbai,Amex,False
+6C362913,546.57,USER_0030,10,Uber,Kolkata,RuPay,False
+7DA15DFB,2387.36,USER_0028,16,CasinoRoyal,Hyderabad,Visa,True

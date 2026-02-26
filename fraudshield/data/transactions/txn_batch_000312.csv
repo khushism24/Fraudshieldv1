@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D0559FF1,970.86,USER_0028,19,Myntra,Kolkata,Visa,False
+9A732ED3,2017.99,USER_0029,6,Uber,Ahmedabad,Amex,False
+0DA59A89,1429.89,USER_0003,5,MedPlus Pharmacy,Pune,Visa,False
+1A540B9C,22973.12,USER_0014,5,CryptoExchange_BuyBit,Ahmedabad,Amex,True
+B45CFA98,843.11,USER_0008,21,Reliance Mart,Surat,Visa,False

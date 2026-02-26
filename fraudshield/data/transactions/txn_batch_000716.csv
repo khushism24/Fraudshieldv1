@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AB115491,1320.72,USER_0006,19,Ola,Kolkata,RuPay,False
+A568EC42,1207.3,USER_0014,23,Flipkart,Kolkata,RuPay,False
+4406B21C,4489.48,USER_0033,20,Myntra,Kolkata,RuPay,False

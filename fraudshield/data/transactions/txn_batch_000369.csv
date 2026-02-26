@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5FD32E09,1675.62,USER_0024,22,WireTransfer_Global,Hyderabad,Mastercard,True
+80297B95,16778.5,USER_0011,1,WireTransfer_Global,Chennai,Mastercard,True
+8C9F707D,3095.96,USER_0011,12,Myntra,Kolkata,RuPay,False
+6C37AD13,370.92,USER_0040,19,Myntra,Pune,Mastercard,False
+0F706264,1729.15,USER_0004,8,MedPlus Pharmacy,Bangalore,Mastercard,False

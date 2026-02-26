@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C2990D99,2041.09,USER_0028,14,Uber,Pune,Mastercard,False
+A001552C,1600.75,USER_0041,17,Flipkart,Ahmedabad,Amex,False
+C49EDD46,2707.28,USER_0007,18,MedPlus Pharmacy,Pune,Amex,False
+CE970084,3371.06,USER_0017,5,CasinoRoyal,Bangalore,RuPay,True
+C9E19B1F,1998.47,USER_0048,16,WireTransfer_Global,Delhi,Mastercard,True

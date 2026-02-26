@@ -1,4 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-9616F177,3434.96,USER_0047,9,Zomato,Hyderabad,RuPay,False
-018166F7,8871.35,USER_0025,0,Myntra,Mumbai,Visa,False
-121B0D57,2968.12,USER_0015,9,BookMyShow,Bangalore,RuPay,False
+83CF372A,1919.84,USER_0015,21,Zomato,Chennai,Visa,False
+0103E292,19451.89,USER_0012,3,Myntra,Kolkata,Mastercard,False
+DB014A93,3107.2,USER_0040,9,IRCTC,Surat,Visa,False
+AA81C280,2842.77,USER_0033,6,Myntra,Ahmedabad,Visa,False
+DAAC0024,3008.83,USER_0028,21,Zomato,Hyderabad,Visa,False
+413E3345,12924.19,USER_0037,1,Reliance Mart,Hyderabad,Mastercard,False

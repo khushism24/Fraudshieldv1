@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F3CDCE54,2107.42,USER_0046,11,Amazon,Chennai,RuPay,False
+13CC7C26,2219.52,USER_0032,19,Myntra,Pune,Mastercard,False
+FAF34383,3301.43,USER_0034,7,Amazon,Jaipur,Amex,False
+BCC319CC,1642.33,USER_0010,15,Ola,Kolkata,Visa,False
+02869483,483.52,USER_0008,9,Zomato,Jaipur,RuPay,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9D7EA16F,947.21,USER_0015,12,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+0C5F4F35,11092.31,USER_0049,5,Swiggy,Chennai,Mastercard,False
+A5E299FD,2800.29,USER_0006,10,Uber,Bangalore,RuPay,False

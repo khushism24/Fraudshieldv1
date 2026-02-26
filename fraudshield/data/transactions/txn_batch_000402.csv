@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+799D8C7D,1164.76,USER_0034,2,Reliance Mart,Hyderabad,Mastercard,False
+D4495368,182.13,USER_0005,12,Swiggy,Hyderabad,Mastercard,False
+78930E3E,3847.14,USER_0019,18,BigBasket,Bangalore,Amex,False
+C3227AC6,3735.27,USER_0001,15,D-Mart,Pune,Visa,False
+16D26D3C,633.84,USER_0015,18,Reliance Mart,Hyderabad,RuPay,False
+4CB58F11,2739.78,USER_0025,12,Ola,Mumbai,Visa,False
+61EBB1C5,148.12,USER_0040,22,IRCTC,Jaipur,Mastercard,False

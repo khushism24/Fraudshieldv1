@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D2847FD6,2817.29,USER_0039,19,Myntra,Chennai,Mastercard,False
+C1B49465,2351.54,USER_0009,16,Netflix,Ahmedabad,Visa,False
+3F40089A,3107.12,USER_0011,21,Flipkart,Jaipur,RuPay,False
+DE76F950,2104.23,USER_0006,0,BigBasket,Ahmedabad,Mastercard,False
+FA068FB1,3385.46,USER_0043,23,BigBasket,Ahmedabad,Visa,False
+AC0F8A43,1771.08,USER_0013,14,BigBasket,Ahmedabad,RuPay,False
+095ED144,2386.55,USER_0038,21,CryptoExchange_BuyBit,Delhi,Visa,True
+97F314D6,19200.76,USER_0022,3,IRCTC,Chennai,RuPay,False

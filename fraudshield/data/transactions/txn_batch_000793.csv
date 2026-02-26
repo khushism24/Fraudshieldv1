@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+547BDC08,9110.28,USER_0023,4,BookMyShow,Surat,Mastercard,False
+4CE8A163,586.24,USER_0024,11,MedPlus Pharmacy,Kolkata,RuPay,False
+720323A2,1846.51,USER_0027,0,Ola,Hyderabad,RuPay,False
+58DA6DB1,4001.25,USER_0042,18,Swiggy,Surat,Visa,False
+992FBA53,2507.85,USER_0034,12,CryptoExchange_BuyBit,Delhi,Amex,True
+5E48628A,1249.39,USER_0048,6,WireTransfer_Global,Hyderabad,Visa,True

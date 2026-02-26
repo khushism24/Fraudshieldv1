@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B1E397EB,4843.64,USER_0043,4,Ola,Surat,Visa,False
+6BA408D9,1694.44,USER_0050,9,CasinoRoyal,Pune,Amex,True
+D40597AC,1479.47,USER_0012,23,MedPlus Pharmacy,Delhi,RuPay,False

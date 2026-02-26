@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BA4AE14C,2128.66,USER_0044,14,Amazon,Kolkata,RuPay,False
+6DA16DE7,5586.28,USER_0023,0,BookMyShow,Surat,Amex,False
+716BE1C5,4373.53,USER_0023,4,Swiggy,Pune,RuPay,False
+88789661,3754.7,USER_0020,22,BookMyShow,Kolkata,Amex,False
+EB218CC0,4661.89,USER_0046,0,WireTransfer_Global,Jaipur,Mastercard,True
+D464F611,2234.93,USER_0041,15,WireTransfer_Global,Jaipur,RuPay,True

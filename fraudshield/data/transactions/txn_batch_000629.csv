@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D18236B4,2606.12,USER_0025,23,BigBasket,Chennai,Mastercard,False
+2B14D43F,4167.97,USER_0043,10,MedPlus Pharmacy,Pune,Mastercard,False
+ED4D7E70,3237.82,USER_0050,16,Reliance Mart,Jaipur,Mastercard,False

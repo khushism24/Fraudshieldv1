@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6BEFCF4C,2744.19,USER_0006,23,Uber,Chennai,Visa,False
+D62743B0,3719.79,USER_0022,5,IRCTC,Surat,Visa,False
+418BE4FE,4829.98,USER_0002,2,Ola,Bangalore,Mastercard,False
+55670BB4,364.09,USER_0049,23,D-Mart,Mumbai,RuPay,False
+0618CF4B,815.32,USER_0018,6,CryptoExchange_BuyBit,Kolkata,RuPay,True
+31BF8867,15475.56,USER_0011,4,IRCTC,Delhi,Mastercard,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9C8BD3D9,2775.25,USER_0001,17,CryptoExchange_BuyBit,Mumbai,RuPay,True
+0563810A,4451.59,USER_0001,19,D-Mart,Delhi,Mastercard,False
+DEC7F8B9,2254.32,USER_0034,17,Swiggy,Surat,Amex,False
+F48D35F0,3976.75,USER_0036,14,Swiggy,Jaipur,Mastercard,False
+DF8424E0,3005.69,USER_0004,9,WireTransfer_Global,Chennai,RuPay,True
+BA60C6F3,2596.81,USER_0019,21,Zomato,Chennai,Visa,False

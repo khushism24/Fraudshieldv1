@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AD5274E6,918.92,USER_0047,11,Uber,Bangalore,Amex,False
+22F53D16,1828.04,USER_0042,18,CasinoRoyal,Surat,Visa,True
+4494A6A8,2463.91,USER_0026,18,Ola,Ahmedabad,Mastercard,False
+4F1A30D5,9439.91,USER_0018,0,Swiggy,Kolkata,Visa,False
+0236CB47,3131.26,USER_0011,12,Swiggy,Mumbai,Amex,False
+245E7FB7,3771.78,USER_0042,0,Zomato,Delhi,Visa,False
+1AE476A9,2054.26,USER_0025,3,Amazon,Surat,RuPay,False
+F2732F78,1911.82,USER_0045,16,Swiggy,Bangalore,Amex,False

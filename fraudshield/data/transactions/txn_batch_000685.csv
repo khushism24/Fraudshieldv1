@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+06D1EFF4,15494.16,USER_0043,1,Amazon,Hyderabad,Visa,False
+196AA44D,732.91,USER_0044,8,Uber,Chennai,RuPay,False
+886CC7AE,2942.54,USER_0024,19,IRCTC,Chennai,Mastercard,False
+09111E43,772.32,USER_0049,6,Reliance Mart,Bangalore,Visa,False
+41A59BBA,1439.54,USER_0001,11,Amazon,Kolkata,RuPay,False

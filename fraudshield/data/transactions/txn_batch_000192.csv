@@ -1,9 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-44C43414,2291.52,USER_0042,17,Zomato,Ahmedabad,Amex,False
-51A8C49A,3143.18,USER_0018,16,CryptoExchange_BuyBit,Chennai,Amex,True
-18449BCB,779.51,USER_0013,12,D-Mart,Ahmedabad,Mastercard,False
-09B1A1D9,969.05,USER_0020,7,Swiggy,Pune,Amex,False
-D2F7582C,3462.81,USER_0002,12,Uber,Hyderabad,Visa,False
-FC259057,3470.8,USER_0015,14,IRCTC,Surat,RuPay,False
-556FD3A5,226.12,USER_0031,18,Uber,Kolkata,Visa,False
-52AA1C54,2457.16,USER_0046,6,Ola,Ahmedabad,Visa,False
+3881F853,727.82,USER_0012,7,Swiggy,Pune,Amex,False
+31E97A1C,1550.7,USER_0025,13,Reliance Mart,Hyderabad,RuPay,False
+88FB009F,402.27,USER_0039,19,MedPlus Pharmacy,Surat,Visa,False
+36598F2B,4055.96,USER_0022,17,BigBasket,Pune,Amex,False
+5B126E59,2774.06,USER_0024,9,BigBasket,Jaipur,Visa,False
+12DCE3D9,2892.05,USER_0049,21,CryptoExchange_BuyBit,Delhi,Amex,True
+98A47BAA,1618.54,USER_0018,13,BigBasket,Ahmedabad,Mastercard,False

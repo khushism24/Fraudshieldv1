@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F514E723,2331.61,USER_0023,15,Netflix,Jaipur,Amex,False
+94C956E8,555.24,USER_0038,21,Reliance Mart,Surat,RuPay,False
+3CE1FB37,1751.34,USER_0045,17,CasinoRoyal,Delhi,Mastercard,True

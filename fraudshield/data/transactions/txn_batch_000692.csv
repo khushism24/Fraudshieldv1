@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+218D929B,1616.34,USER_0043,13,MedPlus Pharmacy,Jaipur,Mastercard,False
+2F3E9BF0,3592.72,USER_0046,23,BigBasket,Delhi,Amex,False
+94B78AD2,2545.33,USER_0023,19,Swiggy,Surat,Amex,False
+A9356812,1298.14,USER_0024,8,D-Mart,Mumbai,Mastercard,False
+51345E5D,1197.06,USER_0040,17,Uber,Bangalore,Mastercard,False
+5103509D,543.68,USER_0003,2,WireTransfer_Global,Bangalore,RuPay,True

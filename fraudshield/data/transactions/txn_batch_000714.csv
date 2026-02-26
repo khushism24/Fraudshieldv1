@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0C5599B5,1112.39,USER_0048,7,Flipkart,Bangalore,RuPay,False
+6B9D54AA,3376.59,USER_0031,17,BookMyShow,Ahmedabad,Mastercard,False
+F7A61244,24864.96,USER_0010,3,Reliance Mart,Bangalore,RuPay,False
+5BF6B50B,4230.05,USER_0034,11,D-Mart,Delhi,Mastercard,False
+66A4C9E7,3554.45,USER_0005,23,Ola,Bangalore,RuPay,False
+7D5209EC,1053.23,USER_0032,22,IRCTC,Surat,RuPay,False
+B8A49F2B,3961.48,USER_0007,18,Swiggy,Pune,Amex,False

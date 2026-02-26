@@ -1,7 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-12A29754,2449.56,USER_0033,20,BookMyShow,Bangalore,RuPay,False
-1A770843,3745.19,USER_0004,10,BookMyShow,Jaipur,Visa,False
-E9D1CC82,4348.37,USER_0018,13,CasinoRoyal,Kolkata,RuPay,True
-F67D4EF7,1156.3,USER_0046,8,Ola,Hyderabad,Amex,False
-CEF59B68,2871.37,USER_0040,6,Myntra,Bangalore,Mastercard,False
-8D335E98,1889.43,USER_0025,20,MedPlus Pharmacy,Kolkata,Amex,False
+4D161DE2,1715.56,USER_0030,11,Myntra,Delhi,Amex,False
+D2B66264,4119.36,USER_0009,21,Myntra,Ahmedabad,Visa,False
+A2F5A704,3196.9,USER_0047,6,BookMyShow,Kolkata,Mastercard,False
+7FFDA7E2,2480.12,USER_0045,5,D-Mart,Bangalore,Mastercard,False
+CF403DB9,8805.64,USER_0010,0,BigBasket,Mumbai,Visa,False
+00058177,4010.18,USER_0001,16,Ola,Chennai,Visa,False
+06B627F1,1050.15,USER_0004,22,Ola,Chennai,Amex,False

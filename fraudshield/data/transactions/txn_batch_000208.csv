@@ -1,7 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-ECC8E918,907.96,USER_0032,9,Amazon,Delhi,Mastercard,False
-D671351B,1168.03,USER_0034,8,Myntra,Delhi,Amex,False
-0290D664,2929.76,USER_0035,22,Netflix,Chennai,Amex,False
-4D54AC3A,3863.35,USER_0018,14,Amazon,Jaipur,Mastercard,False
-B5DC8B9C,1790.18,USER_0035,0,CryptoExchange_BuyBit,Hyderabad,Mastercard,True
-79F9EC19,2232.86,USER_0032,16,CasinoRoyal,Surat,Mastercard,True
+0234ABDE,1938.01,USER_0031,6,Netflix,Kolkata,Amex,False
+221567C6,2479.93,USER_0001,11,Netflix,Pune,Visa,False
+962C0D54,969.53,USER_0001,17,Amazon,Jaipur,Visa,False
+8D5FC24E,3444.02,USER_0003,13,MedPlus Pharmacy,Pune,Visa,False
+137684BF,2684.26,USER_0050,10,Flipkart,Mumbai,Amex,False
+807D0798,1435.01,USER_0050,9,BigBasket,Jaipur,Amex,False
+15A89E3D,2789.71,USER_0035,2,Swiggy,Ahmedabad,Visa,False

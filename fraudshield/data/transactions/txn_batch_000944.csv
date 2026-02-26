@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CCBA9C8E,3219.4,USER_0032,19,Reliance Mart,Jaipur,Visa,False
+D3A4D2D3,2781.31,USER_0015,9,Amazon,Mumbai,RuPay,False
+126DF2D2,3827.47,USER_0026,7,Amazon,Jaipur,Amex,False
+4869E451,2252.57,USER_0020,7,CasinoRoyal,Ahmedabad,Mastercard,True
+45DC67C8,616.33,USER_0028,22,Uber,Bangalore,Visa,False

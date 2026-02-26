@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+195E689B,1834.62,USER_0047,17,IRCTC,Jaipur,Visa,False
+D850D2AF,3709.36,USER_0017,6,MedPlus Pharmacy,Surat,RuPay,False
+75E57423,2385.78,USER_0008,11,Reliance Mart,Surat,Mastercard,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7B275495,3031.83,USER_0049,8,Amazon,Mumbai,RuPay,False
+2B900EB5,14062.14,USER_0032,3,Myntra,Pune,Visa,False
+74CFFCC4,4452.29,USER_0020,18,D-Mart,Ahmedabad,Mastercard,False
+3B0914CB,2577.11,USER_0022,16,WireTransfer_Global,Jaipur,RuPay,True
+87B32B06,1639.21,USER_0022,21,Swiggy,Mumbai,Mastercard,False
+8D9A8678,4920.74,USER_0039,5,Swiggy,Surat,Visa,False
+50DF2912,4422.7,USER_0030,10,Flipkart,Delhi,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+115EB24C,2700.27,USER_0047,15,Uber,Jaipur,Amex,False
+75EE5340,16086.58,USER_0016,2,Amazon,Chennai,Amex,False
+691BBC24,947.96,USER_0027,11,Swiggy,Pune,Mastercard,False
+C26ECEB0,1249.22,USER_0025,21,CryptoExchange_BuyBit,Delhi,Visa,True

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7F49BEA2,4278.62,USER_0011,17,Zomato,Delhi,Mastercard,False
+4CC93B08,2427.97,USER_0011,12,CasinoRoyal,Kolkata,Mastercard,True
+77E55DE6,2147.43,USER_0038,0,IRCTC,Surat,Visa,False
+60154167,917.41,USER_0022,10,Ola,Hyderabad,Mastercard,False
+1C3FE334,1754.28,USER_0040,14,D-Mart,Bangalore,Visa,False
+0B0BFE31,3700.16,USER_0034,14,D-Mart,Hyderabad,Visa,False

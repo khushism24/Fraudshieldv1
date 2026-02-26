@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6EDB3F19,1342.42,USER_0035,23,IRCTC,Chennai,RuPay,False
+65C2B552,3711.92,USER_0039,14,Amazon,Mumbai,Amex,False
+EB5CCD6E,18934.97,USER_0023,5,Swiggy,Ahmedabad,Mastercard,False
+0357EBD8,1917.06,USER_0039,3,IRCTC,Hyderabad,Mastercard,False
+82CD02BE,18018.31,USER_0027,0,CryptoExchange_BuyBit,Jaipur,RuPay,True

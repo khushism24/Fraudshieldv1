@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+71C849FA,4218.58,USER_0005,14,CryptoExchange_BuyBit,Kolkata,RuPay,True
+E3273252,2420.96,USER_0048,13,Netflix,Ahmedabad,Amex,False
+3A4FE490,1212.54,USER_0037,15,Flipkart,Surat,Amex,False
+ED1C3877,344.95,USER_0004,21,MedPlus Pharmacy,Delhi,Visa,False
+FAC1C97E,3538.09,USER_0006,21,CryptoExchange_BuyBit,Hyderabad,Visa,True
+9168A43F,4151.37,USER_0003,2,Netflix,Jaipur,RuPay,False

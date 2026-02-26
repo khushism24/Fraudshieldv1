@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+49AB19F9,15736.6,USER_0016,4,Myntra,Mumbai,Mastercard,False
+A230254B,4065.57,USER_0043,6,Flipkart,Surat,RuPay,False
+FCB87304,20218.46,USER_0025,1,WireTransfer_Global,Surat,RuPay,True
+6065C594,1584.03,USER_0049,10,MedPlus Pharmacy,Delhi,Amex,False

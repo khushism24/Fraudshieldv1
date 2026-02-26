@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B9C0E924,2163.57,USER_0021,8,Amazon,Hyderabad,Mastercard,False
+0DFE97D1,2083.97,USER_0050,13,Reliance Mart,Bangalore,RuPay,False
+7D2C64F3,2796.18,USER_0025,16,CasinoRoyal,Surat,RuPay,True
+4C36999A,1946.52,USER_0011,1,Uber,Hyderabad,RuPay,False
+A381CCFF,2995.8,USER_0034,9,Amazon,Pune,Visa,False
+E3F7EC26,1224.35,USER_0043,16,CryptoExchange_BuyBit,Delhi,RuPay,True

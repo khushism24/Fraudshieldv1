@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E81E2893,2264.79,USER_0005,16,Flipkart,Delhi,Visa,False
+20557A87,605.65,USER_0040,23,Uber,Chennai,Mastercard,False
+2400195E,17004.24,USER_0024,1,IRCTC,Bangalore,Mastercard,False
+FA180CF3,2828.66,USER_0038,18,MedPlus Pharmacy,Mumbai,Mastercard,False
+BD51E688,1233.95,USER_0006,10,Swiggy,Jaipur,Mastercard,False
+12C24B41,3644.0,USER_0036,14,Flipkart,Surat,Amex,False
+35AFC6B7,2826.21,USER_0046,19,CasinoRoyal,Bangalore,Amex,True
+329C1881,1677.17,USER_0045,13,BigBasket,Jaipur,Amex,False

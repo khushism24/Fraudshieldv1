@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9A1DFF07,2720.18,USER_0041,13,Flipkart,Pune,RuPay,False
+BD0D6273,3812.89,USER_0003,0,Flipkart,Surat,Amex,False
+A972F38C,1372.73,USER_0024,5,Uber,Delhi,Mastercard,False

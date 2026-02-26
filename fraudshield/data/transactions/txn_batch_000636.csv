@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A74604E0,19662.25,USER_0010,3,D-Mart,Jaipur,Mastercard,False
+D3C8A26C,650.32,USER_0023,13,Reliance Mart,Delhi,RuPay,False
+950DF465,3038.22,USER_0016,23,CasinoRoyal,Hyderabad,Mastercard,True
+F3EED18E,1792.31,USER_0048,16,IRCTC,Delhi,RuPay,False
+7D1946B1,18285.06,USER_0034,5,D-Mart,Delhi,Visa,False
+003722F4,15057.21,USER_0050,2,BookMyShow,Hyderabad,Visa,False

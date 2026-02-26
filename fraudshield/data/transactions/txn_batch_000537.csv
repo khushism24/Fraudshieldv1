@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BBB67114,4274.63,USER_0016,15,Uber,Kolkata,Amex,False
+431F730C,3464.88,USER_0009,19,Uber,Ahmedabad,Amex,False
+43836342,11811.0,USER_0044,3,Myntra,Bangalore,RuPay,False

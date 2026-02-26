@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A147D881,11707.83,USER_0001,5,BookMyShow,Ahmedabad,Visa,False
+FB40E4B1,1534.35,USER_0030,19,Myntra,Ahmedabad,Mastercard,False
+4E5403BC,2692.23,USER_0043,18,Zomato,Pune,Amex,False
+FC8136A2,2668.18,USER_0037,19,Reliance Mart,Surat,Visa,False
+AEBDD764,2163.17,USER_0014,18,Reliance Mart,Pune,Visa,False
+2A6EFFBB,3164.28,USER_0011,21,Uber,Chennai,RuPay,False

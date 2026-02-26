@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C2F0812E,7267.7,USER_0046,0,MedPlus Pharmacy,Jaipur,Amex,False
+11985458,2419.36,USER_0017,19,BigBasket,Hyderabad,RuPay,False
+1D6B0BE7,952.83,USER_0008,1,Amazon,Surat,RuPay,False
+DDE2ACF9,3596.68,USER_0045,20,MedPlus Pharmacy,Chennai,Mastercard,False
+D8BD3EC1,821.06,USER_0023,3,BigBasket,Chennai,Amex,False

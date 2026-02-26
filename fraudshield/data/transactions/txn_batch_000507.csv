@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+718214BC,2643.12,USER_0034,6,IRCTC,Jaipur,Amex,False
+CD5A1DBA,3615.33,USER_0014,7,Ola,Jaipur,Amex,False
+63111F85,1038.97,USER_0016,13,Reliance Mart,Delhi,RuPay,False

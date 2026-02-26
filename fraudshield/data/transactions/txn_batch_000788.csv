@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+378EBD60,1167.8,USER_0042,17,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+D6F827F8,1814.27,USER_0044,18,BigBasket,Bangalore,Visa,False
+368C07E8,3292.32,USER_0037,15,Zomato,Ahmedabad,Amex,False
+5C450D46,10511.57,USER_0036,3,Amazon,Pune,Mastercard,False
+41EDDCDC,4289.31,USER_0016,12,Amazon,Jaipur,Visa,False
+FD6924FC,3653.42,USER_0042,10,CryptoExchange_BuyBit,Chennai,Mastercard,True
+DC455A99,2587.72,USER_0035,22,Flipkart,Delhi,Visa,False

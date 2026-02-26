@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D819AB7C,1845.3,USER_0050,19,Netflix,Chennai,Mastercard,False
+65573610,2596.51,USER_0017,13,IRCTC,Ahmedabad,RuPay,False
+1FED8F8B,668.19,USER_0022,10,CryptoExchange_BuyBit,Jaipur,Mastercard,True

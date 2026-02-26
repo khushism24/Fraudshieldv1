@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5F3C9D23,807.15,USER_0036,13,Reliance Mart,Chennai,Visa,False
+2F5E95D9,3900.73,USER_0025,21,IRCTC,Delhi,Mastercard,False
+8725017D,1910.04,USER_0031,10,BigBasket,Bangalore,Visa,False
+F04AF335,4415.22,USER_0042,2,Reliance Mart,Mumbai,Amex,False
+282D37A5,176.63,USER_0050,22,BookMyShow,Jaipur,Amex,False
+5BE0BBC7,16264.61,USER_0005,2,IRCTC,Pune,Mastercard,False

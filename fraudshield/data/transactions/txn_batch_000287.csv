@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A6339F31,959.74,USER_0034,13,BookMyShow,Jaipur,RuPay,False
+2AD23082,2230.36,USER_0008,14,Uber,Chennai,RuPay,False
+B2E659F3,3418.25,USER_0041,14,Reliance Mart,Ahmedabad,Amex,False
+614E136F,1889.45,USER_0019,9,MedPlus Pharmacy,Chennai,Amex,False
+33FEB115,3407.3,USER_0039,22,WireTransfer_Global,Pune,Mastercard,True

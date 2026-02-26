@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1BA1EC79,3301.78,USER_0009,4,Reliance Mart,Kolkata,Mastercard,False
+EE64CA86,6344.63,USER_0017,0,Myntra,Mumbai,Mastercard,False
+4158826E,2148.57,USER_0016,21,Zomato,Chennai,Visa,False
+56A4DA01,4410.51,USER_0043,16,CryptoExchange_BuyBit,Delhi,Visa,True
+BF68BF54,327.36,USER_0038,6,Reliance Mart,Bangalore,Mastercard,False
+611E9420,3269.15,USER_0049,20,Reliance Mart,Jaipur,RuPay,False

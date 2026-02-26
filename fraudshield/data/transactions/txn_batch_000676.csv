@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DB2C633F,912.85,USER_0005,9,CryptoExchange_BuyBit,Chennai,RuPay,True
+63899914,3965.39,USER_0036,4,Ola,Hyderabad,Amex,False
+4374B793,2380.26,USER_0008,19,IRCTC,Surat,Amex,False

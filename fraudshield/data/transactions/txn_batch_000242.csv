@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C6D88D68,1707.62,USER_0002,10,WireTransfer_Global,Delhi,Amex,True
+9885F61F,4249.78,USER_0005,15,D-Mart,Hyderabad,Amex,False
+53648777,3854.47,USER_0038,19,Zomato,Delhi,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5E810585,2753.54,USER_0013,14,WireTransfer_Global,Bangalore,Amex,True
+0F79F59C,5051.03,USER_0016,3,WireTransfer_Global,Ahmedabad,Mastercard,True
+8493B006,4281.03,USER_0022,16,Amazon,Bangalore,Mastercard,False
+9CC47C22,5700.04,USER_0018,4,D-Mart,Surat,RuPay,False

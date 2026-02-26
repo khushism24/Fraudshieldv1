@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+495FF433,20337.81,USER_0001,2,D-Mart,Bangalore,Visa,False
+EC2AFD45,693.59,USER_0022,3,WireTransfer_Global,Chennai,Amex,True
+59501486,2556.71,USER_0023,21,CryptoExchange_BuyBit,Mumbai,Mastercard,True

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FBA6556F,296.36,USER_0042,8,Ola,Mumbai,RuPay,False
+9026DE8B,2681.68,USER_0029,0,Swiggy,Ahmedabad,Visa,False
+2FA2B226,796.22,USER_0008,10,BigBasket,Surat,RuPay,False
+53522A8F,12271.81,USER_0017,4,BookMyShow,Jaipur,RuPay,False
+913B6697,1615.46,USER_0009,12,Flipkart,Kolkata,Visa,False
+704660E2,18296.79,USER_0027,0,Reliance Mart,Ahmedabad,RuPay,False
+520DADE7,2492.22,USER_0033,11,Myntra,Mumbai,Visa,False
+2A876382,1849.81,USER_0034,15,Myntra,Ahmedabad,RuPay,False

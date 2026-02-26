@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F56EF111,10726.31,USER_0027,5,Flipkart,Surat,Mastercard,False
+33E3F931,2227.11,USER_0002,19,IRCTC,Mumbai,Visa,False
+BDC94589,4302.21,USER_0014,21,CasinoRoyal,Kolkata,Visa,True
+EC0561AA,3472.22,USER_0023,2,BigBasket,Hyderabad,Visa,False
+86D9220E,3653.77,USER_0025,7,Myntra,Pune,Amex,False
+9440F5E0,980.85,USER_0014,12,Amazon,Jaipur,Visa,False

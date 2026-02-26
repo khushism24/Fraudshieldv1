@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EC44B343,377.63,USER_0045,7,CryptoExchange_BuyBit,Chennai,Visa,True
+0F710F52,3387.12,USER_0029,6,BigBasket,Chennai,Mastercard,False
+B7128781,3355.62,USER_0025,7,Reliance Mart,Jaipur,Mastercard,False

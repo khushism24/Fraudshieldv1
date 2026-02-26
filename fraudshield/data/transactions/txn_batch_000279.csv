@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3E7894A4,2582.16,USER_0007,15,CasinoRoyal,Kolkata,RuPay,True
+3D4CE5D6,4125.24,USER_0001,16,MedPlus Pharmacy,Chennai,Mastercard,False
+380181B4,3446.42,USER_0005,11,WireTransfer_Global,Jaipur,Amex,True
+C48D8239,2037.58,USER_0048,5,IRCTC,Ahmedabad,Amex,False

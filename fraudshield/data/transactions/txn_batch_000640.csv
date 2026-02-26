@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+88362D1B,2744.63,USER_0038,23,Flipkart,Hyderabad,Amex,False
+59AC59F8,1819.96,USER_0027,16,Myntra,Pune,Visa,False
+93340572,18302.82,USER_0011,0,CryptoExchange_BuyBit,Kolkata,Visa,True
+72C0F701,10430.69,USER_0012,2,Uber,Chennai,Amex,False

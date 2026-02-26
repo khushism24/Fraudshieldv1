@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+979D97FD,75.59,USER_0041,23,MedPlus Pharmacy,Hyderabad,Mastercard,False
+FD683748,3285.42,USER_0046,9,CasinoRoyal,Bangalore,Amex,True
+87DA25A1,3656.06,USER_0031,15,Myntra,Bangalore,Mastercard,False
+265346EE,1482.16,USER_0031,18,CryptoExchange_BuyBit,Bangalore,Mastercard,True

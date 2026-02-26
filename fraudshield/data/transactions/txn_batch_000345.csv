@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+74FD75B6,737.36,USER_0001,5,Flipkart,Pune,Visa,False
+2E184E9F,1381.74,USER_0016,23,CryptoExchange_BuyBit,Pune,RuPay,True
+7D71F4DF,2707.89,USER_0004,10,Netflix,Bangalore,RuPay,False
+C4CE236B,4454.38,USER_0004,21,D-Mart,Bangalore,Mastercard,False
+D94F2414,2721.14,USER_0026,16,D-Mart,Kolkata,Mastercard,False
+CFD2A5E2,2376.75,USER_0024,8,CasinoRoyal,Pune,Visa,True
+E4389E7C,2357.59,USER_0046,15,BookMyShow,Hyderabad,RuPay,False
+BD49F184,3310.24,USER_0029,18,D-Mart,Kolkata,Visa,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C030EE08,979.38,USER_0037,21,Ola,Jaipur,Visa,False
+BEDE0FD6,10222.94,USER_0004,2,MedPlus Pharmacy,Surat,Visa,False
+942637F9,1592.98,USER_0004,7,Swiggy,Hyderabad,RuPay,False

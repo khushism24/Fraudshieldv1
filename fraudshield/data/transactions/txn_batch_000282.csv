@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3A1789F8,162.79,USER_0005,7,Zomato,Mumbai,Visa,False
+9697574D,4354.29,USER_0023,14,Swiggy,Hyderabad,Mastercard,False
+DC5CF7D9,581.55,USER_0048,13,Flipkart,Hyderabad,Mastercard,False

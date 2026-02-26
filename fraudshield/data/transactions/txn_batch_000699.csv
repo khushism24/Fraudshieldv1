@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9A563324,2582.23,USER_0016,23,Reliance Mart,Surat,RuPay,False
+AF5075ED,3963.75,USER_0021,16,Swiggy,Pune,RuPay,False
+8A01423A,3638.2,USER_0011,7,Zomato,Kolkata,Mastercard,False
+36E1953C,1516.2,USER_0022,12,Reliance Mart,Kolkata,Amex,False
+096ED6A6,2643.57,USER_0039,15,Flipkart,Jaipur,Mastercard,False
+12D84E5E,1180.2,USER_0034,17,Myntra,Kolkata,Visa,False
+EC53C92F,912.31,USER_0037,18,Flipkart,Ahmedabad,Mastercard,False

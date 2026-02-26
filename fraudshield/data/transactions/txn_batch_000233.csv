@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B478A1EC,1595.07,USER_0016,8,IRCTC,Kolkata,Mastercard,False
+0C4D6450,4219.96,USER_0038,19,BookMyShow,Bangalore,Visa,False
+1639CD44,4010.8,USER_0040,16,Amazon,Ahmedabad,Visa,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+466DD283,3701.15,USER_0002,11,BookMyShow,Surat,Visa,False
+BBA3AB86,1400.27,USER_0040,9,Myntra,Mumbai,Amex,False
+26E8DE76,1656.83,USER_0002,10,Reliance Mart,Pune,Amex,False
+C1CC21E7,3740.73,USER_0029,15,Reliance Mart,Delhi,Mastercard,False
+88059F0A,3718.48,USER_0015,10,D-Mart,Ahmedabad,Mastercard,False

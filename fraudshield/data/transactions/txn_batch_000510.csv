@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B4FC52B9,11925.05,USER_0021,4,BookMyShow,Chennai,Visa,False
+AB477F1D,156.59,USER_0005,19,Amazon,Kolkata,Visa,False
+5ACEB3AC,3990.23,USER_0033,6,CryptoExchange_BuyBit,Chennai,Mastercard,True
+69F19B7F,531.73,USER_0039,18,Swiggy,Mumbai,Visa,False
+AA00337D,80.46,USER_0030,21,CasinoRoyal,Kolkata,Visa,True

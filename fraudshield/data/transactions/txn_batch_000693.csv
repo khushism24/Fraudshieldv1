@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+00A1D15D,1577.08,USER_0025,8,CryptoExchange_BuyBit,Bangalore,Visa,True
+096F4976,24226.84,USER_0009,0,WireTransfer_Global,Jaipur,Amex,True
+FE4FF79E,3171.15,USER_0016,15,MedPlus Pharmacy,Delhi,Amex,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C59539AD,9854.07,USER_0016,1,Zomato,Chennai,Visa,False
+6E6B2A52,1505.91,USER_0037,5,Zomato,Kolkata,Mastercard,False
+4E0D72C1,376.09,USER_0003,6,Flipkart,Chennai,Amex,False
+6BC11786,3732.64,USER_0022,3,BigBasket,Pune,Amex,False
+16962A58,1357.94,USER_0003,11,D-Mart,Ahmedabad,Mastercard,False
+4F32D15C,1513.33,USER_0018,11,WireTransfer_Global,Kolkata,Visa,True
+3B1C8E65,2588.12,USER_0005,12,Amazon,Hyderabad,Mastercard,False

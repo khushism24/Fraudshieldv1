@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8777D421,3766.08,USER_0022,13,Ola,Mumbai,RuPay,False
+D181534E,4031.35,USER_0022,4,Netflix,Surat,Amex,False
+EE303D9C,2795.84,USER_0031,14,CryptoExchange_BuyBit,Bangalore,Amex,True
+3D0337E2,4068.67,USER_0010,14,Ola,Ahmedabad,Visa,False
+453F3C86,2165.81,USER_0003,2,CryptoExchange_BuyBit,Jaipur,Visa,True
+C247966E,3801.32,USER_0010,19,BookMyShow,Hyderabad,RuPay,False
+CEEB1475,4329.45,USER_0007,10,Reliance Mart,Surat,RuPay,False

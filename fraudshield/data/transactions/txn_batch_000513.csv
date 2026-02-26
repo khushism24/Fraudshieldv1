@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AFBC6A2A,2662.67,USER_0012,14,MedPlus Pharmacy,Ahmedabad,Amex,False
+C1BAE343,4421.67,USER_0020,14,BookMyShow,Bangalore,Visa,False
+64F45A27,782.23,USER_0029,9,Flipkart,Delhi,Mastercard,False
+C5C7A3D5,2853.25,USER_0026,21,CryptoExchange_BuyBit,Chennai,RuPay,True
+72F96260,2144.73,USER_0010,17,MedPlus Pharmacy,Hyderabad,Visa,False
+620878A2,3447.31,USER_0006,16,Myntra,Bangalore,Mastercard,False

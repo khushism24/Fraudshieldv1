@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D74E0DD0,3912.3,USER_0038,0,Uber,Chennai,RuPay,False
+3F5875F0,607.19,USER_0020,23,Netflix,Bangalore,Visa,False
+DD3B9D3E,2947.94,USER_0038,15,D-Mart,Ahmedabad,RuPay,False

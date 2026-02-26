@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C3B385AF,1028.7,USER_0045,6,Ola,Ahmedabad,Amex,False
+066D82F1,3072.15,USER_0037,17,Flipkart,Bangalore,Mastercard,False
+2981B4B5,1713.93,USER_0009,17,BookMyShow,Mumbai,Amex,False
+193D93B6,3929.54,USER_0027,10,Ola,Delhi,RuPay,False

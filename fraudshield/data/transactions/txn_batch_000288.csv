@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8C8E3EE6,1213.6,USER_0050,18,Swiggy,Mumbai,RuPay,False
+FE5251E9,4083.18,USER_0007,11,Flipkart,Jaipur,Amex,False
+BE1FD202,18853.43,USER_0033,3,Swiggy,Jaipur,Visa,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1633B871,696.23,USER_0044,9,WireTransfer_Global,Ahmedabad,Mastercard,True
+AC706870,19619.56,USER_0021,3,Myntra,Hyderabad,Amex,False
+77C25F41,4131.1,USER_0034,15,Zomato,Ahmedabad,Visa,False
+FF4431D0,2880.06,USER_0048,11,Amazon,Delhi,Amex,False
+BF14764D,4149.94,USER_0034,16,IRCTC,Pune,Amex,False
+DE3DAD94,4136.49,USER_0009,13,Swiggy,Ahmedabad,RuPay,False

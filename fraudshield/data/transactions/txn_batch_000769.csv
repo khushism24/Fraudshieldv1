@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C784DEC1,1049.42,USER_0034,6,Flipkart,Delhi,Amex,False
+11127CF8,4282.8,USER_0044,20,BigBasket,Ahmedabad,Amex,False
+BE53A206,2008.5,USER_0033,13,Uber,Jaipur,RuPay,False
+56F069F0,18953.23,USER_0039,2,WireTransfer_Global,Jaipur,RuPay,True
+7D584EA5,520.1,USER_0008,23,Reliance Mart,Mumbai,RuPay,False
+D82A5D5E,3809.32,USER_0030,20,WireTransfer_Global,Pune,RuPay,True
+92C30F48,1870.48,USER_0040,8,Ola,Ahmedabad,RuPay,False
+B158EF2E,6625.55,USER_0030,1,Ola,Hyderabad,Mastercard,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+87E9236F,2463.04,USER_0048,18,BookMyShow,Hyderabad,Mastercard,False
+5ACD660C,3835.2,USER_0010,12,IRCTC,Bangalore,Amex,False
+66222BAC,2746.44,USER_0040,21,Ola,Jaipur,Visa,False
+53B410DC,2600.7,USER_0049,16,BigBasket,Jaipur,Mastercard,False
+42A74074,3565.84,USER_0019,22,Netflix,Pune,Mastercard,False

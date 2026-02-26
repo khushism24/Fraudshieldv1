@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1FFE9637,4019.15,USER_0003,7,Ola,Hyderabad,Amex,False
+7F6B98FC,361.61,USER_0012,22,Ola,Chennai,Amex,False
+87307453,15812.79,USER_0047,5,Ola,Kolkata,RuPay,False
+85DDD445,21022.28,USER_0047,4,WireTransfer_Global,Mumbai,Visa,True
+11C3AA9D,234.65,USER_0047,19,CryptoExchange_BuyBit,Jaipur,Amex,True

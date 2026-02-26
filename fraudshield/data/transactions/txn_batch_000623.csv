@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ED68216B,3106.8,USER_0006,12,BookMyShow,Hyderabad,Amex,False
+85EFCFB1,4115.37,USER_0008,5,Zomato,Surat,RuPay,False
+66B849E7,1345.84,USER_0026,16,Zomato,Jaipur,Mastercard,False
+CE7B3C07,8079.07,USER_0010,2,MedPlus Pharmacy,Surat,Amex,False
+3447E17C,2764.83,USER_0033,1,CryptoExchange_BuyBit,Kolkata,Amex,True
+4F6DD42F,4195.34,USER_0003,23,Myntra,Mumbai,Amex,False
+E5E2A6DF,4484.48,USER_0044,18,BigBasket,Surat,Mastercard,False

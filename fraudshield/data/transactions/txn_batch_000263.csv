@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+210C664A,1282.76,USER_0039,13,WireTransfer_Global,Chennai,Amex,True
+742B8404,2455.22,USER_0022,14,Ola,Mumbai,Amex,False
+60A94FF4,10235.7,USER_0026,1,CryptoExchange_BuyBit,Kolkata,RuPay,True
+ABA0F7DC,7990.38,USER_0022,0,MedPlus Pharmacy,Delhi,Mastercard,False
+C3D32358,3678.73,USER_0014,16,Myntra,Kolkata,Mastercard,False
+3073A01E,4186.68,USER_0040,8,CryptoExchange_BuyBit,Kolkata,Mastercard,True

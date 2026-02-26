@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FA5C1A3B,2359.99,USER_0001,19,Ola,Kolkata,Visa,False
+11510534,2825.04,USER_0048,17,IRCTC,Ahmedabad,Mastercard,False
+6FAA11B4,2504.42,USER_0046,19,CryptoExchange_BuyBit,Jaipur,RuPay,True
+D434CA59,4084.2,USER_0006,10,Netflix,Delhi,Mastercard,False
+2ABD4FE1,371.07,USER_0041,19,CasinoRoyal,Jaipur,Mastercard,True
+914D505B,1587.54,USER_0032,7,Ola,Ahmedabad,RuPay,False

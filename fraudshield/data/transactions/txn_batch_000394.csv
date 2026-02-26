@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5B4A69E9,3834.36,USER_0007,14,Zomato,Chennai,Mastercard,False
+17BCBD9C,4015.7,USER_0020,16,Amazon,Surat,Visa,False
+D508A2F4,21433.78,USER_0031,5,BigBasket,Pune,RuPay,False
+08045500,498.38,USER_0017,21,BookMyShow,Surat,Amex,False
+2A9F61CC,1111.71,USER_0044,5,D-Mart,Bangalore,Amex,False
+8FCD5019,3252.83,USER_0010,20,Netflix,Mumbai,Visa,False

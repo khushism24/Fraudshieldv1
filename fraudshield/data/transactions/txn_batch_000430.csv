@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5AC3CA63,4037.9,USER_0008,20,WireTransfer_Global,Hyderabad,Visa,True
+9D6B3F0C,1827.9,USER_0010,23,MedPlus Pharmacy,Chennai,Visa,False
+AE0C35F3,938.46,USER_0014,19,MedPlus Pharmacy,Hyderabad,Mastercard,False
+53DD99CC,4454.59,USER_0018,11,BigBasket,Ahmedabad,Amex,False
+A176CDCD,2254.94,USER_0030,19,Zomato,Bangalore,RuPay,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9A903ABD,4368.25,USER_0008,12,Amazon,Kolkata,Mastercard,False
+C033E565,2732.69,USER_0011,8,WireTransfer_Global,Pune,Amex,True
+3B51104E,18093.33,USER_0030,1,BookMyShow,Bangalore,Visa,False
+ADE870C7,1170.24,USER_0025,14,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+CD551462,20415.34,USER_0020,0,Swiggy,Pune,RuPay,False
+91311808,3538.7,USER_0022,22,MedPlus Pharmacy,Bangalore,RuPay,False
+EB772EF6,1451.67,USER_0020,15,Swiggy,Hyderabad,Amex,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B8181CC5,13457.44,USER_0024,3,BigBasket,Delhi,Amex,False
+1CD75378,2179.61,USER_0020,7,IRCTC,Pune,RuPay,False
+91016E61,2317.74,USER_0002,9,MedPlus Pharmacy,Mumbai,Amex,False
+EE3842C4,3047.22,USER_0019,5,WireTransfer_Global,Jaipur,Amex,True

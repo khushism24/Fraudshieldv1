@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8191151D,1586.12,USER_0026,16,Ola,Delhi,Amex,False
+21D2F657,22827.44,USER_0007,3,Swiggy,Jaipur,Amex,False
+E4CEE331,510.02,USER_0028,19,Amazon,Surat,Visa,False

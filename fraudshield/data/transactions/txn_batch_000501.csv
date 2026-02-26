@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DAC1CBB9,3691.52,USER_0018,6,Reliance Mart,Pune,Amex,False
+192C6C79,20072.94,USER_0035,2,WireTransfer_Global,Hyderabad,Amex,True
+1F669216,4295.0,USER_0039,4,BookMyShow,Ahmedabad,Amex,False

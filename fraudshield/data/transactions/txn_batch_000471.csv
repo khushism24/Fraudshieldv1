@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+73CF861D,265.98,USER_0034,20,BookMyShow,Bangalore,Mastercard,False
+30F56106,3934.17,USER_0028,19,MedPlus Pharmacy,Surat,Mastercard,False
+BADE6CF8,196.04,USER_0044,19,BigBasket,Bangalore,Amex,False

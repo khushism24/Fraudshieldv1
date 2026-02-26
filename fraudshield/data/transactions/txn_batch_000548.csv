@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2D3E2F2F,4488.72,USER_0022,13,Amazon,Jaipur,RuPay,False
+94739EFF,20635.69,USER_0043,0,Reliance Mart,Ahmedabad,Amex,False
+F24E4D34,5708.15,USER_0042,4,BookMyShow,Ahmedabad,Mastercard,False
+D22C85FB,3066.68,USER_0020,18,IRCTC,Bangalore,Amex,False

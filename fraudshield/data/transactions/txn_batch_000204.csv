@@ -1,8 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-76179F5C,2758.9,USER_0050,16,MedPlus Pharmacy,Ahmedabad,RuPay,False
-966EF3C0,2704.11,USER_0050,8,Flipkart,Bangalore,RuPay,False
-92458063,4432.4,USER_0029,15,Ola,Chennai,Mastercard,False
-7058C0B5,3582.22,USER_0014,11,Myntra,Delhi,Visa,False
-859AA3AF,11739.42,USER_0001,0,BookMyShow,Bangalore,Mastercard,False
-2B8E2E42,2601.06,USER_0050,21,Zomato,Chennai,RuPay,False
-A443F63F,3126.88,USER_0019,9,CryptoExchange_BuyBit,Pune,RuPay,True
+18CF6E5B,2501.08,USER_0049,9,BigBasket,Surat,Visa,False
+6DB4E9F5,1635.74,USER_0008,19,Ola,Bangalore,RuPay,False
+87381BA3,3945.24,USER_0004,10,MedPlus Pharmacy,Kolkata,Mastercard,False
+0D538F30,22784.47,USER_0005,5,Amazon,Pune,Visa,False
+A5939CC6,4102.67,USER_0035,11,IRCTC,Delhi,Amex,False
+9524A1EC,1842.49,USER_0002,21,WireTransfer_Global,Ahmedabad,Visa,True
+BF1AACCF,23103.2,USER_0024,0,D-Mart,Ahmedabad,Amex,False

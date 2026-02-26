@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2292A0C3,4072.17,USER_0037,8,CryptoExchange_BuyBit,Kolkata,RuPay,True
+B9C2DACA,5523.55,USER_0045,4,D-Mart,Kolkata,RuPay,False
+BC3AF05E,21189.1,USER_0035,5,Amazon,Pune,Amex,False
+8D8114AD,868.21,USER_0001,14,Swiggy,Delhi,RuPay,False
+10B69EA9,986.11,USER_0007,12,CasinoRoyal,Hyderabad,Visa,True
+DE353A21,4192.55,USER_0033,18,Flipkart,Delhi,Visa,False
+617D75EE,4141.47,USER_0040,22,Swiggy,Surat,Amex,False

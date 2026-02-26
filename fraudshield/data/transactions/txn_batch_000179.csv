@@ -1,5 +1,6 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-493C4B24,4357.46,USER_0034,10,WireTransfer_Global,Jaipur,Visa,True
-8D353A9D,282.42,USER_0042,23,IRCTC,Surat,RuPay,False
-B3D34FD0,14298.18,USER_0028,3,Reliance Mart,Jaipur,Mastercard,False
-8F19B49F,2286.72,USER_0013,14,Netflix,Hyderabad,RuPay,False
+8DE866B1,459.68,USER_0003,17,MedPlus Pharmacy,Hyderabad,Amex,False
+597CD6CE,228.88,USER_0012,15,WireTransfer_Global,Pune,RuPay,True
+B78B570C,1047.82,USER_0002,21,CasinoRoyal,Surat,Amex,True
+7F0B8941,21637.93,USER_0008,5,Zomato,Jaipur,Mastercard,False
+D3320A60,4228.85,USER_0015,14,Amazon,Pune,RuPay,False

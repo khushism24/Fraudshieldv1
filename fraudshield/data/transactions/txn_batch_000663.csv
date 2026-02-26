@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6EB43AB4,4442.2,USER_0048,14,WireTransfer_Global,Hyderabad,RuPay,True
+8964DA6E,3031.37,USER_0014,21,Zomato,Hyderabad,RuPay,False
+6FFDA7BC,2936.84,USER_0005,13,Myntra,Kolkata,Visa,False
+FDAA4DFA,657.02,USER_0019,11,Zomato,Jaipur,Amex,False
+5A9320E8,782.96,USER_0028,12,Ola,Surat,Mastercard,False
+9AB92993,2286.83,USER_0024,21,Uber,Kolkata,Amex,False
+788AB5E2,4066.53,USER_0039,10,Reliance Mart,Kolkata,Visa,False
+D55B6117,2245.96,USER_0007,1,CryptoExchange_BuyBit,Surat,Mastercard,True

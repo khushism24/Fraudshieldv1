@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B6E352B0,22036.31,USER_0004,3,Myntra,Chennai,Amex,False
+93D00667,2471.82,USER_0023,14,Netflix,Ahmedabad,Visa,False
+DBEF84BD,3842.7,USER_0035,0,Myntra,Kolkata,Mastercard,False
+FAB4CC58,4768.44,USER_0008,2,Flipkart,Hyderabad,Mastercard,False
+10A98764,3121.2,USER_0032,20,Reliance Mart,Delhi,Visa,False
+F553C4B6,1798.02,USER_0036,5,Zomato,Ahmedabad,Amex,False

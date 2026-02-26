@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5F26C3F4,4155.16,USER_0041,0,CryptoExchange_BuyBit,Pune,Mastercard,True
+249536FD,4475.2,USER_0009,23,WireTransfer_Global,Delhi,Mastercard,True
+CA8316D3,1293.36,USER_0049,11,Amazon,Surat,Mastercard,False
+791B7481,2616.49,USER_0012,19,MedPlus Pharmacy,Ahmedabad,RuPay,False
+8A08AC3B,4100.83,USER_0019,14,MedPlus Pharmacy,Hyderabad,Amex,False

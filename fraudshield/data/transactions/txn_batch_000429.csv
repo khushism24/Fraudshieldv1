@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+908EE156,1774.34,USER_0031,16,Reliance Mart,Surat,RuPay,False
+531CA32B,4437.62,USER_0032,15,CasinoRoyal,Delhi,Mastercard,True
+83C0B08C,2709.65,USER_0042,4,Ola,Pune,Amex,False
+2C3026FE,2915.32,USER_0014,12,Zomato,Bangalore,Mastercard,False
+0D0FCC02,2290.06,USER_0043,17,Swiggy,Chennai,Visa,False
+9B08F58F,7269.77,USER_0039,4,Myntra,Bangalore,Mastercard,False
+4784DA54,2100.92,USER_0012,19,WireTransfer_Global,Pune,RuPay,True

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+474AD46D,1743.72,USER_0036,19,Swiggy,Chennai,Amex,False
+F3F2F71E,13996.74,USER_0018,1,BookMyShow,Ahmedabad,Mastercard,False
+E05BB726,853.64,USER_0036,23,Amazon,Hyderabad,Amex,False
+4DF22D78,2106.12,USER_0006,11,Flipkart,Hyderabad,RuPay,False
+5329DF1F,592.54,USER_0048,11,Swiggy,Kolkata,RuPay,False
+01057351,214.52,USER_0032,19,Amazon,Delhi,Visa,False
+271D26F1,3052.07,USER_0013,15,IRCTC,Delhi,RuPay,False
+5B5FD6A2,4197.38,USER_0015,17,MedPlus Pharmacy,Delhi,Visa,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2A82530C,3475.18,USER_0025,2,Myntra,Chennai,Mastercard,False
+03168B23,2191.93,USER_0002,8,Amazon,Bangalore,Mastercard,False
+42AD0197,7113.22,USER_0009,3,Reliance Mart,Kolkata,Visa,False
+A6276236,4406.47,USER_0031,6,D-Mart,Surat,Mastercard,False
+5DB42201,582.68,USER_0031,4,CryptoExchange_BuyBit,Pune,RuPay,True
+16263540,1495.83,USER_0035,3,Myntra,Jaipur,Visa,False

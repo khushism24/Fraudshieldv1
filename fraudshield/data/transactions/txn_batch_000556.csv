@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BCDAF1A5,899.57,USER_0036,21,Swiggy,Hyderabad,Amex,False
+D793B545,4262.28,USER_0035,20,Amazon,Surat,Amex,False
+FE86BB5B,1988.23,USER_0032,3,Reliance Mart,Chennai,RuPay,False
+DEF52648,1260.87,USER_0012,1,WireTransfer_Global,Hyderabad,RuPay,True
+45E6F915,2264.23,USER_0038,11,Ola,Jaipur,RuPay,False

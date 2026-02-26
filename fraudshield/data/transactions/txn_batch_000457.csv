@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C9AC8309,4781.3,USER_0026,2,CasinoRoyal,Chennai,RuPay,True
+60E94F05,15423.01,USER_0012,1,BookMyShow,Hyderabad,Amex,False
+DC49658E,4888.03,USER_0014,5,Flipkart,Bangalore,RuPay,False
+C8EFF852,1624.58,USER_0030,22,MedPlus Pharmacy,Bangalore,Amex,False
+672F11EF,20237.12,USER_0016,1,BookMyShow,Ahmedabad,RuPay,False
+47413912,1927.41,USER_0022,17,Uber,Jaipur,RuPay,False
+44881B11,2504.08,USER_0042,6,BookMyShow,Kolkata,RuPay,False

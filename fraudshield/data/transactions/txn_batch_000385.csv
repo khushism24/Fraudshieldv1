@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4C0E74B6,2848.57,USER_0022,11,WireTransfer_Global,Jaipur,Visa,True
+7AB91451,1772.72,USER_0050,8,CasinoRoyal,Delhi,RuPay,True
+376F3EE0,722.58,USER_0049,13,Myntra,Chennai,RuPay,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+25DEFF91,4606.91,USER_0045,3,Uber,Kolkata,RuPay,False
+3BE16C04,1582.2,USER_0008,10,WireTransfer_Global,Ahmedabad,RuPay,True
+DD626EA2,609.77,USER_0029,14,Reliance Mart,Delhi,Visa,False
+0415B8E4,1471.44,USER_0045,12,Reliance Mart,Ahmedabad,Visa,False

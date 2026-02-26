@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+21EFD0B1,2363.17,USER_0047,22,Zomato,Ahmedabad,Visa,False
+C9905FB9,251.08,USER_0042,12,Uber,Mumbai,RuPay,False
+88A6CB8A,883.68,USER_0035,4,D-Mart,Pune,Amex,False
+B51FAA40,513.3,USER_0040,12,Netflix,Delhi,Amex,False
+FC944C7A,16437.74,USER_0010,2,Reliance Mart,Jaipur,RuPay,False

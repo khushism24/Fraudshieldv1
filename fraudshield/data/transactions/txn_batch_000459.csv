@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D27476E9,4185.21,USER_0006,7,Swiggy,Hyderabad,Amex,False
+6DEF66A6,1871.94,USER_0011,5,CasinoRoyal,Kolkata,RuPay,True
+A0EB1023,4035.79,USER_0026,15,IRCTC,Ahmedabad,Mastercard,False
+20B33CA8,637.04,USER_0017,4,Amazon,Delhi,Amex,False
+BE68BA28,3392.04,USER_0023,7,WireTransfer_Global,Ahmedabad,RuPay,True
+C5320C10,640.04,USER_0021,23,IRCTC,Bangalore,RuPay,False
+64A4FB65,3471.85,USER_0002,9,Myntra,Bangalore,Amex,False
+6D329F23,3211.43,USER_0049,15,Ola,Kolkata,RuPay,False

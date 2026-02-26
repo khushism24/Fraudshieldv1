@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5A6A1963,146.98,USER_0029,23,BookMyShow,Delhi,Mastercard,False
+4C95435C,3310.24,USER_0049,2,Myntra,Jaipur,RuPay,False
+AAC43153,3685.45,USER_0023,6,IRCTC,Hyderabad,Visa,False
+45C49C62,988.47,USER_0044,20,Swiggy,Kolkata,Amex,False
+981E3FD1,1778.32,USER_0005,23,Myntra,Mumbai,Amex,False
+2E314EFD,12118.97,USER_0050,1,Zomato,Pune,Mastercard,False
+5F61FA91,1117.04,USER_0024,19,Flipkart,Surat,Visa,False
+7CEDD113,4188.67,USER_0049,1,Uber,Pune,Mastercard,False

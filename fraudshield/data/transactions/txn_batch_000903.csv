@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C3FE5EDC,3053.44,USER_0018,8,Flipkart,Kolkata,Visa,False
+572D33EC,3516.35,USER_0009,0,Amazon,Delhi,Amex,False
+28FC854D,2928.11,USER_0023,17,Flipkart,Pune,Amex,False
+C798FA0C,250.68,USER_0037,14,CasinoRoyal,Surat,Visa,True
+C0BF8731,4428.5,USER_0040,21,IRCTC,Hyderabad,RuPay,False

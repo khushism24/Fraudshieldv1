@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8A2A51FB,2602.17,USER_0010,14,Uber,Ahmedabad,Mastercard,False
+FA525F93,3393.38,USER_0030,10,CasinoRoyal,Kolkata,Mastercard,True
+3F0607E0,1577.52,USER_0038,21,Swiggy,Chennai,Visa,False

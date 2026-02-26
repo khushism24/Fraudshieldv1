@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1CF9D5B5,1764.01,USER_0026,18,BookMyShow,Mumbai,RuPay,False
+59DAD62B,3393.18,USER_0034,15,BigBasket,Kolkata,Visa,False
+AF764AE2,18902.34,USER_0039,2,WireTransfer_Global,Surat,RuPay,True

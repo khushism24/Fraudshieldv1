@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9FDF6E0A,14070.1,USER_0039,3,Flipkart,Ahmedabad,Mastercard,False
+F3B999E9,3233.61,USER_0048,22,D-Mart,Ahmedabad,Amex,False
+30D30F10,4903.19,USER_0035,2,Zomato,Surat,Visa,False
+43682FCB,927.1,USER_0042,23,Reliance Mart,Hyderabad,Mastercard,False
+065D4647,683.68,USER_0006,0,Ola,Surat,RuPay,False
+AA4E75EE,220.48,USER_0030,14,Myntra,Pune,Visa,False
+B131EC67,4165.71,USER_0048,13,IRCTC,Ahmedabad,Visa,False
+BCDD71A9,18389.28,USER_0001,5,IRCTC,Hyderabad,Visa,False

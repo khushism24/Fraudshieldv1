@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9E03F398,3292.04,USER_0020,6,IRCTC,Mumbai,Visa,False
+60EA3E42,3662.25,USER_0044,10,Zomato,Delhi,Mastercard,False
+E240BF95,649.01,USER_0006,6,IRCTC,Mumbai,Mastercard,False
+9D155E93,1059.78,USER_0027,16,Netflix,Kolkata,RuPay,False
+9980A6D5,3293.88,USER_0039,5,Amazon,Bangalore,RuPay,False
+A69D907B,2663.82,USER_0011,17,BigBasket,Surat,Visa,False
+A7CA59AD,3554.39,USER_0033,6,Reliance Mart,Pune,RuPay,False

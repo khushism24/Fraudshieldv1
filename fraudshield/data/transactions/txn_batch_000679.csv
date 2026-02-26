@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0C34C598,2622.51,USER_0020,18,Swiggy,Surat,Mastercard,False
+90FDF218,13762.14,USER_0034,2,Flipkart,Delhi,Mastercard,False
+26C924DC,553.57,USER_0015,6,WireTransfer_Global,Hyderabad,Visa,True
+A7CA7F86,957.87,USER_0041,11,WireTransfer_Global,Chennai,Mastercard,True
+B9B0D538,4491.05,USER_0020,17,Netflix,Pune,Mastercard,False
+EC4A452A,1855.06,USER_0024,9,Ola,Delhi,RuPay,False
+78816518,188.18,USER_0047,10,BigBasket,Jaipur,Visa,False
+84BEB01B,4077.82,USER_0012,18,Flipkart,Jaipur,Amex,False

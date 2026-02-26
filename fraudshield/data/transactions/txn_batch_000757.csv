@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8201BC92,1869.28,USER_0043,3,Uber,Delhi,RuPay,False
+EE844FC1,3343.32,USER_0026,0,D-Mart,Delhi,Amex,False
+A962D8E8,11054.77,USER_0025,2,CasinoRoyal,Chennai,Mastercard,True

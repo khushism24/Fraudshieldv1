@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BAC4F05B,2645.74,USER_0010,10,Uber,Pune,Visa,False
+F70D6CA5,1738.04,USER_0038,15,Myntra,Ahmedabad,Mastercard,False
+E977BBA2,1363.9,USER_0024,19,Amazon,Mumbai,Mastercard,False

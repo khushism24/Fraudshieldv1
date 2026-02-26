@@ -1,6 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-AA9346AF,1025.86,USER_0042,21,BigBasket,Delhi,Visa,False
-A97DFC90,17740.26,USER_0003,4,BigBasket,Ahmedabad,Amex,False
-2A32E8C0,3514.51,USER_0038,16,CasinoRoyal,Surat,RuPay,True
-A732A7D9,2120.59,USER_0035,11,MedPlus Pharmacy,Bangalore,Visa,False
-642BF10F,17086.15,USER_0021,0,D-Mart,Surat,RuPay,False
+AFC1E92A,3005.53,USER_0028,9,Zomato,Ahmedabad,Amex,False
+E840FBF1,2858.91,USER_0044,7,Netflix,Mumbai,RuPay,False
+6ACC968C,3810.11,USER_0001,6,Ola,Delhi,Visa,False
+06107434,10556.15,USER_0039,3,MedPlus Pharmacy,Bangalore,RuPay,False
+F2E4CFAB,1003.73,USER_0014,17,Flipkart,Chennai,Mastercard,False
+3547E1EE,2633.07,USER_0039,19,Zomato,Hyderabad,Amex,False
+B95F7F7F,624.88,USER_0005,20,IRCTC,Delhi,Amex,False

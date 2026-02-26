@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E1D654D5,7381.93,USER_0050,1,CasinoRoyal,Hyderabad,RuPay,True
+F271021F,898.86,USER_0010,17,Netflix,Delhi,RuPay,False
+5FF61208,1503.24,USER_0030,21,Netflix,Jaipur,Visa,False
+432EC264,3213.81,USER_0045,7,CasinoRoyal,Pune,RuPay,True

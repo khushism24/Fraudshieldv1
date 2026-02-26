@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4F97EBCF,208.39,USER_0006,22,D-Mart,Pune,Visa,False
+9ADB8E59,1740.65,USER_0048,19,Ola,Surat,Visa,False
+5358B113,1260.28,USER_0026,7,Reliance Mart,Delhi,Mastercard,False
+9EA1A8EF,1769.57,USER_0012,18,CryptoExchange_BuyBit,Mumbai,Visa,True

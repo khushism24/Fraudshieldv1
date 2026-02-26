@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0AC4B399,1118.37,USER_0041,20,MedPlus Pharmacy,Ahmedabad,Amex,False
+A06B5608,3030.99,USER_0042,20,BigBasket,Kolkata,Visa,False
+982275E7,3659.1,USER_0028,23,BookMyShow,Pune,Visa,False
+650907BC,1351.14,USER_0045,8,Amazon,Kolkata,RuPay,False

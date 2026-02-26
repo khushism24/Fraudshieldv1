@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6C42614A,4088.43,USER_0013,14,Myntra,Pune,Amex,False
+9CD808AE,1501.51,USER_0019,7,WireTransfer_Global,Bangalore,Amex,True
+FEE963BF,2554.01,USER_0019,10,D-Mart,Chennai,Amex,False

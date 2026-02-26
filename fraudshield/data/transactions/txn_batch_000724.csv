@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2BE5845B,4392.32,USER_0004,4,CasinoRoyal,Surat,RuPay,True
+B2AB47EE,10479.89,USER_0042,2,Reliance Mart,Hyderabad,Mastercard,False
+EF0EE6AC,484.41,USER_0002,19,Myntra,Surat,Amex,False
+8F1AACC1,1312.53,USER_0001,11,Amazon,Bangalore,Mastercard,False
+209DF6D8,1317.37,USER_0029,9,Swiggy,Surat,RuPay,False
+29E4CC0A,16625.58,USER_0020,2,IRCTC,Bangalore,Mastercard,False
+0C49D9EB,1849.41,USER_0013,16,IRCTC,Chennai,Amex,False

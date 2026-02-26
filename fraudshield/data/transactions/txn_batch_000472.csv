@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+21772F7F,1693.83,USER_0020,19,Uber,Jaipur,Amex,False
+00B8CAE1,683.57,USER_0043,12,WireTransfer_Global,Pune,Mastercard,True
+F1CDE6BA,1496.02,USER_0009,17,CryptoExchange_BuyBit,Kolkata,RuPay,True

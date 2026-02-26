@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3C5E1F27,4037.61,USER_0001,20,Flipkart,Hyderabad,Visa,False
+2FECF50D,1740.33,USER_0044,15,D-Mart,Delhi,Visa,False
+B6233F8E,2710.19,USER_0012,18,BookMyShow,Surat,RuPay,False
+1BA1A315,692.66,USER_0022,21,CasinoRoyal,Kolkata,Mastercard,True
+EA023934,1022.15,USER_0016,4,IRCTC,Surat,RuPay,False
+8B461771,2785.25,USER_0007,7,WireTransfer_Global,Kolkata,RuPay,True
+DFD73D3C,6991.7,USER_0010,4,IRCTC,Ahmedabad,Visa,False
+9C032F28,636.29,USER_0021,9,MedPlus Pharmacy,Pune,Amex,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BC6A79CF,1894.05,USER_0035,6,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+CAC703D1,14493.79,USER_0007,3,Zomato,Delhi,Mastercard,False
+1071C0D1,15441.2,USER_0048,3,Zomato,Kolkata,RuPay,False
+6E78EBC6,9446.81,USER_0017,2,BookMyShow,Hyderabad,Amex,False

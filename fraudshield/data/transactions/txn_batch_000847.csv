@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FFF1C85B,1223.24,USER_0004,5,CasinoRoyal,Surat,Amex,True
+6B8F357B,4203.12,USER_0011,10,Myntra,Jaipur,Amex,False
+AB6F0BC5,2106.57,USER_0048,13,Ola,Surat,RuPay,False
+D0AD3E82,2998.51,USER_0043,6,CasinoRoyal,Hyderabad,RuPay,True
+E48EE6CD,2900.51,USER_0040,3,Myntra,Surat,RuPay,False

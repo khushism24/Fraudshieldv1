@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CC9D4879,14237.62,USER_0031,0,IRCTC,Hyderabad,RuPay,False
+AB0DF5DA,58.82,USER_0031,8,WireTransfer_Global,Chennai,Visa,True
+77ED5291,1976.17,USER_0013,23,D-Mart,Delhi,Mastercard,False
+6757078E,3076.44,USER_0040,4,Amazon,Ahmedabad,Mastercard,False
+90544EA1,2090.06,USER_0014,19,Flipkart,Delhi,Visa,False

@@ -1,5 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-D3BB8BA8,2143.76,USER_0035,23,Amazon,Mumbai,RuPay,False
-7E862692,2080.66,USER_0036,11,CasinoRoyal,Bangalore,Amex,True
-DC4F450F,2384.17,USER_0011,7,Reliance Mart,Ahmedabad,RuPay,False
-9A312BE7,24475.1,USER_0004,1,WireTransfer_Global,Surat,Visa,True
+F61C7F1A,4109.29,USER_0021,12,Reliance Mart,Delhi,Visa,False
+5F3EED61,19598.79,USER_0048,1,Flipkart,Jaipur,RuPay,False
+EA3463F2,3619.31,USER_0045,11,Ola,Chennai,Mastercard,False
+98FD79A8,2570.77,USER_0012,13,Amazon,Mumbai,RuPay,False
+9B592A47,13629.8,USER_0025,3,CryptoExchange_BuyBit,Pune,Mastercard,True
+AFE3174C,3223.74,USER_0037,19,Zomato,Bangalore,Mastercard,False
+EE20DD91,1442.28,USER_0016,15,Netflix,Chennai,RuPay,False
+5571A097,4331.49,USER_0049,2,WireTransfer_Global,Kolkata,Visa,True

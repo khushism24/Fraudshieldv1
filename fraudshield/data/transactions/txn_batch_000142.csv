@@ -1,5 +1,4 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-B3B91D08,1625.57,USER_0026,18,CasinoRoyal,Pune,Visa,True
-18113D18,2485.07,USER_0016,5,BigBasket,Surat,Mastercard,False
-772C5F42,3671.96,USER_0028,4,BigBasket,Pune,RuPay,False
-4250F467,2810.54,USER_0015,7,Zomato,Delhi,Amex,False
+E7FE0C2D,2482.04,USER_0018,13,Amazon,Ahmedabad,RuPay,False
+918044D7,71.9,USER_0029,10,MedPlus Pharmacy,Mumbai,Visa,False
+C1C32E14,824.81,USER_0037,8,BigBasket,Delhi,Amex,False

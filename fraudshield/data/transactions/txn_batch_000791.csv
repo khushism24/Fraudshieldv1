@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+43614FB4,1994.01,USER_0015,11,BigBasket,Ahmedabad,Visa,False
+4C0B54A8,1522.27,USER_0041,3,Swiggy,Bangalore,Visa,False
+135CF5EC,2648.3,USER_0033,11,CryptoExchange_BuyBit,Surat,Amex,True

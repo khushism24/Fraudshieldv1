@@ -1,4 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-A5C72371,2447.0,USER_0006,20,Flipkart,Bangalore,Visa,False
-A1A739AE,730.51,USER_0045,11,CryptoExchange_BuyBit,Delhi,Visa,True
-9A5460CC,3963.75,USER_0042,15,Zomato,Chennai,Visa,False
+6FA41B22,4113.64,USER_0017,16,Myntra,Chennai,Mastercard,False
+BF7F1E1E,2993.41,USER_0006,17,D-Mart,Bangalore,Amex,False
+91768E4C,2474.93,USER_0045,18,Amazon,Pune,RuPay,False
+93AA67AD,674.6,USER_0041,7,BigBasket,Kolkata,RuPay,False
+E3692264,423.66,USER_0029,8,Flipkart,Bangalore,RuPay,False
+7ABBF75C,3069.7,USER_0029,14,Uber,Ahmedabad,Visa,False

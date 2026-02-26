@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+69830CE8,761.34,USER_0007,12,MedPlus Pharmacy,Bangalore,Mastercard,False
+D826073B,3289.03,USER_0017,13,Swiggy,Ahmedabad,RuPay,False
+9AC7F6D2,11070.94,USER_0006,3,Netflix,Hyderabad,Mastercard,False
+5CFFFE18,386.45,USER_0002,20,D-Mart,Pune,RuPay,False

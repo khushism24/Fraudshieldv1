@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6319DBC5,4280.82,USER_0012,3,WireTransfer_Global,Jaipur,Mastercard,True
+7F80665A,4036.19,USER_0043,12,CasinoRoyal,Surat,Visa,True
+A0166F74,421.13,USER_0005,21,Uber,Hyderabad,Visa,False
+68F98FF9,92.89,USER_0006,9,IRCTC,Surat,Mastercard,False
+87FB8682,1281.78,USER_0022,18,Swiggy,Pune,RuPay,False
+E9513C93,2097.35,USER_0003,1,Ola,Kolkata,Amex,False
+19716E2C,2743.53,USER_0003,6,CryptoExchange_BuyBit,Delhi,RuPay,True
+EF07E55C,2704.29,USER_0027,20,Myntra,Surat,Visa,False

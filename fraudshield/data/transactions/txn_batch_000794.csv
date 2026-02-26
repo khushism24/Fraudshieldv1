@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CF58EADD,2187.62,USER_0041,13,Amazon,Pune,Visa,False
+C36CC4A0,10685.12,USER_0048,3,Uber,Ahmedabad,RuPay,False
+3B74DDB9,4177.24,USER_0046,23,Uber,Jaipur,RuPay,False
+F85E0624,2627.9,USER_0050,17,Netflix,Ahmedabad,Mastercard,False
+42CD0CB7,2680.07,USER_0043,15,IRCTC,Hyderabad,Mastercard,False

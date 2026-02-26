@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F4BB9CEF,5572.65,USER_0041,2,BigBasket,Ahmedabad,RuPay,False
+51082F39,4511.54,USER_0006,1,WireTransfer_Global,Kolkata,Mastercard,True
+438A61DF,1089.0,USER_0023,20,Myntra,Jaipur,Mastercard,False
+98C59169,3818.44,USER_0039,9,Swiggy,Bangalore,Amex,False
+56116C31,946.15,USER_0005,12,Flipkart,Kolkata,Amex,False
+839259F0,24101.54,USER_0039,2,Zomato,Jaipur,RuPay,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0D17C686,17416.67,USER_0027,5,CasinoRoyal,Jaipur,Amex,True
+98BBD1DA,20281.36,USER_0007,5,D-Mart,Surat,Amex,False
+714CE0DB,3495.77,USER_0046,7,Amazon,Delhi,Amex,False
+60115446,291.85,USER_0003,8,Amazon,Jaipur,Mastercard,False
+AA078694,3528.73,USER_0018,22,Uber,Jaipur,Visa,False
+D72AE027,17639.1,USER_0023,4,Netflix,Hyderabad,Visa,False

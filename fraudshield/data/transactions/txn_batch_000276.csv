@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+96BCCDB7,4086.45,USER_0046,18,Reliance Mart,Mumbai,RuPay,False
+2AC38693,8662.97,USER_0014,0,BigBasket,Pune,Amex,False
+0F4FB59F,4296.01,USER_0028,7,Ola,Bangalore,RuPay,False
+8FC1E557,326.72,USER_0024,20,Myntra,Delhi,Mastercard,False
+2EC09173,2293.9,USER_0036,16,Swiggy,Ahmedabad,Visa,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6A7D00AB,2924.19,USER_0013,15,WireTransfer_Global,Hyderabad,RuPay,True
+239F2CF2,2553.05,USER_0037,16,Netflix,Ahmedabad,Visa,False
+196892A4,199.85,USER_0026,21,IRCTC,Jaipur,Amex,False
+8526403D,1332.19,USER_0005,20,MedPlus Pharmacy,Chennai,RuPay,False
+F1607838,1311.42,USER_0020,8,Uber,Chennai,Amex,False
+7EC38A4A,164.39,USER_0048,16,WireTransfer_Global,Mumbai,Mastercard,True
+A3C742ED,3169.83,USER_0013,13,MedPlus Pharmacy,Jaipur,Visa,False

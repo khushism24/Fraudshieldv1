@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+12300B67,6700.68,USER_0040,1,WireTransfer_Global,Pune,Amex,True
+470AEA3E,2647.82,USER_0029,22,Amazon,Delhi,Visa,False
+2D120232,1516.24,USER_0036,11,BigBasket,Ahmedabad,Amex,False
+0BF9CA40,1513.91,USER_0050,3,BookMyShow,Delhi,Mastercard,False
+4DC1073E,3935.47,USER_0014,22,Amazon,Pune,RuPay,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+26A9ADDD,3993.85,USER_0012,21,MedPlus Pharmacy,Pune,Amex,False
+B116FB50,4826.35,USER_0007,3,Swiggy,Pune,Mastercard,False
+2512336C,245.66,USER_0013,9,WireTransfer_Global,Jaipur,RuPay,True
+775E1BD0,2758.52,USER_0021,16,BookMyShow,Hyderabad,Mastercard,False
+7998D7A7,4463.71,USER_0003,8,Flipkart,Chennai,Mastercard,False

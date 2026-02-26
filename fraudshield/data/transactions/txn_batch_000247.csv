@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1C530B3F,122.89,USER_0033,22,Swiggy,Jaipur,Visa,False
+B3E193B1,3223.97,USER_0028,17,MedPlus Pharmacy,Jaipur,Visa,False
+30E44BE4,770.91,USER_0042,3,WireTransfer_Global,Mumbai,Visa,True
+EAB81FA8,3379.28,USER_0037,7,Zomato,Mumbai,RuPay,False

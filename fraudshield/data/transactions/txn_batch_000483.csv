@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F899F24C,1092.23,USER_0009,3,BookMyShow,Mumbai,RuPay,False
+A8FF52A4,3331.96,USER_0007,14,IRCTC,Kolkata,RuPay,False
+3FBEA343,3094.8,USER_0019,6,Flipkart,Chennai,Mastercard,False
+8C2B6934,1720.01,USER_0022,19,Flipkart,Kolkata,Mastercard,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7D5C98B2,3316.88,USER_0030,18,Swiggy,Jaipur,RuPay,False
+13357611,1553.72,USER_0046,11,BigBasket,Chennai,RuPay,False
+1F12F231,3689.23,USER_0049,8,Flipkart,Bangalore,Visa,False
+99A383DA,1318.41,USER_0006,0,D-Mart,Mumbai,Visa,False
+5B62E885,4253.26,USER_0049,15,CryptoExchange_BuyBit,Bangalore,Mastercard,True

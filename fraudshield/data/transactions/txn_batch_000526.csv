@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EBA5A468,1475.85,USER_0002,16,Zomato,Pune,Visa,False
+BE9C51FA,2285.38,USER_0018,6,WireTransfer_Global,Bangalore,Visa,True
+9D48C697,1929.42,USER_0028,21,Myntra,Kolkata,Visa,False

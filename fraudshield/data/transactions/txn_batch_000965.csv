@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+240B5E15,1490.15,USER_0014,21,BigBasket,Chennai,RuPay,False
+9906352F,400.87,USER_0007,21,Myntra,Bangalore,Visa,False
+081D87D1,435.35,USER_0046,20,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+27C05AB2,1835.29,USER_0013,23,Uber,Mumbai,Amex,False

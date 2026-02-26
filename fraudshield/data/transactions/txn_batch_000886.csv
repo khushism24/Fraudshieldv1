@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FBB90588,3881.53,USER_0039,22,Ola,Kolkata,Mastercard,False
+733F97CD,9371.63,USER_0023,1,Uber,Delhi,Mastercard,False
+1CE7F85A,4325.86,USER_0013,9,Flipkart,Kolkata,RuPay,False

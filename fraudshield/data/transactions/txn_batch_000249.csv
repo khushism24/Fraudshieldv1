@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+41A6EDDD,1857.97,USER_0024,6,Uber,Delhi,Mastercard,False
+A8752E27,2191.69,USER_0026,16,Swiggy,Ahmedabad,RuPay,False
+C670AE93,4040.0,USER_0037,3,Myntra,Surat,Visa,False
+13460AB4,1705.81,USER_0045,11,MedPlus Pharmacy,Kolkata,RuPay,False
+33F2FA19,13932.45,USER_0031,4,Uber,Delhi,RuPay,False
+B3C0D5E9,4157.04,USER_0001,7,WireTransfer_Global,Pune,Mastercard,True

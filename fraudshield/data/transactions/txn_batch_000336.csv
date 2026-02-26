@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+82EE99D6,791.28,USER_0001,1,D-Mart,Surat,RuPay,False
+8F384AF3,2833.62,USER_0044,9,CasinoRoyal,Chennai,RuPay,True
+97D9A77F,4269.77,USER_0019,8,MedPlus Pharmacy,Kolkata,Mastercard,False
+224D44AD,2295.74,USER_0017,8,BookMyShow,Ahmedabad,RuPay,False
+B76B2AB8,1237.77,USER_0008,12,D-Mart,Ahmedabad,Mastercard,False
+2901E94E,3560.38,USER_0050,10,BookMyShow,Chennai,Amex,False
+B36E0A3E,4017.39,USER_0042,15,Swiggy,Ahmedabad,RuPay,False

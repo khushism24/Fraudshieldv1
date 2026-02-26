@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B5958330,3985.93,USER_0045,1,BigBasket,Surat,Visa,False
+87315713,800.1,USER_0031,20,MedPlus Pharmacy,Ahmedabad,RuPay,False
+DB101D19,3581.19,USER_0005,19,Zomato,Chennai,RuPay,False
+15891672,1825.5,USER_0008,17,D-Mart,Surat,Visa,False
+EBB55709,1829.45,USER_0040,17,D-Mart,Bangalore,Visa,False
+5F312F2B,1014.07,USER_0043,13,Myntra,Ahmedabad,Visa,False
+77E24F57,4150.25,USER_0028,12,Uber,Kolkata,Amex,False
+CAB8407F,2180.94,USER_0039,20,Amazon,Ahmedabad,Visa,False

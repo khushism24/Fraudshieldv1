@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ECEB951A,1737.8,USER_0040,23,D-Mart,Jaipur,Visa,False
+08273894,3133.3,USER_0030,15,Reliance Mart,Hyderabad,Mastercard,False
+CA56AE32,4283.53,USER_0043,19,Netflix,Pune,Amex,False
+C8658647,1164.26,USER_0026,11,CasinoRoyal,Chennai,RuPay,True
+7B9B22C7,2224.06,USER_0004,23,Myntra,Pune,Mastercard,False

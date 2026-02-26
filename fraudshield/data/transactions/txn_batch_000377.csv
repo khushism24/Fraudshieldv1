@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+62C52A12,11519.19,USER_0044,4,Zomato,Mumbai,Mastercard,False
+69DAAEC9,9281.98,USER_0006,4,Swiggy,Kolkata,Mastercard,False
+86EAA378,2567.46,USER_0010,9,Amazon,Hyderabad,RuPay,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+26DA2D5D,1866.8,USER_0032,7,WireTransfer_Global,Mumbai,RuPay,True
+641476C2,1652.04,USER_0008,21,D-Mart,Kolkata,Amex,False
+57001AE5,2491.84,USER_0003,6,Myntra,Pune,Amex,False
+66357676,3503.15,USER_0014,21,CasinoRoyal,Kolkata,RuPay,True
+C5970292,2709.36,USER_0014,14,CasinoRoyal,Chennai,Visa,True
+C6D48821,4262.86,USER_0039,10,Reliance Mart,Ahmedabad,Visa,False
+120F0672,2912.41,USER_0042,7,IRCTC,Surat,Visa,False
+F81D3C29,2211.39,USER_0004,13,Myntra,Jaipur,Amex,False

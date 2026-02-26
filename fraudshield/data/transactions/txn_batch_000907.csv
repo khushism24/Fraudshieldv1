@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E25F3C70,2211.1,USER_0010,11,Flipkart,Jaipur,RuPay,False
+2EA39301,14388.42,USER_0044,1,Zomato,Kolkata,Mastercard,False
+297855B1,22745.44,USER_0001,3,BigBasket,Bangalore,Mastercard,False
+E5D73AA5,2858.79,USER_0013,17,Amazon,Bangalore,RuPay,False
+98102D3E,21379.89,USER_0033,5,BookMyShow,Jaipur,RuPay,False
+1E41BBB7,1039.24,USER_0030,21,Uber,Delhi,Visa,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+48FF9587,3781.89,USER_0024,9,Reliance Mart,Surat,Visa,False
+3761B50F,2948.71,USER_0049,16,BigBasket,Jaipur,Amex,False
+04164C62,1343.82,USER_0025,12,Flipkart,Bangalore,Visa,False
+051B5191,64.95,USER_0038,7,IRCTC,Chennai,Amex,False
+68CB8E09,2958.24,USER_0012,22,Amazon,Delhi,Amex,False
+C11F1820,2704.95,USER_0004,15,Swiggy,Hyderabad,Amex,False

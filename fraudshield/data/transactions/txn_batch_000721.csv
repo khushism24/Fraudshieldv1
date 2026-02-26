@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+12A66AC6,1067.9,USER_0034,6,Ola,Mumbai,RuPay,False
+4BE74247,1670.98,USER_0035,20,Flipkart,Delhi,RuPay,False
+D6BF444B,479.21,USER_0045,22,BookMyShow,Pune,Visa,False
+FE728418,3752.91,USER_0008,16,CryptoExchange_BuyBit,Chennai,Amex,True
+A2D74F24,1670.34,USER_0019,5,Netflix,Ahmedabad,Mastercard,False
+428B2CD1,51.59,USER_0020,11,Flipkart,Pune,Amex,False
+685312EF,20826.24,USER_0030,3,Swiggy,Delhi,RuPay,False
+05D39C9C,4137.36,USER_0004,6,BigBasket,Surat,Amex,False

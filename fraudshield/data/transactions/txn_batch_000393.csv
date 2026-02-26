@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+339CA4FD,4364.51,USER_0012,22,IRCTC,Ahmedabad,RuPay,False
+D2B02A49,16881.17,USER_0045,1,BigBasket,Chennai,RuPay,False
+0B53D804,4758.71,USER_0024,2,Zomato,Bangalore,Amex,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+484CA3DE,2799.56,USER_0006,8,Reliance Mart,Surat,RuPay,False
+4CEB61D4,4375.2,USER_0027,11,Uber,Pune,RuPay,False
+01B3E2C8,20800.97,USER_0031,0,IRCTC,Kolkata,Visa,False
+2E260165,4445.39,USER_0003,19,Myntra,Jaipur,RuPay,False
+C4F68D12,3979.38,USER_0050,5,Zomato,Pune,RuPay,False
+11C69D53,17791.71,USER_0019,2,CryptoExchange_BuyBit,Jaipur,RuPay,True
+A935E0D4,1287.34,USER_0024,7,Ola,Delhi,RuPay,False
+1C6D54B7,2695.03,USER_0037,13,Myntra,Surat,Mastercard,False

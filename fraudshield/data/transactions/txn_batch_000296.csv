@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+788AFB18,1507.82,USER_0027,22,Zomato,Hyderabad,RuPay,False
+6C1D9B73,21106.35,USER_0050,4,BookMyShow,Kolkata,Mastercard,False
+D359F19F,1449.96,USER_0010,9,BigBasket,Pune,Mastercard,False
+2858B5E9,4056.02,USER_0043,21,Netflix,Kolkata,Mastercard,False
+D610BFF5,172.99,USER_0027,22,Flipkart,Kolkata,Mastercard,False
+D3FAF2AF,2070.21,USER_0023,10,Reliance Mart,Pune,Amex,False
+205148E9,2581.65,USER_0014,12,IRCTC,Pune,RuPay,False
+EE3CC277,1830.92,USER_0046,15,Myntra,Bangalore,RuPay,False

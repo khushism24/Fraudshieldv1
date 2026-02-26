@@ -1,4 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-44A416E5,605.82,USER_0042,6,Uber,Bangalore,RuPay,False
-96C5F7CF,1479.74,USER_0006,12,D-Mart,Bangalore,RuPay,False
-8CA5DB02,2241.92,USER_0007,7,CasinoRoyal,Hyderabad,Mastercard,True
+814D3D07,8995.27,USER_0015,3,Myntra,Hyderabad,Amex,False
+65CDE622,3350.84,USER_0048,2,Uber,Bangalore,Mastercard,False
+B37480E9,485.48,USER_0011,14,Ola,Delhi,Amex,False
+22727988,12931.24,USER_0021,5,WireTransfer_Global,Surat,Visa,True
+15982937,1405.78,USER_0030,13,Swiggy,Surat,Visa,False
+4E4AE51A,7796.25,USER_0020,1,Netflix,Delhi,Amex,False
+79CDADA6,3485.5,USER_0048,21,WireTransfer_Global,Bangalore,Mastercard,True
+35C67D3A,1294.67,USER_0025,18,Amazon,Mumbai,Visa,False

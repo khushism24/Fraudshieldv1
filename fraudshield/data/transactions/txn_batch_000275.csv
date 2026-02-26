@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F6105BB1,476.87,USER_0010,16,CasinoRoyal,Hyderabad,RuPay,True
+E18E6263,1010.65,USER_0014,16,Amazon,Jaipur,Visa,False
+72FF1D1C,2171.37,USER_0008,18,MedPlus Pharmacy,Pune,Visa,False
+B836C5D8,3184.01,USER_0050,15,CasinoRoyal,Delhi,Amex,True
+8BB424D8,645.33,USER_0019,9,IRCTC,Hyderabad,Mastercard,False
+6681B2EC,4135.94,USER_0003,10,BookMyShow,Hyderabad,Visa,False

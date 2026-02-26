@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6B261BCA,2886.95,USER_0011,19,IRCTC,Chennai,Amex,False
+FABF9356,11286.55,USER_0018,4,MedPlus Pharmacy,Kolkata,Mastercard,False
+1E68FFAD,4069.41,USER_0026,15,Zomato,Chennai,Amex,False
+E5EB02B3,356.91,USER_0036,19,CasinoRoyal,Jaipur,Amex,True
+DB26B002,15639.88,USER_0041,5,Reliance Mart,Jaipur,Amex,False
+9E600800,3229.74,USER_0034,10,Swiggy,Kolkata,Mastercard,False

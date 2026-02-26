@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9ED17CA6,4002.39,USER_0024,18,Amazon,Mumbai,Visa,False
+978956C3,1017.86,USER_0001,21,CasinoRoyal,Chennai,RuPay,True
+049DBBA8,1881.99,USER_0036,21,CryptoExchange_BuyBit,Hyderabad,Mastercard,True

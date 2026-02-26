@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+44D47D5D,3917.44,USER_0036,16,MedPlus Pharmacy,Mumbai,RuPay,False
+16389F74,2072.31,USER_0039,18,Swiggy,Delhi,Amex,False
+7D54CC8D,2994.47,USER_0033,15,Flipkart,Kolkata,Mastercard,False
+6D2C4F54,263.94,USER_0007,18,Flipkart,Ahmedabad,Amex,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A5028796,1610.61,USER_0031,6,CryptoExchange_BuyBit,Pune,RuPay,True
+121CADE1,2220.21,USER_0020,6,Amazon,Mumbai,Mastercard,False
+DC266700,12567.74,USER_0007,4,CryptoExchange_BuyBit,Jaipur,Visa,True
+0B28C29F,4250.97,USER_0050,16,CasinoRoyal,Chennai,RuPay,True
+872A36F3,701.4,USER_0037,19,Zomato,Bangalore,RuPay,False
+A4BFE234,1852.15,USER_0035,6,Flipkart,Bangalore,Amex,False
+F450292C,12586.85,USER_0040,0,Ola,Delhi,Mastercard,False

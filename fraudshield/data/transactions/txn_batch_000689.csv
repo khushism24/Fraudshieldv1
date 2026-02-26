@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A6E01177,917.23,USER_0010,14,D-Mart,Mumbai,Amex,False
+8FDAB387,3486.09,USER_0035,7,BigBasket,Surat,Mastercard,False
+F070AC16,2455.69,USER_0013,11,Amazon,Bangalore,Mastercard,False
+2EFD5E9A,2628.08,USER_0025,9,IRCTC,Hyderabad,RuPay,False
+907A9E8E,528.39,USER_0004,15,BigBasket,Jaipur,Visa,False
+87621926,2233.99,USER_0008,21,Amazon,Kolkata,Amex,False
+CC983B82,22065.96,USER_0005,5,CasinoRoyal,Surat,Amex,True
+15897213,1728.72,USER_0028,23,WireTransfer_Global,Pune,Mastercard,True

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+96B5BCC3,15555.46,USER_0020,1,Flipkart,Bangalore,RuPay,False
+D82792DE,3284.84,USER_0006,8,Uber,Pune,Mastercard,False
+CF58FCFD,1981.01,USER_0016,23,CryptoExchange_BuyBit,Delhi,Visa,True
+150103C5,24026.93,USER_0028,5,BookMyShow,Mumbai,RuPay,False

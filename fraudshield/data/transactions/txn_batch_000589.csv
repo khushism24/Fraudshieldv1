@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+59EC9CFF,635.32,USER_0018,15,BigBasket,Chennai,RuPay,False
+F13A601F,99.73,USER_0031,20,Swiggy,Hyderabad,Mastercard,False
+6D08A68F,22702.24,USER_0035,4,BookMyShow,Chennai,Visa,False
+52230121,2572.91,USER_0008,10,Zomato,Ahmedabad,Amex,False
+F392F3CC,4177.6,USER_0012,0,Swiggy,Bangalore,RuPay,False
+44F2D76E,4479.95,USER_0018,18,CryptoExchange_BuyBit,Surat,Visa,True
+552A910C,2842.3,USER_0032,23,Amazon,Jaipur,Visa,False
+0FA4BFC7,1982.02,USER_0004,12,BookMyShow,Chennai,Mastercard,False

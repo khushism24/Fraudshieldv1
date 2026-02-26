@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+47F4677B,1760.43,USER_0004,22,Reliance Mart,Surat,Amex,False
+565FFE79,4352.24,USER_0004,15,BigBasket,Delhi,RuPay,False
+FFC1AD21,148.13,USER_0003,17,Uber,Mumbai,RuPay,False
+B7B99FB6,2421.93,USER_0030,13,Zomato,Mumbai,Mastercard,False
+D8CA5D2F,2770.94,USER_0018,22,Ola,Ahmedabad,Visa,False

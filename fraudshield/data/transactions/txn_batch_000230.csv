@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5CE3B2ED,3445.41,USER_0013,23,Reliance Mart,Chennai,RuPay,False
+4E27FC57,3124.58,USER_0012,22,Swiggy,Chennai,Amex,False
+E950696F,3806.71,USER_0003,9,IRCTC,Jaipur,Mastercard,False
+B46A1D86,3571.24,USER_0043,13,Zomato,Chennai,RuPay,False
+6EE0EEDD,2993.48,USER_0045,2,D-Mart,Chennai,Amex,False

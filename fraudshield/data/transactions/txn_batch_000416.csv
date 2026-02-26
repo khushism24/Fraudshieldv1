@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B576157D,2990.89,USER_0041,18,CryptoExchange_BuyBit,Surat,Visa,True
+2CE8DD65,3724.99,USER_0002,15,CryptoExchange_BuyBit,Mumbai,Mastercard,True
+1EEB9FB0,14116.85,USER_0019,2,Reliance Mart,Jaipur,Mastercard,False
+7FA6CE92,2412.33,USER_0012,20,IRCTC,Chennai,Mastercard,False
+4A31B767,3871.58,USER_0007,19,Netflix,Jaipur,Mastercard,False

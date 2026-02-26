@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D521B2C0,14876.6,USER_0028,1,D-Mart,Pune,Mastercard,False
+31ED69DA,3968.79,USER_0001,11,CasinoRoyal,Pune,Mastercard,True
+8FE95681,2064.34,USER_0004,16,IRCTC,Delhi,Mastercard,False
+99B13300,418.4,USER_0013,10,Myntra,Ahmedabad,RuPay,False
+BB3F7EDE,3190.05,USER_0009,9,BigBasket,Pune,RuPay,False

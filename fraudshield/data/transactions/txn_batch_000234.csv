@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E144AF72,16312.33,USER_0031,1,Ola,Kolkata,Visa,False
+A580030B,1933.52,USER_0047,9,CasinoRoyal,Chennai,Mastercard,True
+C4BB30B2,3996.65,USER_0025,17,BigBasket,Bangalore,Mastercard,False
+C0165B9B,3608.87,USER_0021,11,Myntra,Kolkata,Mastercard,False
+5602ECDE,699.98,USER_0032,9,CasinoRoyal,Surat,Mastercard,True
+FEB84C48,1707.17,USER_0049,6,Uber,Hyderabad,Amex,False
+98359185,4491.25,USER_0044,18,BigBasket,Delhi,RuPay,False

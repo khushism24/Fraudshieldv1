@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+282923CB,6599.12,USER_0034,4,Myntra,Mumbai,Visa,False
+2B5CD9F9,12708.18,USER_0047,2,IRCTC,Surat,Amex,False
+8F49EEB4,10051.17,USER_0003,2,BigBasket,Surat,Mastercard,False

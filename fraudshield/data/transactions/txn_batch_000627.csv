@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C5A02C4D,14003.75,USER_0027,0,CasinoRoyal,Jaipur,Amex,True
+7CAB0C09,3452.24,USER_0001,12,Netflix,Ahmedabad,Visa,False
+B9E9638F,4045.05,USER_0001,3,CasinoRoyal,Jaipur,Mastercard,True
+E79275F2,2338.03,USER_0045,11,CasinoRoyal,Chennai,RuPay,True
+1F570E72,949.15,USER_0011,0,CryptoExchange_BuyBit,Pune,RuPay,True
+1717D6BC,3248.75,USER_0022,20,Flipkart,Surat,RuPay,False

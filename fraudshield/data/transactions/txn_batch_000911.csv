@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A7289BB4,2335.66,USER_0025,0,BigBasket,Jaipur,RuPay,False
+5F7E79A6,3097.92,USER_0046,2,WireTransfer_Global,Surat,RuPay,True
+B2EE61FA,4304.05,USER_0014,9,MedPlus Pharmacy,Ahmedabad,Amex,False
+04247524,2338.24,USER_0027,21,IRCTC,Pune,Visa,False
+5F5ED8DC,4435.1,USER_0023,7,Reliance Mart,Jaipur,RuPay,False
+F6B279C0,19697.65,USER_0045,3,Uber,Hyderabad,Visa,False
+991DFB3F,2972.6,USER_0006,7,Amazon,Ahmedabad,Mastercard,False
+5EEEBC65,3066.55,USER_0037,19,Reliance Mart,Pune,Visa,False

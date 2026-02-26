@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F747F261,1696.84,USER_0048,19,WireTransfer_Global,Pune,RuPay,True
+5702FB3C,8077.77,USER_0010,1,Uber,Hyderabad,Mastercard,False
+7A85F78D,1132.25,USER_0036,20,Myntra,Surat,Visa,False
+F477C379,1957.81,USER_0026,18,Myntra,Pune,RuPay,False
+EBF3C16C,2432.63,USER_0031,3,MedPlus Pharmacy,Surat,Mastercard,False
+80BF3D16,836.93,USER_0007,8,Zomato,Pune,Visa,False
+D0AE1DF9,11686.02,USER_0032,0,Netflix,Ahmedabad,Visa,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7293CAF3,4040.85,USER_0031,12,Reliance Mart,Surat,Mastercard,False
+9554A068,3803.22,USER_0013,4,Swiggy,Delhi,Amex,False
+7262FBB1,4018.75,USER_0043,14,BookMyShow,Pune,Mastercard,False
+1B60DF20,162.29,USER_0015,14,MedPlus Pharmacy,Pune,RuPay,False
+93913B7A,2047.76,USER_0030,6,BigBasket,Chennai,Visa,False

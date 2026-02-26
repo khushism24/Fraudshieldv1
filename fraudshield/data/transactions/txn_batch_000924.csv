@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ED65029C,2135.36,USER_0025,6,Netflix,Chennai,RuPay,False
+6C8305F4,602.73,USER_0045,17,IRCTC,Surat,Visa,False
+9ADD20AA,797.19,USER_0026,1,Amazon,Chennai,Mastercard,False
+122D687F,3842.03,USER_0007,23,Amazon,Jaipur,Visa,False
+41ACC8DB,2235.27,USER_0037,22,BigBasket,Hyderabad,Visa,False
+0CA3FE30,1506.46,USER_0030,15,WireTransfer_Global,Delhi,Amex,True
+90A5B938,2696.64,USER_0017,4,Netflix,Bangalore,Visa,False
+F8DF94E0,1113.32,USER_0032,20,WireTransfer_Global,Pune,Mastercard,True

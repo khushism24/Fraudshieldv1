@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+27B2A06E,356.51,USER_0034,11,Zomato,Kolkata,RuPay,False
+380151AB,145.83,USER_0007,23,Ola,Pune,Amex,False
+4C959E85,16847.4,USER_0036,4,Netflix,Hyderabad,Visa,False
+AC0EC7C8,8657.69,USER_0040,3,MedPlus Pharmacy,Kolkata,RuPay,False
+86635F7B,1008.14,USER_0033,8,IRCTC,Jaipur,Mastercard,False
+8B576754,1916.12,USER_0026,17,WireTransfer_Global,Chennai,Amex,True
+FF246FB5,715.87,USER_0017,19,CasinoRoyal,Ahmedabad,Amex,True

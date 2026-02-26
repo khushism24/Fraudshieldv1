@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8743603D,1530.44,USER_0012,12,Reliance Mart,Kolkata,Amex,False
+45506B04,3138.82,USER_0020,7,Flipkart,Jaipur,RuPay,False
+E1CF0F9B,2135.71,USER_0015,6,MedPlus Pharmacy,Ahmedabad,Mastercard,False

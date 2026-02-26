@@ -1,7 +1,4 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-1421D9ED,1719.81,USER_0011,4,Uber,Ahmedabad,RuPay,False
-50E55B3F,3009.39,USER_0046,17,Amazon,Jaipur,RuPay,False
-77A5F0D8,20045.04,USER_0023,3,Uber,Ahmedabad,RuPay,False
-E01DB426,917.04,USER_0042,16,Flipkart,Bangalore,Amex,False
-685C3B73,2230.92,USER_0029,10,Swiggy,Pune,Mastercard,False
-87E9890C,1956.51,USER_0044,8,Myntra,Ahmedabad,Mastercard,False
+26663020,1605.78,USER_0023,22,CryptoExchange_BuyBit,Chennai,Visa,True
+6300479C,871.48,USER_0028,21,Zomato,Delhi,Visa,False
+AA9F0A64,7905.06,USER_0004,5,CasinoRoyal,Surat,Amex,True

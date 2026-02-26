@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F405483B,2659.63,USER_0046,15,Swiggy,Hyderabad,Amex,False
+E88D4D61,1247.6,USER_0027,14,Swiggy,Kolkata,Mastercard,False
+61F18867,2861.83,USER_0029,9,MedPlus Pharmacy,Hyderabad,Visa,False
+50E06DCF,750.29,USER_0028,8,BookMyShow,Kolkata,Visa,False
+B5916834,3269.48,USER_0015,5,Zomato,Ahmedabad,Mastercard,False
+6D1C54E6,2115.69,USER_0009,8,CryptoExchange_BuyBit,Hyderabad,Amex,True
+6A1511E4,1024.05,USER_0049,22,CasinoRoyal,Kolkata,Visa,True

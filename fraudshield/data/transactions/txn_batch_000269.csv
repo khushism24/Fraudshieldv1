@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2BB6C1D7,1781.26,USER_0040,2,WireTransfer_Global,Chennai,Amex,True
+FDC18EB8,1377.29,USER_0033,12,Swiggy,Kolkata,Mastercard,False
+C3A0BF3B,2616.97,USER_0037,8,CryptoExchange_BuyBit,Mumbai,Visa,True
+2A2AC4F8,4289.3,USER_0033,22,WireTransfer_Global,Chennai,Mastercard,True
+03EE494F,2205.35,USER_0050,12,Reliance Mart,Jaipur,Mastercard,False
+94E69873,3557.99,USER_0044,23,BigBasket,Surat,Visa,False
+53964253,814.15,USER_0012,15,Ola,Delhi,Visa,False
+8310850D,1662.14,USER_0010,8,Reliance Mart,Jaipur,Mastercard,False

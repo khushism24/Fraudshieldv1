@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3C59F482,4054.03,USER_0045,3,Reliance Mart,Hyderabad,Mastercard,False
+8BABEFE9,2627.37,USER_0010,20,MedPlus Pharmacy,Hyderabad,Mastercard,False
+2FFD123F,17597.02,USER_0011,2,Amazon,Ahmedabad,Amex,False
+8A5B2D11,3200.61,USER_0017,18,WireTransfer_Global,Surat,Amex,True
+38537420,2565.86,USER_0012,12,IRCTC,Hyderabad,Visa,False
+D686FC7F,1540.1,USER_0023,1,Zomato,Bangalore,Amex,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A6B6089E,2594.3,USER_0047,20,BigBasket,Bangalore,RuPay,False
+3771E47B,4218.72,USER_0037,5,CasinoRoyal,Jaipur,RuPay,True
+078D61F9,4422.7,USER_0016,22,WireTransfer_Global,Kolkata,Mastercard,True
+55108472,16704.85,USER_0008,4,Flipkart,Jaipur,Mastercard,False

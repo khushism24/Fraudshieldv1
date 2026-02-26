@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+51D3C985,896.15,USER_0006,21,MedPlus Pharmacy,Mumbai,Amex,False
+52CE0321,3599.83,USER_0048,20,MedPlus Pharmacy,Pune,RuPay,False
+6BEB7671,678.25,USER_0050,20,Amazon,Kolkata,Visa,False
+3BD446AB,3634.59,USER_0031,18,Myntra,Delhi,Mastercard,False
+F2908CB7,671.8,USER_0003,16,BigBasket,Chennai,Amex,False
+B507F8F8,4223.93,USER_0004,21,Flipkart,Surat,Visa,False
+D37A9E10,2237.03,USER_0029,13,Uber,Jaipur,Visa,False

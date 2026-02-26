@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+086A762D,234.21,USER_0009,6,Uber,Pune,Mastercard,False
+7A739888,429.85,USER_0006,23,Zomato,Delhi,Amex,False
+7D33CDEA,13031.04,USER_0044,5,Ola,Kolkata,Visa,False
+12D51E8F,2554.44,USER_0026,14,Ola,Jaipur,RuPay,False
+4D87E1A2,1330.42,USER_0017,16,MedPlus Pharmacy,Mumbai,Amex,False
+13EBEA0F,866.45,USER_0016,12,Uber,Hyderabad,Amex,False
+94815C43,8824.15,USER_0027,3,Amazon,Mumbai,Amex,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+929BD828,1326.29,USER_0038,12,CasinoRoyal,Hyderabad,Mastercard,True
+DA896DF1,677.95,USER_0009,15,CryptoExchange_BuyBit,Kolkata,Mastercard,True
+988FB314,4702.08,USER_0019,0,MedPlus Pharmacy,Surat,Visa,False
+9C68CCF2,2052.16,USER_0003,2,Reliance Mart,Ahmedabad,Mastercard,False
+E25E6E7C,2478.13,USER_0036,5,D-Mart,Chennai,Mastercard,False

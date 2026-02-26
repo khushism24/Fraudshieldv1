@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A8C72E8A,4338.66,USER_0050,23,Amazon,Ahmedabad,Visa,False
+E29ABB1A,1257.81,USER_0013,21,Netflix,Surat,Mastercard,False
+C54DE5E0,672.76,USER_0016,16,Myntra,Hyderabad,Mastercard,False
+D563B593,24166.48,USER_0040,0,Netflix,Delhi,Visa,False
+12B5F252,1138.05,USER_0035,11,CryptoExchange_BuyBit,Surat,Amex,True

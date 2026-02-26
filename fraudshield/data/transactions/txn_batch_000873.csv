@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7719AD82,2508.2,USER_0003,16,IRCTC,Kolkata,Amex,False
+D7A5FF5D,11838.5,USER_0027,1,BookMyShow,Kolkata,Amex,False
+4B737C8D,3273.14,USER_0034,19,MedPlus Pharmacy,Jaipur,Amex,False
+9D2163A9,3982.83,USER_0010,6,Reliance Mart,Chennai,RuPay,False
+78F08606,485.07,USER_0039,20,Uber,Kolkata,Amex,False
+830822F3,2205.53,USER_0040,3,Netflix,Pune,Visa,False
+40959BAF,4205.86,USER_0043,16,Ola,Mumbai,Amex,False
+04B7E118,1685.48,USER_0027,21,WireTransfer_Global,Chennai,Visa,True

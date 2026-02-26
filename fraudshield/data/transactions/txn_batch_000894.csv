@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+02B36567,306.92,USER_0005,18,BigBasket,Ahmedabad,RuPay,False
+E39B549C,413.43,USER_0003,22,Ola,Bangalore,Mastercard,False
+6EF85B75,13526.7,USER_0012,0,IRCTC,Hyderabad,Visa,False
+D3BF3922,1703.78,USER_0043,13,BigBasket,Mumbai,RuPay,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FF86CFD7,1778.9,USER_0034,12,WireTransfer_Global,Bangalore,RuPay,True
+E5D83BFE,4059.36,USER_0034,10,Uber,Ahmedabad,Visa,False
+F10C9BDC,737.46,USER_0014,16,Ola,Hyderabad,Amex,False

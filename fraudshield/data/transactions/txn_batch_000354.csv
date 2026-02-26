@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ACA09B9F,17916.58,USER_0024,0,Netflix,Delhi,Visa,False
+0EAA3704,21655.03,USER_0047,3,Swiggy,Delhi,Visa,False
+C3109E54,2709.52,USER_0038,22,Amazon,Jaipur,Visa,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1E8E5E34,6994.77,USER_0010,2,D-Mart,Kolkata,Visa,False
+CA486BD7,2320.21,USER_0027,9,BigBasket,Chennai,Amex,False
+00514C83,180.86,USER_0036,23,Zomato,Chennai,Visa,False
+C96640A9,1005.5,USER_0041,12,D-Mart,Delhi,RuPay,False
+0B4A2B5B,796.41,USER_0015,23,Swiggy,Jaipur,RuPay,False

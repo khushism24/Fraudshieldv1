@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F2AFDBCB,221.57,USER_0023,17,BookMyShow,Hyderabad,Mastercard,False
+A792AD95,20347.07,USER_0027,0,Reliance Mart,Pune,Amex,False
+A01EC4A4,2156.38,USER_0046,16,CasinoRoyal,Delhi,Mastercard,True
+9DA3368B,24841.02,USER_0028,1,BigBasket,Chennai,Visa,False
+08F3A3F2,4022.98,USER_0038,8,Flipkart,Delhi,Visa,False
+D1D836F6,2959.84,USER_0036,17,Netflix,Chennai,Mastercard,False
+2D8FA4E3,496.74,USER_0022,6,CryptoExchange_BuyBit,Bangalore,Amex,True
+B80C8E80,3056.43,USER_0001,17,CasinoRoyal,Surat,RuPay,True

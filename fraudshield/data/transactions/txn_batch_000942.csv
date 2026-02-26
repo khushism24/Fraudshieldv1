@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+61C4DCF2,1746.43,USER_0039,14,Flipkart,Jaipur,Visa,False
+144A2CB2,23127.71,USER_0049,3,CasinoRoyal,Mumbai,Amex,True
+E68410F1,601.57,USER_0039,15,D-Mart,Surat,Visa,False
+68F980C9,2811.15,USER_0001,14,D-Mart,Hyderabad,RuPay,False
+B570B574,5525.15,USER_0045,1,Uber,Delhi,Amex,False
+C001BAE0,3295.63,USER_0030,6,D-Mart,Mumbai,Mastercard,False

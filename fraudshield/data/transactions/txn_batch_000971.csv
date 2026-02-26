@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+99F8C0E1,1329.63,USER_0016,6,Zomato,Bangalore,Amex,False
+B416EB22,252.08,USER_0017,10,D-Mart,Bangalore,Amex,False
+9C4954E2,19472.21,USER_0023,2,Netflix,Pune,RuPay,False
+38B2484A,3355.03,USER_0002,16,BookMyShow,Hyderabad,Mastercard,False
+13013BDF,3954.32,USER_0026,17,D-Mart,Mumbai,RuPay,False
+5838DD28,4779.58,USER_0049,0,D-Mart,Chennai,RuPay,False

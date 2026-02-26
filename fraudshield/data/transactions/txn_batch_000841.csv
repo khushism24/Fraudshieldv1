@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CB795D30,1368.42,USER_0033,15,Swiggy,Chennai,Visa,False
+F733FBF9,4167.36,USER_0042,7,Amazon,Mumbai,Mastercard,False
+8C982D0C,2328.3,USER_0034,6,CasinoRoyal,Mumbai,Visa,True
+8BAB158C,13143.34,USER_0004,4,Flipkart,Kolkata,Amex,False

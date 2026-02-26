@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+418C21AC,2938.25,USER_0025,4,CryptoExchange_BuyBit,Surat,Visa,True
+A487DB45,385.01,USER_0001,7,WireTransfer_Global,Pune,RuPay,True
+4DF48F3F,3198.42,USER_0013,17,Zomato,Surat,Amex,False
+D49BBBE0,1274.69,USER_0001,21,CasinoRoyal,Surat,RuPay,True
+1DFDAB28,1794.14,USER_0013,10,IRCTC,Surat,Amex,False
+FF72078D,3242.83,USER_0033,15,BigBasket,Mumbai,Mastercard,False
+B7F88608,2137.19,USER_0018,6,IRCTC,Jaipur,RuPay,False
+A35A4DE6,1842.2,USER_0008,0,WireTransfer_Global,Kolkata,Mastercard,True

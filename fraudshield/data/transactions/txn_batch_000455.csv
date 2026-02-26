@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+736EBA4B,1763.06,USER_0048,23,Swiggy,Jaipur,Amex,False
+4842B87A,1164.79,USER_0011,0,MedPlus Pharmacy,Mumbai,Mastercard,False
+C47D5A1B,409.47,USER_0030,7,D-Mart,Bangalore,Amex,False
+ADA11581,976.48,USER_0022,18,Ola,Hyderabad,Mastercard,False
+5EE89376,11912.98,USER_0011,1,Zomato,Bangalore,RuPay,False
+7FCBF17C,3955.93,USER_0050,7,BookMyShow,Jaipur,Visa,False

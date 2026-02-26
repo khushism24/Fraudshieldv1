@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3EB55EAD,1682.93,USER_0018,7,IRCTC,Surat,Mastercard,False
+65F3C7DE,3717.19,USER_0010,3,Myntra,Kolkata,Mastercard,False
+FB5DDEC3,4449.73,USER_0035,19,CryptoExchange_BuyBit,Ahmedabad,RuPay,True
+EB125445,2103.85,USER_0014,22,WireTransfer_Global,Bangalore,Mastercard,True

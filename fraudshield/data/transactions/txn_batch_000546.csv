@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4BF59E2C,16315.63,USER_0030,0,Netflix,Surat,Amex,False
+DF3F6AD0,3708.37,USER_0013,9,Netflix,Kolkata,RuPay,False
+3BAE5857,2148.08,USER_0034,19,MedPlus Pharmacy,Ahmedabad,Visa,False

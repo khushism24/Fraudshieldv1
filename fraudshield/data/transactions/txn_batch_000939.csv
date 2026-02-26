@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+62420431,1284.39,USER_0038,8,CryptoExchange_BuyBit,Mumbai,RuPay,True
+F2178DDB,2643.77,USER_0030,16,Swiggy,Bangalore,Mastercard,False
+A4DA4B19,2481.5,USER_0016,13,Reliance Mart,Ahmedabad,Mastercard,False
+C4583635,1059.53,USER_0012,19,Flipkart,Jaipur,Amex,False
+D1B85905,1730.21,USER_0009,18,Myntra,Hyderabad,Visa,False

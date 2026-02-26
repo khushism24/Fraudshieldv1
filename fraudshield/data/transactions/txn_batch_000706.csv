@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+31E5F260,206.77,USER_0023,16,Swiggy,Hyderabad,Mastercard,False
+F9652A7E,1242.98,USER_0029,12,D-Mart,Delhi,RuPay,False
+821EEDC3,3028.84,USER_0048,12,BookMyShow,Jaipur,Amex,False
+B6351D3C,910.02,USER_0037,20,Uber,Chennai,Visa,False

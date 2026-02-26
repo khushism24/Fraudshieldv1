@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7812069A,4045.08,USER_0038,22,Zomato,Mumbai,Visa,False
+9152EB08,4085.15,USER_0018,11,BigBasket,Ahmedabad,Amex,False
+76FDB6E4,1155.42,USER_0031,17,Zomato,Bangalore,RuPay,False
+2E05478B,4194.51,USER_0008,7,MedPlus Pharmacy,Mumbai,Mastercard,False
+26138296,1712.93,USER_0035,21,Ola,Mumbai,RuPay,False

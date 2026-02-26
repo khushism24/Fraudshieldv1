@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0D73088A,1127.78,USER_0048,6,Uber,Ahmedabad,Visa,False
+19C666FA,9627.21,USER_0023,3,BookMyShow,Ahmedabad,Visa,False
+C8DC2B2C,2968.88,USER_0035,16,Myntra,Delhi,Amex,False

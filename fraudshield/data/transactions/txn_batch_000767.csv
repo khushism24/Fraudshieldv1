@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1980C802,4114.04,USER_0009,19,WireTransfer_Global,Hyderabad,Amex,True
+9BC24045,4843.0,USER_0034,2,WireTransfer_Global,Hyderabad,Visa,True
+11BED725,3785.35,USER_0005,15,Zomato,Ahmedabad,Mastercard,False
+2C51AF99,241.01,USER_0005,22,Uber,Chennai,RuPay,False
+DE0C1CA0,13702.85,USER_0041,2,Ola,Hyderabad,Amex,False
+BC4BA2B7,5779.05,USER_0011,4,Netflix,Jaipur,RuPay,False

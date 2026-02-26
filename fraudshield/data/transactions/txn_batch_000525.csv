@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+171F5B1B,4048.88,USER_0036,21,CasinoRoyal,Bangalore,RuPay,True
+C1070918,280.1,USER_0003,15,Reliance Mart,Surat,Amex,False
+CFFBF807,5335.48,USER_0023,0,Myntra,Delhi,Visa,False
+5F301847,2178.81,USER_0040,7,MedPlus Pharmacy,Chennai,Visa,False
+5D71959E,3577.92,USER_0037,12,Uber,Ahmedabad,Visa,False
+CC0C1DDE,1503.67,USER_0001,12,Netflix,Chennai,Visa,False

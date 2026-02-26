@@ -1,5 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-CF795242,2284.0,USER_0049,22,Amazon,Ahmedabad,Visa,False
-BAA9A2D6,2154.94,USER_0048,5,Reliance Mart,Kolkata,RuPay,False
-E3A729F2,4488.42,USER_0016,22,Swiggy,Pune,RuPay,False
-87F9DB4A,24538.09,USER_0014,5,IRCTC,Hyderabad,Amex,False
+8DE9825C,2009.0,USER_0042,7,Swiggy,Jaipur,RuPay,False
+8286E65E,5902.87,USER_0001,1,Netflix,Kolkata,Mastercard,False
+5999F978,2933.52,USER_0023,16,MedPlus Pharmacy,Delhi,Visa,False
+A7014E48,1313.15,USER_0007,10,Ola,Mumbai,RuPay,False
+61C31591,1068.15,USER_0032,12,Netflix,Delhi,RuPay,False
+FB1BA54B,2164.59,USER_0016,18,CryptoExchange_BuyBit,Surat,RuPay,True
+207AEA7B,541.73,USER_0047,6,Flipkart,Chennai,RuPay,False

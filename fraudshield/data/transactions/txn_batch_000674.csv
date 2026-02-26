@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3B61A738,4107.18,USER_0026,7,Swiggy,Delhi,Mastercard,False
+A2A4AD82,3572.22,USER_0038,21,Flipkart,Chennai,Mastercard,False
+A17F2B98,4973.97,USER_0038,5,BigBasket,Mumbai,Amex,False
+9149EC9B,716.47,USER_0047,11,BigBasket,Surat,Amex,False
+6C4D144B,1179.44,USER_0044,8,Swiggy,Kolkata,Amex,False
+E052CFF5,3825.7,USER_0025,3,BigBasket,Surat,Visa,False
+3CD6EBC5,13254.7,USER_0012,1,Reliance Mart,Mumbai,Amex,False
+03721A58,3671.96,USER_0002,22,Reliance Mart,Chennai,RuPay,False

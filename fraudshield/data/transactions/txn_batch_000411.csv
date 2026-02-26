@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9CC6D373,2779.36,USER_0014,16,Myntra,Bangalore,Visa,False
+CC6057C5,542.73,USER_0005,11,BookMyShow,Bangalore,Visa,False
+CC6540BC,2196.35,USER_0003,16,CasinoRoyal,Bangalore,Visa,True

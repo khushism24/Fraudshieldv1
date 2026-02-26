@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1184A00D,244.7,USER_0038,8,CasinoRoyal,Chennai,Amex,True
+DA20762D,1091.06,USER_0002,17,CryptoExchange_BuyBit,Mumbai,Mastercard,True
+F3545F82,10217.68,USER_0012,1,Flipkart,Surat,Amex,False
+0EA5074E,3347.28,USER_0012,15,Uber,Hyderabad,Mastercard,False
+808617C7,3156.81,USER_0027,3,Amazon,Mumbai,RuPay,False
+CCBFE43A,4042.68,USER_0026,22,Amazon,Jaipur,Mastercard,False

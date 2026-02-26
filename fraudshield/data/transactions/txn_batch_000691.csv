@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A3D6BD74,2042.04,USER_0030,15,CasinoRoyal,Jaipur,RuPay,True
+8207DEBB,2558.61,USER_0031,21,BookMyShow,Pune,RuPay,False
+59458497,4466.22,USER_0034,11,D-Mart,Bangalore,Visa,False
+2CAB6E04,23915.07,USER_0045,3,Myntra,Delhi,Amex,False
+65E084EB,366.18,USER_0044,11,CryptoExchange_BuyBit,Ahmedabad,Mastercard,True
+4912284C,3235.67,USER_0010,1,Myntra,Delhi,Amex,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+70459682,1755.53,USER_0008,2,CryptoExchange_BuyBit,Pune,Visa,True
+57965283,4444.01,USER_0050,6,BookMyShow,Pune,RuPay,False
+92E2673B,1857.32,USER_0027,14,MedPlus Pharmacy,Jaipur,Visa,False
+A3B283EC,3636.93,USER_0018,8,CryptoExchange_BuyBit,Mumbai,RuPay,True
+93991D91,12954.93,USER_0006,5,Uber,Jaipur,RuPay,False

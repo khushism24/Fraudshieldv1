@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6D1D8FED,4481.36,USER_0019,4,Uber,Jaipur,RuPay,False
+2521C0FB,10958.1,USER_0022,0,Amazon,Delhi,Mastercard,False
+AE84153D,370.8,USER_0024,8,Amazon,Delhi,RuPay,False
+442E1779,4407.02,USER_0018,19,Zomato,Jaipur,Amex,False
+C849B693,1594.84,USER_0015,9,BookMyShow,Jaipur,Visa,False
+B4A8966B,2282.84,USER_0004,7,IRCTC,Ahmedabad,RuPay,False

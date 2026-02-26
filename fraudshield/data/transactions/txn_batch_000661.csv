@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D1399A30,4085.01,USER_0009,17,Amazon,Bangalore,Visa,False
+44AEA579,7117.82,USER_0023,2,Myntra,Jaipur,Mastercard,False
+D08CD164,1953.7,USER_0026,5,MedPlus Pharmacy,Surat,Visa,False
+6B2EAE68,1128.33,USER_0009,10,Swiggy,Bangalore,Mastercard,False
+904B5783,3987.54,USER_0029,14,D-Mart,Surat,Mastercard,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+15E8E0E3,3318.95,USER_0025,9,BookMyShow,Kolkata,RuPay,False
+DE0A7889,2992.76,USER_0039,19,Amazon,Ahmedabad,RuPay,False
+60FABDF5,532.35,USER_0025,13,CasinoRoyal,Hyderabad,Visa,True
+7CB574E2,1158.94,USER_0045,13,WireTransfer_Global,Hyderabad,Amex,True
+F9F17868,1754.4,USER_0046,2,Zomato,Jaipur,RuPay,False

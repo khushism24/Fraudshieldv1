@@ -1,9 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-EFB0C973,2490.59,USER_0041,15,Uber,Ahmedabad,Visa,False
-E8BA7692,1066.63,USER_0010,17,CasinoRoyal,Chennai,Mastercard,True
-C55277FD,4196.14,USER_0024,21,BigBasket,Mumbai,RuPay,False
-9E568958,19794.9,USER_0013,2,Myntra,Hyderabad,Visa,False
-4F67006E,1194.78,USER_0005,22,BookMyShow,Mumbai,Mastercard,False
-A2614AF3,203.89,USER_0047,9,WireTransfer_Global,Delhi,RuPay,True
-1679244C,2222.12,USER_0009,7,Ola,Bangalore,Visa,False
-292ACE89,4313.49,USER_0004,11,BookMyShow,Surat,Mastercard,False
+EC65EEA8,1408.34,USER_0006,9,D-Mart,Chennai,Visa,False
+776778CB,261.1,USER_0031,8,IRCTC,Bangalore,Visa,False
+B4CC6780,12088.69,USER_0034,1,BookMyShow,Kolkata,Visa,False
+CC55AE6B,2897.37,USER_0007,5,WireTransfer_Global,Kolkata,Visa,True
+6D6D5D64,1861.19,USER_0036,20,IRCTC,Delhi,Visa,False
+89AF484A,6356.02,USER_0021,0,Reliance Mart,Bangalore,Mastercard,False
+7ED12C1E,1461.92,USER_0029,10,Ola,Kolkata,Amex,False

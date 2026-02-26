@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+07784625,2978.78,USER_0026,6,IRCTC,Mumbai,Visa,False
+22A73F11,1527.28,USER_0020,8,Uber,Delhi,Amex,False
+D2A14F42,1947.79,USER_0031,20,Amazon,Pune,Mastercard,False
+60F56290,1911.73,USER_0019,17,Flipkart,Pune,RuPay,False
+C54170ED,1294.52,USER_0045,6,Uber,Surat,Mastercard,False
+017E3407,11747.71,USER_0004,5,BookMyShow,Hyderabad,RuPay,False
+667D2706,3881.26,USER_0006,20,CryptoExchange_BuyBit,Pune,Mastercard,True
+51893076,2251.78,USER_0047,2,Uber,Kolkata,RuPay,False

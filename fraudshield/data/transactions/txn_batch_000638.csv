@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+137375B5,13323.93,USER_0032,1,Amazon,Jaipur,Mastercard,False
+7B3ECEFF,1323.94,USER_0021,11,CryptoExchange_BuyBit,Chennai,Visa,True
+35FE70BC,222.27,USER_0010,20,MedPlus Pharmacy,Mumbai,Mastercard,False
+7F2FF0DE,2596.5,USER_0010,16,CasinoRoyal,Surat,RuPay,True

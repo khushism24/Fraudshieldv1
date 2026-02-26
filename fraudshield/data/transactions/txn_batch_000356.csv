@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+02DF48EF,287.91,USER_0028,7,BookMyShow,Kolkata,Amex,False
+BFEC272E,4418.83,USER_0050,7,IRCTC,Ahmedabad,Mastercard,False
+FB8E9C2D,17770.31,USER_0032,5,CasinoRoyal,Bangalore,Mastercard,True
+1EF8C358,4460.21,USER_0011,20,D-Mart,Jaipur,Mastercard,False
+2D61E4EB,2828.14,USER_0046,9,CryptoExchange_BuyBit,Mumbai,Amex,True
+89525965,512.31,USER_0044,3,Myntra,Kolkata,Amex,False
+4434F12A,3929.47,USER_0028,11,Flipkart,Chennai,Amex,False
+F9F21481,3856.18,USER_0008,6,Swiggy,Chennai,Amex,False

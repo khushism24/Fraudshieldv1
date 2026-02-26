@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5243C50E,20854.63,USER_0049,3,Swiggy,Bangalore,Mastercard,False
+F5FDAD65,4404.33,USER_0004,18,WireTransfer_Global,Bangalore,Amex,True
+09A2D93E,2132.82,USER_0025,12,BigBasket,Surat,Amex,False

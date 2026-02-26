@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ECDDDA90,6067.3,USER_0033,3,Amazon,Delhi,Visa,False
+566886B0,2027.6,USER_0013,14,BigBasket,Bangalore,Visa,False
+EF59290F,4109.53,USER_0002,12,Amazon,Surat,RuPay,False
+3419B3DA,1812.57,USER_0028,17,BookMyShow,Bangalore,Visa,False
+40AC070A,609.23,USER_0031,8,Zomato,Chennai,Amex,False
+0541FF54,2758.26,USER_0048,8,CasinoRoyal,Chennai,Amex,True

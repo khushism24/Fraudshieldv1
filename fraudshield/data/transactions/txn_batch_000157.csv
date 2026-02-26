@@ -1,5 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-A2B5DAC1,2329.65,USER_0009,4,D-Mart,Delhi,Amex,False
-D3AB3468,3551.77,USER_0018,6,CasinoRoyal,Bangalore,Mastercard,True
-DFDA2FAB,1599.76,USER_0026,13,Swiggy,Bangalore,RuPay,False
-29D5F5B7,3845.75,USER_0049,10,Flipkart,Jaipur,RuPay,False
+60D9E443,2807.51,USER_0029,22,CasinoRoyal,Pune,Mastercard,True
+332A3CFB,10105.92,USER_0017,3,Myntra,Chennai,Mastercard,False
+F4711ADF,2505.04,USER_0014,23,Swiggy,Bangalore,Visa,False
+0917436A,3880.65,USER_0036,14,Flipkart,Ahmedabad,RuPay,False
+0D61789D,1437.11,USER_0030,15,WireTransfer_Global,Delhi,RuPay,True
+DC00B2BA,7339.05,USER_0009,0,IRCTC,Jaipur,Visa,False
+C19C3362,1896.68,USER_0025,4,BigBasket,Hyderabad,RuPay,False
+BD601509,1573.59,USER_0003,19,Uber,Chennai,Visa,False

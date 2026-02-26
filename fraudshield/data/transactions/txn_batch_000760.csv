@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A88AC4D8,829.21,USER_0010,13,Myntra,Bangalore,Amex,False
+8A2C60E7,2860.68,USER_0042,9,Uber,Delhi,Mastercard,False
+3633908D,356.49,USER_0027,21,BookMyShow,Ahmedabad,Amex,False
+0C3F8CC8,3195.78,USER_0035,12,Zomato,Pune,Amex,False
+6EA4DF24,3212.48,USER_0011,16,Ola,Mumbai,Amex,False

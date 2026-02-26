@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FC1B6F6F,18598.44,USER_0037,2,Uber,Mumbai,Visa,False
+D0D432A3,4057.45,USER_0042,19,BigBasket,Chennai,Amex,False
+2FD361C3,2718.18,USER_0042,6,Myntra,Jaipur,RuPay,False

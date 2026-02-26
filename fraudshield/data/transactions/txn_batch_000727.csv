@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8A8194AC,230.44,USER_0050,12,BigBasket,Delhi,RuPay,False
+2D286510,1728.27,USER_0002,20,Myntra,Mumbai,Amex,False
+BDABA056,22638.74,USER_0010,2,Ola,Ahmedabad,Amex,False
+9758D1E1,2617.39,USER_0007,15,D-Mart,Pune,Mastercard,False
+3C796261,1310.3,USER_0017,8,CasinoRoyal,Chennai,Mastercard,True

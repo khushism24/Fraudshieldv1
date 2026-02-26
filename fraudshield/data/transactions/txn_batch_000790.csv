@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+40818A88,637.31,USER_0017,12,Netflix,Jaipur,RuPay,False
+79F4256F,2305.91,USER_0042,15,CryptoExchange_BuyBit,Surat,Visa,True
+555BD285,6773.34,USER_0015,2,Zomato,Ahmedabad,Mastercard,False

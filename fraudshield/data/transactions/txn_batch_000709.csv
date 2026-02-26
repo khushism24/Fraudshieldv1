@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B1DFD749,22430.83,USER_0025,4,Uber,Surat,RuPay,False
+DF841EEC,2448.31,USER_0048,18,Uber,Pune,Visa,False
+2F369E40,2467.96,USER_0001,10,BigBasket,Surat,Amex,False
+184DA150,2020.55,USER_0021,15,WireTransfer_Global,Ahmedabad,Amex,True

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C002425D,3274.64,USER_0011,18,Reliance Mart,Jaipur,RuPay,False
+BA7CC080,896.41,USER_0044,19,Uber,Ahmedabad,Visa,False
+17056DBA,1364.45,USER_0008,13,BigBasket,Jaipur,RuPay,False
+7081D22A,2154.36,USER_0006,0,Uber,Delhi,Amex,False
+8C027F81,2094.91,USER_0046,6,WireTransfer_Global,Hyderabad,RuPay,True

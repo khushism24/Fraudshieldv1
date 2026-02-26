@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+58CC058A,4202.46,USER_0001,19,Swiggy,Kolkata,Visa,False
+716362BE,4135.23,USER_0034,13,IRCTC,Surat,Amex,False
+46B6D59F,21086.2,USER_0016,4,IRCTC,Jaipur,Mastercard,False
+1267C142,1451.52,USER_0006,15,Flipkart,Chennai,Mastercard,False
+7FE1BF46,3031.76,USER_0028,8,Uber,Mumbai,Mastercard,False
+3EB8E1FA,8720.74,USER_0044,4,CryptoExchange_BuyBit,Pune,Visa,True
+1143A1C0,3972.66,USER_0037,0,WireTransfer_Global,Bangalore,Mastercard,True
+8532DABF,4290.94,USER_0027,20,BookMyShow,Surat,Amex,False

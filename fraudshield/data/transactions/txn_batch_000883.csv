@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B0561C0F,15999.07,USER_0025,0,IRCTC,Delhi,Mastercard,False
+2D3991F3,1887.62,USER_0021,6,Ola,Bangalore,RuPay,False
+87C44744,3237.09,USER_0027,21,CasinoRoyal,Delhi,RuPay,True
+3EEA03AD,4385.83,USER_0007,17,BookMyShow,Hyderabad,Mastercard,False
+31642D99,4368.47,USER_0034,19,Netflix,Delhi,Mastercard,False
+9243C9BB,2452.07,USER_0037,14,Myntra,Bangalore,Visa,False
+299902CD,3109.24,USER_0008,22,WireTransfer_Global,Ahmedabad,RuPay,True

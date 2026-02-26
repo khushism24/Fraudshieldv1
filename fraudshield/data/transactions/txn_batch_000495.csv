@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+26AAC13E,1509.94,USER_0046,16,D-Mart,Kolkata,Visa,False
+00130B2C,2602.84,USER_0031,21,Zomato,Bangalore,Visa,False
+3965BD2C,105.8,USER_0013,6,Uber,Bangalore,Visa,False

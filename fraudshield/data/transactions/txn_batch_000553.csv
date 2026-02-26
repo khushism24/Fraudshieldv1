@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BA6459ED,3010.7,USER_0031,11,IRCTC,Chennai,Visa,False
+1E4DED1E,554.76,USER_0005,6,Zomato,Kolkata,Visa,False
+D6530383,1608.55,USER_0010,15,Amazon,Chennai,Visa,False
+4E9952BE,3182.31,USER_0047,20,Swiggy,Ahmedabad,RuPay,False
+1F674997,3649.33,USER_0049,7,BookMyShow,Delhi,Amex,False

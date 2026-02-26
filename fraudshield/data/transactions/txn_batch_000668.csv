@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+13C90CC2,4204.82,USER_0044,21,Reliance Mart,Chennai,RuPay,False
+1DA57D37,313.85,USER_0004,23,Amazon,Jaipur,RuPay,False
+D4D29AB3,4179.99,USER_0038,21,BookMyShow,Mumbai,Mastercard,False

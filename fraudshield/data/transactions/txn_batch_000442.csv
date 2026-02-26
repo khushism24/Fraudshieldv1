@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0851B165,1561.98,USER_0029,10,Ola,Jaipur,Amex,False
+4569642A,2814.87,USER_0018,14,Myntra,Pune,RuPay,False
+DAEEEE19,2218.42,USER_0014,12,Ola,Jaipur,Mastercard,False

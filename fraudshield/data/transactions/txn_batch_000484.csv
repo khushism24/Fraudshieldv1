@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DF6482CF,602.85,USER_0022,10,MedPlus Pharmacy,Jaipur,Amex,False
+2DB307E0,4144.16,USER_0036,17,Ola,Pune,Mastercard,False
+1FE703A9,1844.25,USER_0028,17,D-Mart,Kolkata,Amex,False
+23099EDF,13694.18,USER_0012,0,CasinoRoyal,Pune,Amex,True
+E467831A,16691.72,USER_0005,5,Myntra,Jaipur,RuPay,False
+0CC3F7D7,3205.55,USER_0007,17,CasinoRoyal,Pune,Amex,True
+39FD7EBE,4938.28,USER_0027,4,WireTransfer_Global,Ahmedabad,RuPay,True

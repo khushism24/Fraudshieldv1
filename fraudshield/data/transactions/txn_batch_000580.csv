@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+09EDADA7,1884.42,USER_0012,8,D-Mart,Delhi,Visa,False
+3C348C31,1286.26,USER_0048,21,Uber,Chennai,Amex,False
+4958A690,377.63,USER_0017,11,Myntra,Bangalore,Mastercard,False
+495106BA,3471.71,USER_0006,22,BigBasket,Delhi,Visa,False
+A7FE4055,1546.82,USER_0032,19,Netflix,Bangalore,Mastercard,False
+83BB10B7,394.07,USER_0020,17,WireTransfer_Global,Kolkata,RuPay,True

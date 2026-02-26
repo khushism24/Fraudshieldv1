@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6B163411,1938.57,USER_0005,1,BookMyShow,Pune,RuPay,False
+2D82E2AD,2770.84,USER_0034,8,CryptoExchange_BuyBit,Chennai,Visa,True
+78610257,2154.31,USER_0042,19,Myntra,Hyderabad,Amex,False
+51E84E63,1114.25,USER_0029,15,MedPlus Pharmacy,Chennai,Mastercard,False
+9ABA7748,3190.74,USER_0026,15,Flipkart,Kolkata,Mastercard,False

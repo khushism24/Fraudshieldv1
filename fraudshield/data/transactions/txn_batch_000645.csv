@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+890C0D27,1430.49,USER_0021,23,BigBasket,Mumbai,RuPay,False
+F3E3F179,888.9,USER_0014,15,IRCTC,Ahmedabad,Amex,False
+716B78B6,6868.11,USER_0031,4,Myntra,Jaipur,Mastercard,False

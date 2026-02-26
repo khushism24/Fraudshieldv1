@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9041E68C,1037.54,USER_0019,9,Swiggy,Mumbai,RuPay,False
+1CB6B633,18311.31,USER_0043,5,CryptoExchange_BuyBit,Kolkata,Amex,True
+36697BAF,368.85,USER_0036,18,BigBasket,Kolkata,Amex,False
+B88E631C,4408.25,USER_0047,15,Ola,Bangalore,Visa,False
+35FC4C6A,24464.54,USER_0018,0,MedPlus Pharmacy,Delhi,Mastercard,False
+A2BA845D,2476.32,USER_0049,6,BookMyShow,Pune,Visa,False
+3DCCBB03,2895.07,USER_0048,12,Flipkart,Surat,Amex,False
+69E67123,197.9,USER_0001,20,Reliance Mart,Ahmedabad,Amex,False

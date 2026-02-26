@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FF8FD639,3106.49,USER_0050,14,IRCTC,Kolkata,Visa,False
+D130ADE3,1209.24,USER_0005,6,Uber,Jaipur,RuPay,False
+439C23CE,60.25,USER_0047,7,CasinoRoyal,Kolkata,Amex,True

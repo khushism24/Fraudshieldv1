@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8DCADAF6,907.48,USER_0024,21,WireTransfer_Global,Surat,Visa,True
+F47BA06C,642.16,USER_0023,23,WireTransfer_Global,Bangalore,Amex,True
+450551FF,2754.59,USER_0043,11,Amazon,Jaipur,Mastercard,False
+4748B973,21782.31,USER_0004,1,Reliance Mart,Bangalore,RuPay,False
+CB17DF13,4455.21,USER_0045,13,Myntra,Kolkata,RuPay,False
+37DC3E2E,3501.07,USER_0013,6,IRCTC,Hyderabad,Amex,False
+8F5971B4,3722.4,USER_0039,15,Ola,Chennai,Visa,False
+AC00D03E,370.33,USER_0042,13,Reliance Mart,Surat,Amex,False

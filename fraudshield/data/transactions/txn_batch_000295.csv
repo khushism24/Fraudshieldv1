@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6C09566F,4123.27,USER_0032,20,D-Mart,Hyderabad,Amex,False
+902310A4,6484.17,USER_0045,3,BigBasket,Delhi,Amex,False
+0346450F,1181.86,USER_0011,20,Myntra,Jaipur,Mastercard,False
+2AC1D236,1868.46,USER_0028,21,D-Mart,Delhi,RuPay,False
+0D0545F5,1637.96,USER_0030,17,BigBasket,Delhi,Amex,False
+75F2B887,3842.34,USER_0045,9,IRCTC,Pune,RuPay,False
+DF42F5EA,24546.49,USER_0017,3,D-Mart,Hyderabad,Mastercard,False
+0DE65B63,3902.28,USER_0043,10,Netflix,Pune,Amex,False

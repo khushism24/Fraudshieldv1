@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8E3D8C93,1516.32,USER_0004,13,CryptoExchange_BuyBit,Delhi,Visa,True
+74743987,2788.49,USER_0023,16,BookMyShow,Kolkata,Visa,False
+919F7259,1045.73,USER_0003,2,Uber,Surat,RuPay,False

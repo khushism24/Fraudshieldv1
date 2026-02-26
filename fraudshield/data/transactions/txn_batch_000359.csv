@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+47ABA7CC,9551.45,USER_0029,1,Netflix,Kolkata,Mastercard,False
+00B80ED9,1556.85,USER_0007,22,D-Mart,Surat,RuPay,False
+C3FA3006,2537.92,USER_0028,9,Myntra,Pune,RuPay,False

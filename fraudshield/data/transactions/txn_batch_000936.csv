@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EE395B49,1504.81,USER_0006,7,CasinoRoyal,Ahmedabad,Visa,True
+43B7692D,1603.2,USER_0007,12,Amazon,Pune,Amex,False
+A658DF6D,3659.93,USER_0004,18,BookMyShow,Bangalore,Visa,False

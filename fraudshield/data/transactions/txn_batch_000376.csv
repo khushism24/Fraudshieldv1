@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+10F537C1,10216.09,USER_0029,1,D-Mart,Hyderabad,RuPay,False
+24151F04,11243.48,USER_0029,0,MedPlus Pharmacy,Surat,Amex,False
+CB3868C9,1753.19,USER_0036,18,Ola,Surat,RuPay,False

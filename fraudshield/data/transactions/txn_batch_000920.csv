@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4E8DB59C,1784.73,USER_0001,7,MedPlus Pharmacy,Pune,RuPay,False
+0436FBAB,1450.12,USER_0016,14,WireTransfer_Global,Pune,Visa,True
+92586B9C,413.48,USER_0026,11,WireTransfer_Global,Mumbai,Mastercard,True
+EDDBEF61,146.41,USER_0033,6,D-Mart,Surat,Visa,False

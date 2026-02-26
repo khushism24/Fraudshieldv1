@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5DA65268,4186.35,USER_0011,20,Amazon,Jaipur,Visa,False
+A4446CB2,3969.37,USER_0030,4,Uber,Delhi,Amex,False
+17540544,810.92,USER_0047,23,Netflix,Mumbai,Amex,False
+4775629D,568.3,USER_0018,18,Amazon,Surat,Amex,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B4C0A5F8,11830.14,USER_0004,3,IRCTC,Surat,Visa,False
+E0A8776A,2012.33,USER_0041,12,Myntra,Surat,Visa,False
+BDAFD8E9,710.61,USER_0036,14,MedPlus Pharmacy,Jaipur,RuPay,False
+6728D257,2164.06,USER_0045,15,D-Mart,Mumbai,Amex,False
+7540035D,3706.89,USER_0037,13,Myntra,Mumbai,Visa,False
+29AA2961,2258.84,USER_0036,10,Amazon,Mumbai,Mastercard,False
+70545A7C,1041.31,USER_0007,7,Netflix,Jaipur,Mastercard,False
+A652CA51,3503.13,USER_0008,21,Amazon,Surat,Amex,False

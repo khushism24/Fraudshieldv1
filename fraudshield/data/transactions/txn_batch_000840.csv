@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6AC247AD,1630.89,USER_0035,8,Uber,Pune,Mastercard,False
+6EAEFA9C,15559.64,USER_0010,3,BigBasket,Hyderabad,Mastercard,False
+7D6FF540,9645.54,USER_0038,0,Zomato,Surat,Amex,False
+1B424CE0,1999.28,USER_0045,18,Reliance Mart,Ahmedabad,Amex,False
+0010A8D9,11594.98,USER_0030,5,Amazon,Bangalore,RuPay,False
+5BAC3E51,281.31,USER_0020,20,Flipkart,Chennai,RuPay,False
+DC2DD3C1,3585.93,USER_0043,13,BigBasket,Pune,Amex,False
+F1B6A3C9,975.61,USER_0006,13,Zomato,Jaipur,Visa,False

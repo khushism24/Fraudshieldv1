@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D51593E5,2641.12,USER_0016,17,BigBasket,Pune,Visa,False
+974EBF28,8019.17,USER_0004,4,WireTransfer_Global,Chennai,Visa,True
+A7605040,4423.36,USER_0003,6,MedPlus Pharmacy,Mumbai,Visa,False
+923630B2,454.29,USER_0046,7,Myntra,Mumbai,Amex,False

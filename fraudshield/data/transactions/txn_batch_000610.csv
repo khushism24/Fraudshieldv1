@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0786F758,4456.2,USER_0013,15,Netflix,Chennai,Visa,False
+2EB3DB07,3150.78,USER_0011,15,D-Mart,Chennai,Amex,False
+E6861E89,3126.72,USER_0003,15,Amazon,Pune,Amex,False

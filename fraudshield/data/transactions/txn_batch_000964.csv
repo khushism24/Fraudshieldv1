@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E894AA8E,2406.57,USER_0041,15,Netflix,Kolkata,Amex,False
+A649CD6B,13154.34,USER_0015,3,Flipkart,Ahmedabad,Mastercard,False
+3191CD76,3488.12,USER_0008,13,IRCTC,Pune,Mastercard,False
+31DEE6E0,3841.22,USER_0044,17,BigBasket,Surat,RuPay,False
+FFC10C08,970.18,USER_0034,16,Zomato,Mumbai,Visa,False

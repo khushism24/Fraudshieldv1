@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A97275E5,1258.65,USER_0007,13,CasinoRoyal,Mumbai,Visa,True
+AE6469DA,16415.27,USER_0012,1,Myntra,Ahmedabad,Visa,False
+04CD8986,4112.09,USER_0045,6,IRCTC,Hyderabad,Amex,False
+A3CCE180,2917.54,USER_0019,17,BigBasket,Surat,RuPay,False

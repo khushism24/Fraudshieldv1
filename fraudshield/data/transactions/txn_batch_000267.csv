@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4598EED0,1743.85,USER_0025,20,CasinoRoyal,Mumbai,RuPay,True
+D6A56E95,15908.4,USER_0037,0,Flipkart,Bangalore,Mastercard,False
+1AB74326,4400.71,USER_0036,16,MedPlus Pharmacy,Pune,Amex,False

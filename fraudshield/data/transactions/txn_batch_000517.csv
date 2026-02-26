@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8C7491DF,17890.62,USER_0045,5,Uber,Jaipur,Mastercard,False
+96F7877C,3445.82,USER_0031,11,D-Mart,Delhi,Amex,False
+48D5DA57,1686.37,USER_0032,12,Flipkart,Ahmedabad,Mastercard,False
+E1F64315,2189.01,USER_0050,11,Zomato,Kolkata,Visa,False
+31C7987B,4077.45,USER_0039,6,Amazon,Bangalore,Visa,False
+A91FD6D7,11662.98,USER_0043,3,Uber,Delhi,Mastercard,False
+36B10123,3729.64,USER_0012,9,Myntra,Jaipur,Mastercard,False

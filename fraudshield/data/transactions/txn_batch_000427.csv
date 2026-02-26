@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A9310138,1296.08,USER_0046,17,CasinoRoyal,Ahmedabad,Visa,True
+9C8704CA,3469.34,USER_0027,6,Reliance Mart,Chennai,RuPay,False
+227326D6,4589.75,USER_0022,1,Amazon,Chennai,Visa,False
+51B2723E,2406.3,USER_0022,14,Swiggy,Jaipur,Mastercard,False
+509A7389,3308.18,USER_0001,6,Swiggy,Jaipur,Visa,False

@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-7C8FBDC2,2244.22,USER_0007,9,Myntra,Chennai,Mastercard,False
-577061A8,1153.42,USER_0040,21,Amazon,Kolkata,Mastercard,False
-87AEBDAC,2385.74,USER_0049,13,Amazon,Bangalore,Mastercard,False
-FB4597E3,231.11,USER_0023,19,Netflix,Mumbai,Mastercard,False
+216A865B,59.81,USER_0009,7,MedPlus Pharmacy,Mumbai,Visa,False
+70DAE878,1729.16,USER_0027,23,BigBasket,Delhi,Visa,False
+134A68BB,2501.7,USER_0005,18,BookMyShow,Mumbai,Visa,False
+8B522CB9,4234.66,USER_0038,18,Zomato,Kolkata,Amex,False
+A130A0A7,1715.75,USER_0027,17,MedPlus Pharmacy,Delhi,RuPay,False
+F4C587CF,3223.86,USER_0023,20,Amazon,Delhi,RuPay,False

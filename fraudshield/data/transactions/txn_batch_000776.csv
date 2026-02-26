@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8734EC28,1352.59,USER_0040,8,Flipkart,Kolkata,Amex,False
+C24D677E,3690.79,USER_0049,14,CasinoRoyal,Jaipur,Mastercard,True
+F2BEE15A,2246.81,USER_0033,20,BigBasket,Chennai,RuPay,False

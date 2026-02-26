@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+37AD678D,1973.69,USER_0033,6,CryptoExchange_BuyBit,Ahmedabad,Visa,True
+5950098F,4208.91,USER_0036,13,Swiggy,Kolkata,Visa,False
+111A6BFB,4651.09,USER_0039,3,BigBasket,Hyderabad,Mastercard,False
+A284D7AF,2239.11,USER_0046,14,Ola,Kolkata,Amex,False
+9AEB1132,2972.2,USER_0020,7,IRCTC,Mumbai,RuPay,False

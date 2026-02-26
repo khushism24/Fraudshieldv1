@@ -1,7 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-14542B3F,4473.39,USER_0033,19,MedPlus Pharmacy,Jaipur,RuPay,False
-E2AACBAA,3924.26,USER_0020,3,Ola,Hyderabad,Amex,False
-1AEC1F14,4233.0,USER_0050,21,Reliance Mart,Pune,Mastercard,False
-CC68B7FC,3917.33,USER_0020,17,Swiggy,Kolkata,RuPay,False
-2E36FCD1,1344.74,USER_0004,10,Flipkart,Surat,RuPay,False
-A0ACBF41,255.31,USER_0005,15,Reliance Mart,Jaipur,Visa,False
+C2C171AE,1699.79,USER_0024,10,Zomato,Ahmedabad,Visa,False
+C56E6927,3988.33,USER_0007,3,D-Mart,Kolkata,Amex,False
+39E1CDB6,4351.87,USER_0045,13,Myntra,Ahmedabad,Visa,False
+F7129DA4,388.22,USER_0011,7,D-Mart,Delhi,Amex,False
+8BF632D5,2603.61,USER_0017,10,BookMyShow,Kolkata,RuPay,False
+90CBAB49,2398.24,USER_0045,18,MedPlus Pharmacy,Kolkata,Mastercard,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+04057E28,4272.07,USER_0035,17,D-Mart,Mumbai,Amex,False
+743302E1,2108.95,USER_0047,22,D-Mart,Jaipur,RuPay,False
+5F9BCDDF,4097.82,USER_0049,15,Myntra,Chennai,Amex,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9EE186CF,1562.88,USER_0012,23,CryptoExchange_BuyBit,Pune,RuPay,True
+24FB7D66,756.4,USER_0031,10,Reliance Mart,Kolkata,Visa,False
+91632143,3324.73,USER_0009,12,Uber,Mumbai,RuPay,False
+F86036E3,6468.77,USER_0049,4,Uber,Jaipur,Amex,False

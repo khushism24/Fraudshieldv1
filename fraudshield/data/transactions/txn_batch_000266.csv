@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8272CD38,3807.51,USER_0003,22,IRCTC,Delhi,Amex,False
+83120BD3,2348.49,USER_0020,15,Swiggy,Delhi,Visa,False
+AD81D383,1335.19,USER_0005,21,Ola,Ahmedabad,Amex,False
+5B7A3B29,2283.87,USER_0037,15,WireTransfer_Global,Ahmedabad,RuPay,True
+C6B1C933,8891.39,USER_0037,3,CryptoExchange_BuyBit,Pune,Visa,True
+7E701D53,2243.67,USER_0038,4,Uber,Ahmedabad,Mastercard,False

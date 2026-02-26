@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1DAB3559,3306.61,USER_0007,15,CryptoExchange_BuyBit,Mumbai,Amex,True
+B547DCD3,1771.37,USER_0038,20,Myntra,Hyderabad,Mastercard,False
+D90F376A,3245.51,USER_0014,20,BigBasket,Ahmedabad,Mastercard,False

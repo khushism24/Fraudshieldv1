@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+796DF95E,93.92,USER_0006,14,Reliance Mart,Chennai,RuPay,False
+7E62F10E,1710.43,USER_0035,22,WireTransfer_Global,Kolkata,Mastercard,True
+987B2A01,14897.44,USER_0045,5,CasinoRoyal,Jaipur,Visa,True
+72535363,4336.54,USER_0022,14,D-Mart,Jaipur,RuPay,False
+6AB55811,2764.88,USER_0033,22,WireTransfer_Global,Delhi,Visa,True
+D4EA6E26,4144.84,USER_0008,8,IRCTC,Bangalore,RuPay,False
+2EE63A2C,2790.52,USER_0003,21,MedPlus Pharmacy,Surat,Visa,False
+5508E450,3066.73,USER_0007,19,Amazon,Pune,Visa,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DBF33DC4,2912.36,USER_0017,8,BookMyShow,Delhi,Visa,False
+AE8F4A46,2547.56,USER_0038,18,Amazon,Pune,RuPay,False
+52F10FAA,3991.73,USER_0010,6,BookMyShow,Bangalore,Amex,False
+88C5E445,2713.2,USER_0008,9,Flipkart,Kolkata,Mastercard,False
+8E325AF8,1184.98,USER_0011,6,Myntra,Chennai,Amex,False
+1DF9C544,922.3,USER_0039,15,Flipkart,Kolkata,Amex,False
+2FF56AF0,14443.15,USER_0021,1,BigBasket,Kolkata,Mastercard,False

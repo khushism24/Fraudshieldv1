@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FCD54825,1529.13,USER_0024,6,CasinoRoyal,Pune,RuPay,True
+5001BA02,7017.21,USER_0019,1,BookMyShow,Mumbai,RuPay,False
+08265C44,18591.8,USER_0002,2,Amazon,Bangalore,RuPay,False
+764C08AD,4341.97,USER_0026,7,Zomato,Ahmedabad,Mastercard,False

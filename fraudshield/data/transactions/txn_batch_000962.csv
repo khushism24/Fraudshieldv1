@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4C1BBBD3,660.19,USER_0017,13,Uber,Bangalore,Mastercard,False
+9086CC22,4083.2,USER_0002,2,BookMyShow,Ahmedabad,Amex,False
+340AD62B,15650.33,USER_0028,3,Netflix,Mumbai,RuPay,False
+381D09D5,1423.61,USER_0033,12,D-Mart,Hyderabad,Mastercard,False
+D0323CE2,1400.14,USER_0037,11,Uber,Chennai,Mastercard,False

@@ -1,5 +1,6 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-6407C40E,2586.68,USER_0041,6,Zomato,Jaipur,Visa,False
-01EE042E,1892.57,USER_0009,6,WireTransfer_Global,Kolkata,Amex,True
-2D999B80,23769.75,USER_0026,1,Zomato,Surat,Visa,False
-976960E4,1443.87,USER_0018,1,IRCTC,Chennai,Amex,False
+1C26A2DF,3175.25,USER_0009,7,BigBasket,Chennai,Mastercard,False
+88446037,152.53,USER_0016,16,Flipkart,Surat,Mastercard,False
+7FDC5D70,2349.26,USER_0039,13,BookMyShow,Delhi,Visa,False
+3E86B4F9,3156.44,USER_0045,16,Uber,Pune,Mastercard,False
+1A9A162B,2129.45,USER_0037,20,IRCTC,Mumbai,Visa,False

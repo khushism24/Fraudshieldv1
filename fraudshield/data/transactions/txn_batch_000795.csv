@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8D36F9CD,767.32,USER_0045,12,Reliance Mart,Surat,Visa,False
+1501C9FB,3951.95,USER_0025,22,Flipkart,Pune,RuPay,False
+D330EB97,3076.7,USER_0002,12,Netflix,Jaipur,Mastercard,False
+70D7184F,3709.16,USER_0014,19,Flipkart,Mumbai,RuPay,False
+AC65F9B0,3376.84,USER_0003,21,Amazon,Bangalore,RuPay,False

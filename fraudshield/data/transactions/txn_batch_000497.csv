@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+369C6474,22587.75,USER_0023,5,CasinoRoyal,Mumbai,Amex,True
+AFC5B195,17257.35,USER_0026,2,Uber,Kolkata,Visa,False
+1889C539,9818.7,USER_0017,3,Amazon,Kolkata,Visa,False
+71614447,660.24,USER_0050,19,Reliance Mart,Pune,RuPay,False
+90833D81,17090.15,USER_0041,0,Myntra,Chennai,Visa,False

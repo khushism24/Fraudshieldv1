@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1767369C,3362.29,USER_0004,12,D-Mart,Bangalore,Amex,False
+4294FE1F,906.07,USER_0022,1,Swiggy,Chennai,Visa,False
+DF62D8FE,3165.64,USER_0038,13,CasinoRoyal,Bangalore,RuPay,True
+68278075,2594.12,USER_0024,7,Netflix,Kolkata,RuPay,False
+43819116,15083.74,USER_0005,0,Ola,Kolkata,RuPay,False
+16E7730B,6305.59,USER_0028,4,CasinoRoyal,Pune,Visa,True
+545848C0,933.87,USER_0047,12,Zomato,Mumbai,Mastercard,False

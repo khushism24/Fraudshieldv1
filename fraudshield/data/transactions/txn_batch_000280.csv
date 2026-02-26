@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+238609CB,3086.62,USER_0009,9,IRCTC,Kolkata,Mastercard,False
+EA60192F,18991.4,USER_0006,3,Uber,Chennai,Mastercard,False
+C3CBF65B,468.91,USER_0047,16,Swiggy,Bangalore,RuPay,False
+70BD64D8,961.33,USER_0041,20,Ola,Ahmedabad,RuPay,False
+6679A7EA,3482.53,USER_0022,6,Uber,Jaipur,RuPay,False
+E23DF376,1368.04,USER_0016,23,MedPlus Pharmacy,Ahmedabad,Amex,False
+88672025,858.31,USER_0018,11,Netflix,Ahmedabad,Amex,False

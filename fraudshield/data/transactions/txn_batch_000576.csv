@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7A3D05BF,4322.43,USER_0002,8,Uber,Kolkata,RuPay,False
+D3441003,4282.69,USER_0022,14,Ola,Pune,Amex,False
+3A1D12A0,4363.85,USER_0041,23,CasinoRoyal,Pune,Visa,True
+3E17D2B9,1537.38,USER_0048,20,CasinoRoyal,Surat,RuPay,True

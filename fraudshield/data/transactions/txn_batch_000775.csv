@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6CF9387A,262.79,USER_0044,12,CryptoExchange_BuyBit,Kolkata,RuPay,True
+DC79A9F2,2727.66,USER_0050,7,Myntra,Mumbai,RuPay,False
+FAD52DF1,729.88,USER_0025,9,Zomato,Bangalore,Mastercard,False
+37C3C505,1179.66,USER_0005,15,Ola,Mumbai,Mastercard,False
+6869F62E,226.17,USER_0011,17,CryptoExchange_BuyBit,Mumbai,Amex,True
+7215557D,4073.17,USER_0038,7,BigBasket,Kolkata,Amex,False

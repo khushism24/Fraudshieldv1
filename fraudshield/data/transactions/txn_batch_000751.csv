@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+701960F9,1831.66,USER_0005,1,WireTransfer_Global,Bangalore,Visa,True
+2CC95725,1797.51,USER_0049,10,Uber,Chennai,Amex,False
+5B6F1DCA,2926.58,USER_0017,8,BookMyShow,Kolkata,Visa,False

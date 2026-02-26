@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1C89067F,4480.76,USER_0044,8,Reliance Mart,Surat,Amex,False
+2971A1BC,4294.06,USER_0007,20,Amazon,Delhi,Mastercard,False
+A29E08CF,11353.59,USER_0032,3,BookMyShow,Ahmedabad,Visa,False
+4D1BBA4D,2499.21,USER_0002,19,Amazon,Hyderabad,RuPay,False

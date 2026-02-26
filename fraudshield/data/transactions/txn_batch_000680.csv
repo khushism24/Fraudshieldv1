@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1C6FA3F7,23328.14,USER_0028,3,WireTransfer_Global,Mumbai,Mastercard,True
+5FFA9566,15598.73,USER_0026,2,Netflix,Bangalore,Amex,False
+0C55B058,3385.03,USER_0043,2,Netflix,Pune,RuPay,False

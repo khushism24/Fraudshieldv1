@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A0E72414,1046.84,USER_0024,7,CryptoExchange_BuyBit,Kolkata,RuPay,True
+C774D977,1806.0,USER_0048,11,D-Mart,Bangalore,Mastercard,False
+D872C73D,3067.97,USER_0030,13,BigBasket,Pune,RuPay,False
+82C388D1,1737.29,USER_0014,19,WireTransfer_Global,Jaipur,Mastercard,True

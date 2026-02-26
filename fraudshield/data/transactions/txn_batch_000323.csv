@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4FB1600D,2134.74,USER_0049,5,Ola,Surat,Amex,False
+8C81886B,2094.8,USER_0041,1,Netflix,Surat,Amex,False
+DA2D2ADB,6875.33,USER_0036,5,MedPlus Pharmacy,Chennai,Visa,False
+97F32EC5,877.34,USER_0004,18,CasinoRoyal,Kolkata,RuPay,True
+F1CD978C,2088.42,USER_0045,19,D-Mart,Jaipur,Mastercard,False

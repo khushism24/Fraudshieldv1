@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0698CD0C,21438.38,USER_0030,3,MedPlus Pharmacy,Jaipur,Visa,False
+20EC09D7,4104.46,USER_0024,12,Uber,Surat,RuPay,False
+F0A2D25D,2111.4,USER_0044,13,Ola,Jaipur,RuPay,False
+79F6DCB9,1597.76,USER_0017,22,BookMyShow,Delhi,Amex,False
+9B183795,3519.72,USER_0001,16,CryptoExchange_BuyBit,Delhi,RuPay,True

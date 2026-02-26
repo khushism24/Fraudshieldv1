@@ -1,7 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-CC910D3D,300.8,USER_0029,14,Reliance Mart,Chennai,RuPay,False
-318EF446,3599.79,USER_0006,14,IRCTC,Kolkata,RuPay,False
-E71B4B7D,2778.8,USER_0034,11,Myntra,Jaipur,Amex,False
-CAB515FC,1781.8,USER_0008,7,D-Mart,Pune,RuPay,False
-44D733E6,3531.32,USER_0032,13,D-Mart,Delhi,Mastercard,False
-398F403B,181.62,USER_0011,19,Zomato,Ahmedabad,Mastercard,False
+24BE04B7,2799.93,USER_0036,6,CasinoRoyal,Kolkata,Visa,True
+30F26BA7,2655.51,USER_0012,14,Zomato,Delhi,Amex,False
+4E02413C,881.91,USER_0035,19,Ola,Surat,Amex,False
+D8EC493C,22979.52,USER_0039,2,CasinoRoyal,Chennai,Amex,True
+582436E3,11567.6,USER_0043,0,Zomato,Ahmedabad,Visa,False
+85765F07,4349.35,USER_0042,6,Myntra,Jaipur,Amex,False
+C9E2AB48,3987.42,USER_0026,23,Reliance Mart,Ahmedabad,Amex,False

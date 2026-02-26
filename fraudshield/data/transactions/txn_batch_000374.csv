@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+70F11977,4448.11,USER_0008,23,Reliance Mart,Mumbai,Mastercard,False
+DBA45672,579.48,USER_0033,22,Netflix,Bangalore,Mastercard,False
+3B5A16FE,305.45,USER_0026,8,D-Mart,Chennai,Amex,False
+4DAE3A14,1076.94,USER_0020,14,Zomato,Bangalore,Amex,False
+5231DAB7,1014.51,USER_0026,14,Swiggy,Chennai,Amex,False
+742FDA88,1852.74,USER_0048,17,MedPlus Pharmacy,Kolkata,Visa,False

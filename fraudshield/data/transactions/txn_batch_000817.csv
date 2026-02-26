@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+19B1CBCF,1287.21,USER_0028,11,CryptoExchange_BuyBit,Hyderabad,Visa,True
+203E8FD9,18142.48,USER_0045,0,D-Mart,Bangalore,Amex,False
+56727618,950.74,USER_0040,12,Flipkart,Bangalore,Amex,False
+058C8B93,3455.81,USER_0023,22,Flipkart,Chennai,Mastercard,False
+CC612980,3046.46,USER_0043,7,IRCTC,Jaipur,Visa,False

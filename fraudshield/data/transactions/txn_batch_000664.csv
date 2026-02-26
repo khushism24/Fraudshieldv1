@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DBCF5CE6,20757.61,USER_0019,4,Uber,Jaipur,Amex,False
+D399A285,1317.27,USER_0037,16,BigBasket,Chennai,RuPay,False
+FFD492EF,3593.87,USER_0003,22,Swiggy,Bangalore,RuPay,False
+590CB357,663.11,USER_0023,15,Amazon,Pune,Visa,False
+C318422A,1127.2,USER_0006,6,WireTransfer_Global,Ahmedabad,RuPay,True
+FB243A60,3957.47,USER_0014,22,BigBasket,Delhi,RuPay,False
+8CE3E77C,3259.62,USER_0022,9,BookMyShow,Hyderabad,Mastercard,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1D080D72,2272.1,USER_0007,13,WireTransfer_Global,Bangalore,RuPay,True
+E0200731,468.85,USER_0028,11,BigBasket,Surat,RuPay,False
+55833F70,10716.91,USER_0025,3,Amazon,Surat,RuPay,False
+1F0726C1,3647.25,USER_0015,12,WireTransfer_Global,Kolkata,Amex,True
+BA084177,11384.04,USER_0019,2,D-Mart,Hyderabad,Visa,False
+BEE4F78D,1060.03,USER_0042,16,D-Mart,Pune,Mastercard,False
+D675264C,2089.47,USER_0014,22,Amazon,Ahmedabad,Mastercard,False

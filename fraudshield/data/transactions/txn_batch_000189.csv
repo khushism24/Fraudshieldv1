@@ -1,9 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-1097A0F0,2633.52,USER_0016,20,MedPlus Pharmacy,Chennai,Visa,False
-4EA3BA83,3707.72,USER_0028,2,Netflix,Hyderabad,RuPay,False
-9BF1CA57,4346.71,USER_0025,16,CryptoExchange_BuyBit,Jaipur,RuPay,True
-D5C47BE8,3135.42,USER_0020,4,BookMyShow,Ahmedabad,Mastercard,False
-68FF7A3F,4130.76,USER_0039,19,Netflix,Hyderabad,Mastercard,False
-7C054D5C,2783.1,USER_0012,16,MedPlus Pharmacy,Delhi,Amex,False
-EFDE152A,3467.63,USER_0033,23,IRCTC,Pune,Visa,False
-B343392C,4088.16,USER_0029,22,Uber,Chennai,Mastercard,False
+5F137E26,1421.09,USER_0040,2,Swiggy,Kolkata,Visa,False
+483D0725,1421.84,USER_0037,10,Ola,Bangalore,RuPay,False
+246D1C92,3271.78,USER_0016,14,Ola,Delhi,Mastercard,False
+49C25284,2027.52,USER_0050,14,CasinoRoyal,Hyderabad,RuPay,True
+43BB6BD3,4374.16,USER_0043,5,IRCTC,Jaipur,Visa,False
+A4FD4932,839.79,USER_0002,5,Zomato,Kolkata,Mastercard,False
+A1F7FBA6,3895.99,USER_0010,9,Myntra,Delhi,RuPay,False
+CB843735,3854.24,USER_0031,23,D-Mart,Mumbai,Visa,False

@@ -1,4 +1,5 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-89501508,4441.27,USER_0038,8,BigBasket,Chennai,Mastercard,False
-68115132,4464.87,USER_0046,23,CryptoExchange_BuyBit,Jaipur,Mastercard,True
-8B91FE32,2281.39,USER_0029,15,Reliance Mart,Surat,Mastercard,False
+34AC5A3C,2325.09,USER_0003,11,BigBasket,Bangalore,Amex,False
+75961A09,20505.88,USER_0039,1,Swiggy,Hyderabad,RuPay,False
+360D8E9E,4177.19,USER_0023,9,Swiggy,Bangalore,Visa,False
+E2401DF9,1731.45,USER_0042,16,Ola,Delhi,RuPay,False

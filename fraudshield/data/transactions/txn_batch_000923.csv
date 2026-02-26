@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FABFB322,2793.85,USER_0005,10,Reliance Mart,Pune,Amex,False
+E6DB3E57,2263.78,USER_0009,17,Swiggy,Bangalore,Mastercard,False
+EA57352F,2764.77,USER_0005,12,Uber,Mumbai,RuPay,False
+D2206C42,527.52,USER_0029,0,Flipkart,Hyderabad,Mastercard,False
+142AAE62,6591.11,USER_0036,5,Amazon,Pune,Visa,False
+1AD5221E,1507.08,USER_0031,10,BookMyShow,Ahmedabad,Amex,False

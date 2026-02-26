@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A789E70D,1483.32,USER_0035,2,Myntra,Surat,Mastercard,False
+DFA7B0C4,2734.83,USER_0025,20,Myntra,Kolkata,Visa,False
+968C06A7,16841.52,USER_0012,2,Ola,Pune,RuPay,False
+81AAFBC5,2446.18,USER_0048,7,Reliance Mart,Jaipur,Mastercard,False
+1A840022,4241.69,USER_0033,23,BigBasket,Ahmedabad,RuPay,False

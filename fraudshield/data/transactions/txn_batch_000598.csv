@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1B10880A,76.76,USER_0024,10,CryptoExchange_BuyBit,Bangalore,Visa,True
+CD160AE1,3721.4,USER_0009,6,Netflix,Surat,RuPay,False
+5A6D11CF,3978.42,USER_0029,12,Amazon,Mumbai,Visa,False
+F9BBBE11,1080.7,USER_0007,18,CryptoExchange_BuyBit,Kolkata,Visa,True
+166D983B,290.2,USER_0013,7,D-Mart,Chennai,Amex,False
+28CF2146,327.95,USER_0008,22,D-Mart,Surat,Mastercard,False

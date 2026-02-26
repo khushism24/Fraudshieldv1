@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+63EE2E7A,3739.85,USER_0019,10,Amazon,Surat,Amex,False
+5A778D01,1054.54,USER_0012,15,WireTransfer_Global,Ahmedabad,Mastercard,True
+862A3626,3900.18,USER_0005,18,Flipkart,Delhi,RuPay,False
+8FD15B06,1796.5,USER_0023,22,Flipkart,Bangalore,Mastercard,False
+A6B442C6,4270.06,USER_0001,13,Myntra,Bangalore,Amex,False

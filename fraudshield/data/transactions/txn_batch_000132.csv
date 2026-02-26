@@ -1,4 +1,4 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-73B37ED0,153.78,USER_0013,12,Swiggy,Bangalore,Visa,False
-0EA43A24,8159.68,USER_0030,2,BookMyShow,Pune,Mastercard,False
-35CEFF31,3046.37,USER_0004,18,Ola,Delhi,Amex,False
+592E5148,499.03,USER_0017,9,Flipkart,Hyderabad,Visa,False
+842B7D3C,1153.67,USER_0031,10,Zomato,Pune,Visa,False
+400F7A81,4132.19,USER_0002,10,Amazon,Mumbai,RuPay,False

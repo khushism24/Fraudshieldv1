@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+84076E50,4245.29,USER_0030,21,BigBasket,Kolkata,Mastercard,False
+568CFF0A,19870.48,USER_0050,3,Zomato,Surat,RuPay,False
+E29DD6E4,437.73,USER_0021,6,Zomato,Chennai,Visa,False
+EF345A42,3244.73,USER_0005,14,BookMyShow,Delhi,Amex,False

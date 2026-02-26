@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F952B7A8,3361.33,USER_0039,7,Myntra,Kolkata,Visa,False
+216E9631,2605.49,USER_0045,23,Zomato,Jaipur,RuPay,False
+12398CB8,1026.1,USER_0009,5,BookMyShow,Delhi,Mastercard,False
+198B53B9,2652.48,USER_0047,6,CryptoExchange_BuyBit,Ahmedabad,Mastercard,True
+2E0BC927,19142.54,USER_0008,1,Reliance Mart,Delhi,RuPay,False
+0B934474,13516.06,USER_0050,5,Zomato,Delhi,Mastercard,False
+75A110D1,4301.0,USER_0023,4,D-Mart,Pune,Amex,False
+6A798E96,3933.96,USER_0029,13,MedPlus Pharmacy,Ahmedabad,Amex,False

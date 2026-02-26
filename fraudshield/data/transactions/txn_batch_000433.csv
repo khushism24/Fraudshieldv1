@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CAF80E89,3909.25,USER_0012,11,BigBasket,Ahmedabad,Amex,False
+8D0469CE,2083.65,USER_0004,16,CasinoRoyal,Hyderabad,Mastercard,True
+429B2205,1009.29,USER_0043,9,BigBasket,Chennai,Mastercard,False
+E205AABD,19249.47,USER_0012,1,CryptoExchange_BuyBit,Mumbai,Mastercard,True
+8ADA9907,21628.22,USER_0019,1,Netflix,Pune,Visa,False
+9EB9009E,4450.61,USER_0050,23,Zomato,Pune,Amex,False

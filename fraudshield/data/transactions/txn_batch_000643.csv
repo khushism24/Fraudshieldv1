@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+01359820,2310.22,USER_0036,14,D-Mart,Surat,Amex,False
+F5E36D3E,10128.74,USER_0005,2,Amazon,Mumbai,Amex,False
+5A9E8270,795.56,USER_0046,22,Myntra,Chennai,Amex,False
+4B5FE1BF,1069.03,USER_0017,13,Flipkart,Delhi,Visa,False

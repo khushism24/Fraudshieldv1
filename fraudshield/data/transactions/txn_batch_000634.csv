@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+12C89069,3069.87,USER_0037,13,Amazon,Ahmedabad,RuPay,False
+78B5BF0A,2784.08,USER_0048,4,WireTransfer_Global,Mumbai,RuPay,True
+C6533035,2066.34,USER_0005,20,BigBasket,Delhi,Amex,False
+AF3C677A,3432.32,USER_0025,17,BookMyShow,Ahmedabad,Visa,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+55AA737B,2127.85,USER_0040,16,Myntra,Surat,Visa,False
+2B61B5B5,3095.32,USER_0034,3,Myntra,Jaipur,Amex,False
+A695ECF6,2291.65,USER_0027,11,BigBasket,Bangalore,Visa,False
+E39FCC5F,5204.95,USER_0019,2,Flipkart,Surat,Amex,False
+CEA537D4,544.22,USER_0048,13,CasinoRoyal,Hyderabad,Amex,True

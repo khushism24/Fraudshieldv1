@@ -1,6 +1,5 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-56E37A6B,797.82,USER_0027,0,Ola,Mumbai,Amex,False
-E272AFEA,1718.81,USER_0040,23,Myntra,Jaipur,Visa,False
-E1046080,3980.25,USER_0043,13,Amazon,Ahmedabad,Amex,False
-F7E12488,1241.37,USER_0029,17,Zomato,Bangalore,Visa,False
-D739E001,1404.76,USER_0031,2,MedPlus Pharmacy,Ahmedabad,Amex,False
+D459CBE1,247.17,USER_0006,9,IRCTC,Delhi,RuPay,False
+89F3B3FB,1541.07,USER_0015,12,D-Mart,Pune,RuPay,False
+F2BAFC22,1788.86,USER_0019,21,CasinoRoyal,Kolkata,RuPay,True
+597343E7,4344.21,USER_0002,14,Amazon,Surat,Amex,False

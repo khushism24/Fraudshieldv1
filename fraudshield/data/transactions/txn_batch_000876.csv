@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+717D839B,8777.74,USER_0045,2,CasinoRoyal,Mumbai,Amex,True
+DEF3FC90,1337.23,USER_0021,15,WireTransfer_Global,Jaipur,Visa,True
+FFC64043,1511.24,USER_0013,16,Uber,Mumbai,Visa,False

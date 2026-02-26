@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F44D3206,21050.86,USER_0015,2,Zomato,Jaipur,Mastercard,False
+4C43AF05,1475.96,USER_0021,21,Ola,Pune,Visa,False
+3FEA4752,3750.6,USER_0009,19,Zomato,Surat,Mastercard,False
+E9DA3BE2,23769.31,USER_0029,0,BookMyShow,Chennai,RuPay,False

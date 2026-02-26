@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4718A7CB,4086.35,USER_0040,10,D-Mart,Kolkata,Mastercard,False
+B25230D3,3930.06,USER_0046,11,Reliance Mart,Jaipur,Amex,False
+2221970A,2825.35,USER_0044,9,Amazon,Jaipur,Visa,False
+0B019CBE,2315.18,USER_0004,11,D-Mart,Chennai,Amex,False

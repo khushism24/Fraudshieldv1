@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+10235407,3681.73,USER_0005,21,Myntra,Ahmedabad,RuPay,False
+FCA22907,1655.89,USER_0037,12,Ola,Surat,Amex,False
+823D0DA6,123.13,USER_0001,16,Swiggy,Surat,Amex,False
+CE71B8AD,3679.55,USER_0036,11,CryptoExchange_BuyBit,Hyderabad,RuPay,True
+0E88E17F,9146.01,USER_0032,2,IRCTC,Bangalore,Amex,False
+ABDF236F,4420.55,USER_0016,9,Flipkart,Kolkata,Visa,False
+00C37158,3762.77,USER_0029,12,WireTransfer_Global,Hyderabad,Mastercard,True

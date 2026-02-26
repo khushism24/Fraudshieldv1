@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+26651F35,680.75,USER_0011,13,CryptoExchange_BuyBit,Ahmedabad,Amex,True
+9AD215D1,3767.71,USER_0034,15,BigBasket,Chennai,Amex,False
+BC95AB17,4112.22,USER_0015,10,Reliance Mart,Hyderabad,RuPay,False
+DE800DA0,1581.47,USER_0030,9,Ola,Ahmedabad,RuPay,False
+0076F676,761.1,USER_0046,9,IRCTC,Chennai,Amex,False
+CF5371DF,16239.81,USER_0029,5,BookMyShow,Pune,RuPay,False

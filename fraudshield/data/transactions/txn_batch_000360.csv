@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F6CDDC9B,1693.73,USER_0017,17,Swiggy,Bangalore,Mastercard,False
+8D784128,570.84,USER_0046,15,Zomato,Delhi,Visa,False
+DB4335B6,3024.91,USER_0016,7,WireTransfer_Global,Hyderabad,RuPay,True
+3482E681,4403.98,USER_0022,11,Flipkart,Hyderabad,Mastercard,False
+0FE1CAC8,3894.3,USER_0018,5,WireTransfer_Global,Chennai,Amex,True
+9DCC3888,388.61,USER_0045,18,CryptoExchange_BuyBit,Mumbai,Amex,True
+090E86C2,2289.07,USER_0015,11,Swiggy,Delhi,Visa,False

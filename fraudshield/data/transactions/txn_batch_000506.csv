@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7A5323D5,3662.38,USER_0008,17,Amazon,Pune,Mastercard,False
+1F5DB3C7,3887.83,USER_0036,10,Reliance Mart,Delhi,Mastercard,False
+893726FC,87.98,USER_0050,13,D-Mart,Hyderabad,RuPay,False
+DBD8A835,3015.44,USER_0025,12,CryptoExchange_BuyBit,Hyderabad,Visa,True

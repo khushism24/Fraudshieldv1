@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DABFC9FF,3102.63,USER_0049,20,Myntra,Chennai,RuPay,False
+CD1E7874,1667.71,USER_0038,12,Swiggy,Delhi,Mastercard,False
+AF4F6FC1,1407.48,USER_0043,12,BookMyShow,Surat,Amex,False
+8084F521,1310.91,USER_0020,18,BookMyShow,Chennai,Visa,False

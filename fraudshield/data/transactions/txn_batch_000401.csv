@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9F5BAEBA,2915.0,USER_0040,19,Ola,Hyderabad,Mastercard,False
+BDAD9FB3,8498.37,USER_0043,2,Flipkart,Bangalore,Amex,False
+3398CFFB,1457.1,USER_0032,8,Netflix,Bangalore,Mastercard,False

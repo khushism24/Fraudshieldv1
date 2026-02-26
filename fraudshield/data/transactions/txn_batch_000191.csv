@@ -1,9 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-CF5C4394,3421.93,USER_0036,7,BookMyShow,Ahmedabad,RuPay,False
-CC561B84,2567.1,USER_0045,6,BigBasket,Pune,Visa,False
-4F0FA697,94.12,USER_0033,17,IRCTC,Kolkata,RuPay,False
-D0B0C18F,217.19,USER_0045,17,WireTransfer_Global,Bangalore,Amex,True
-08F6B867,772.72,USER_0019,6,WireTransfer_Global,Bangalore,Visa,True
-493102CC,562.44,USER_0012,22,Myntra,Pune,Amex,False
-864B36F9,1730.88,USER_0046,18,BigBasket,Hyderabad,RuPay,False
-9FC41F85,3505.29,USER_0025,22,BigBasket,Kolkata,Amex,False
+40C50282,479.78,USER_0040,8,BookMyShow,Hyderabad,Amex,False
+1EC3D011,20012.24,USER_0021,4,BigBasket,Hyderabad,Visa,False
+9E590E72,3532.98,USER_0049,8,Uber,Pune,RuPay,False
+3719AE5B,3460.0,USER_0018,8,Netflix,Surat,Visa,False
+DFA85419,848.81,USER_0007,5,BigBasket,Jaipur,Amex,False
+19C5DA4E,614.58,USER_0033,18,BookMyShow,Bangalore,Mastercard,False
+71C97F6D,2895.42,USER_0017,14,Zomato,Bangalore,RuPay,False
+62154655,2253.39,USER_0041,11,Zomato,Pune,Visa,False

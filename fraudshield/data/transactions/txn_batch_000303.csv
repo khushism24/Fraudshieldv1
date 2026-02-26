@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+01851C6B,918.19,USER_0028,8,Flipkart,Hyderabad,Amex,False
+94319819,1282.96,USER_0015,6,Zomato,Ahmedabad,Visa,False
+1C8DF753,3758.32,USER_0009,20,Netflix,Kolkata,RuPay,False
+1DAAA791,1006.94,USER_0029,16,Myntra,Jaipur,Amex,False
+F248B8D9,17036.84,USER_0021,1,Uber,Delhi,Amex,False

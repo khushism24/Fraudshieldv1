@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AE13788E,1440.58,USER_0006,22,BookMyShow,Mumbai,Mastercard,False
+283222DF,2626.43,USER_0027,23,CryptoExchange_BuyBit,Surat,RuPay,True
+598602D1,882.87,USER_0026,18,Flipkart,Mumbai,Amex,False
+520BF961,5756.59,USER_0016,2,MedPlus Pharmacy,Hyderabad,Visa,False
+85E6E273,4287.23,USER_0027,21,Swiggy,Mumbai,Mastercard,False

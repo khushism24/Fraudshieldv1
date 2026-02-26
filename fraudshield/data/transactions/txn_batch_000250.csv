@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1453DD2F,4423.42,USER_0035,10,Amazon,Bangalore,Mastercard,False
+EFABB0B7,3412.05,USER_0027,20,Zomato,Ahmedabad,RuPay,False
+112FFB08,4104.36,USER_0006,2,BigBasket,Delhi,RuPay,False
+BF943DBC,856.97,USER_0043,9,IRCTC,Jaipur,Amex,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E01BDE58,3120.14,USER_0026,21,CasinoRoyal,Kolkata,Visa,True
+1C759EBA,2859.2,USER_0037,23,Amazon,Pune,Visa,False
+D45A0271,10057.69,USER_0017,1,BigBasket,Chennai,Mastercard,False

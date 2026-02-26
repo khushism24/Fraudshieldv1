@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+155E5A98,2088.28,USER_0042,19,Reliance Mart,Delhi,Amex,False
+FD4665DC,2277.42,USER_0003,14,BookMyShow,Mumbai,Amex,False
+788C2DCC,3929.21,USER_0034,22,D-Mart,Mumbai,RuPay,False
+38541D8C,3132.12,USER_0045,13,BigBasket,Chennai,Mastercard,False

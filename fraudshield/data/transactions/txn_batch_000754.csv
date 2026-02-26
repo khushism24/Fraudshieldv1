@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A266B083,17762.46,USER_0033,2,Myntra,Surat,Mastercard,False
+FB54066D,932.37,USER_0034,9,Myntra,Kolkata,Mastercard,False
+83DFE630,2375.85,USER_0027,17,MedPlus Pharmacy,Chennai,Amex,False
+60D0A4A6,2968.52,USER_0010,15,Reliance Mart,Jaipur,Amex,False

@@ -1,5 +1,5 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-265BB996,167.32,USER_0048,11,D-Mart,Mumbai,Amex,False
-4C7DF281,3560.52,USER_0003,22,CasinoRoyal,Hyderabad,Mastercard,True
-85EF5218,3817.2,USER_0032,6,Uber,Ahmedabad,Visa,False
-FBA044BD,3159.0,USER_0042,19,Netflix,Bangalore,Amex,False
+0FA9ACC4,19318.04,USER_0021,1,Uber,Bangalore,Visa,False
+40E61702,15479.78,USER_0007,4,CasinoRoyal,Surat,RuPay,True
+39777522,431.27,USER_0031,19,CryptoExchange_BuyBit,Hyderabad,Mastercard,True
+459767B7,6353.92,USER_0042,3,D-Mart,Surat,RuPay,False

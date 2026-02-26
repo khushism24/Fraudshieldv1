@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+98368B54,2005.91,USER_0001,1,MedPlus Pharmacy,Jaipur,Visa,False
+F7B0A705,1992.85,USER_0018,8,CryptoExchange_BuyBit,Ahmedabad,Visa,True
+F780AEBC,2925.52,USER_0013,14,CasinoRoyal,Delhi,RuPay,True
+7D209DAF,2570.88,USER_0018,16,Zomato,Mumbai,Amex,False

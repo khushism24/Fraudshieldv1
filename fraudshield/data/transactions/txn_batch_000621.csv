@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9C14D062,475.92,USER_0048,7,Ola,Jaipur,RuPay,False
+BEB9FCC6,1569.21,USER_0002,15,BigBasket,Pune,Amex,False
+E9E46873,3542.93,USER_0033,4,BigBasket,Chennai,Amex,False

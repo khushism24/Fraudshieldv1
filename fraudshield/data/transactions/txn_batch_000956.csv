@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+746BDAB7,4247.09,USER_0021,6,Myntra,Pune,Amex,False
+95ECA0C2,3769.92,USER_0026,13,MedPlus Pharmacy,Mumbai,Amex,False
+191A02B5,1134.79,USER_0023,13,Uber,Surat,RuPay,False
+B6B71E94,79.53,USER_0042,9,Flipkart,Ahmedabad,Amex,False
+FB00D19C,3594.21,USER_0035,8,CryptoExchange_BuyBit,Bangalore,RuPay,True
+A9E44F6D,5274.84,USER_0043,4,CasinoRoyal,Delhi,RuPay,True
+5B3B9FCF,3716.54,USER_0019,16,Myntra,Delhi,RuPay,False
+BB32E18A,1354.98,USER_0037,2,MedPlus Pharmacy,Jaipur,RuPay,False

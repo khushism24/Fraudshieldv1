@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7E5FF751,3148.69,USER_0003,5,CasinoRoyal,Mumbai,Mastercard,True
+8EB826AB,2430.88,USER_0004,11,Netflix,Jaipur,Visa,False
+86DC53EF,17725.55,USER_0001,0,Ola,Chennai,Amex,False
+C66A8943,22154.98,USER_0025,4,Ola,Chennai,Amex,False
+3FA708B4,2118.95,USER_0041,7,Netflix,Pune,RuPay,False
+58A10465,3280.59,USER_0016,18,CasinoRoyal,Surat,Mastercard,True

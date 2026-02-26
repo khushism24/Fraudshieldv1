@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DE1E7166,3104.23,USER_0030,8,Reliance Mart,Hyderabad,RuPay,False
+82B1A1C9,1680.98,USER_0036,7,MedPlus Pharmacy,Pune,Mastercard,False
+B9BB17B6,4022.9,USER_0027,3,BigBasket,Jaipur,RuPay,False

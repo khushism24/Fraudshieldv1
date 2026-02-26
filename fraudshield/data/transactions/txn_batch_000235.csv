@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DFF5C9C7,5278.72,USER_0046,1,CasinoRoyal,Delhi,Amex,True
+9494B0F6,15575.16,USER_0006,2,IRCTC,Hyderabad,Mastercard,False
+0B0E3ACE,3579.42,USER_0009,14,D-Mart,Chennai,Amex,False
+A5A5836D,3330.04,USER_0001,3,Uber,Jaipur,Mastercard,False
+AAE7B192,1164.52,USER_0003,5,Swiggy,Bangalore,Mastercard,False

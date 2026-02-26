@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+41938DF5,2245.43,USER_0011,22,MedPlus Pharmacy,Delhi,Visa,False
+34BC6AC7,24027.66,USER_0023,3,Amazon,Hyderabad,Mastercard,False
+965893DB,1803.46,USER_0049,11,IRCTC,Delhi,Visa,False
+35DE250B,2299.11,USER_0018,15,Netflix,Pune,Amex,False
+1358EE03,2496.2,USER_0004,5,WireTransfer_Global,Mumbai,Visa,True
+020CAA5A,1100.62,USER_0040,16,BookMyShow,Jaipur,RuPay,False

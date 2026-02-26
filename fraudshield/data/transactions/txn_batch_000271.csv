@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+10F875AD,18793.32,USER_0023,3,Zomato,Kolkata,RuPay,False
+07282E01,3752.7,USER_0026,15,MedPlus Pharmacy,Mumbai,Mastercard,False
+3DC4A512,3515.94,USER_0013,8,WireTransfer_Global,Pune,Visa,True
+89EDCB1A,3682.46,USER_0046,6,WireTransfer_Global,Ahmedabad,Visa,True

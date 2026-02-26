@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0DDC8643,2603.17,USER_0030,18,CryptoExchange_BuyBit,Delhi,Amex,True
+1E3C0E4B,4097.69,USER_0030,17,Netflix,Pune,Amex,False
+31909A92,2407.55,USER_0009,18,Zomato,Mumbai,Amex,False
+A1A6E80F,4497.56,USER_0014,20,Flipkart,Mumbai,RuPay,False
+7DED7477,1172.25,USER_0036,18,Zomato,Delhi,Visa,False

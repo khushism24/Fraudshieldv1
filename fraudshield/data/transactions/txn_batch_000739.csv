@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+75C3C115,1199.3,USER_0020,6,Ola,Chennai,Amex,False
+4CFC113D,1283.3,USER_0049,16,CasinoRoyal,Mumbai,Amex,True
+8FE970B2,554.97,USER_0011,20,Ola,Chennai,RuPay,False
+BB14D02A,1914.59,USER_0050,14,Swiggy,Pune,Visa,False
+88EDA6CA,23677.38,USER_0020,3,Netflix,Ahmedabad,Visa,False
+657A800A,4168.75,USER_0010,9,Myntra,Pune,Amex,False

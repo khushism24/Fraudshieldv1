@@ -1,9 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-2959AD16,2395.74,USER_0002,16,Reliance Mart,Delhi,Mastercard,False
-587091FA,548.78,USER_0037,9,CryptoExchange_BuyBit,Delhi,Mastercard,True
-852FD2B5,1648.49,USER_0006,17,CasinoRoyal,Jaipur,Visa,True
-7EA04225,3486.99,USER_0012,22,CryptoExchange_BuyBit,Delhi,RuPay,True
-F8904521,4359.25,USER_0046,13,Reliance Mart,Delhi,Amex,False
-0E3C55B3,680.71,USER_0026,7,BookMyShow,Chennai,RuPay,False
-88B5FF19,2880.82,USER_0003,16,BigBasket,Pune,Amex,False
-F7C8E298,3818.29,USER_0003,18,D-Mart,Jaipur,RuPay,False
+9B7616A5,2560.76,USER_0009,20,Swiggy,Bangalore,Amex,False
+2F97A553,4668.61,USER_0044,1,BookMyShow,Hyderabad,Visa,False
+7A69A0D7,2075.52,USER_0028,15,MedPlus Pharmacy,Pune,RuPay,False
+0B1140D4,4776.05,USER_0020,3,MedPlus Pharmacy,Hyderabad,Amex,False
+5DFF7F66,2759.53,USER_0008,13,Myntra,Chennai,Mastercard,False
+7698A6F7,2869.93,USER_0010,21,D-Mart,Mumbai,Visa,False
+7A2D860B,2878.38,USER_0031,4,BookMyShow,Kolkata,Visa,False

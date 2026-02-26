@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+322C8988,1054.01,USER_0026,21,WireTransfer_Global,Delhi,Mastercard,True
+61381BA8,3851.89,USER_0049,15,BigBasket,Mumbai,Visa,False
+86857EBE,632.14,USER_0030,13,Swiggy,Chennai,Mastercard,False
+E22EDDE2,2489.82,USER_0021,20,CasinoRoyal,Pune,Mastercard,True
+A4B5E521,3471.84,USER_0029,10,BookMyShow,Mumbai,Mastercard,False

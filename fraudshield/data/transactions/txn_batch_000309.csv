@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+18448E37,3895.86,USER_0043,16,Zomato,Delhi,Mastercard,False
+38031860,3752.08,USER_0031,4,Zomato,Chennai,RuPay,False
+CD7F92DC,1980.21,USER_0038,14,BigBasket,Surat,RuPay,False
+C45E9163,3867.96,USER_0038,5,BookMyShow,Surat,Amex,False
+B5FA04E5,10337.41,USER_0012,2,MedPlus Pharmacy,Surat,Visa,False
+AE6E3FE9,762.46,USER_0004,7,CryptoExchange_BuyBit,Mumbai,Visa,True
+54A06517,2261.26,USER_0004,10,BigBasket,Kolkata,Mastercard,False
+8110C9B8,3287.05,USER_0012,21,Netflix,Delhi,Amex,False

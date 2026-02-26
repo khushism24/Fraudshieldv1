@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+885AD4C8,1634.45,USER_0048,8,Flipkart,Hyderabad,RuPay,False
+E6CED83D,3061.35,USER_0050,16,BookMyShow,Chennai,Visa,False
+4DE5B8B1,10176.9,USER_0034,1,Reliance Mart,Delhi,Amex,False
+06C45A19,10092.59,USER_0029,3,MedPlus Pharmacy,Hyderabad,Mastercard,False
+50059070,3139.34,USER_0020,14,Reliance Mart,Mumbai,Visa,False
+5C4EA0CA,2980.95,USER_0028,8,Flipkart,Chennai,Amex,False
+00283724,4105.57,USER_0031,9,CryptoExchange_BuyBit,Mumbai,Mastercard,True

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5C3903C9,2156.86,USER_0003,9,CasinoRoyal,Surat,Amex,True
+C979D313,1728.93,USER_0023,13,CasinoRoyal,Chennai,Mastercard,True
+5AAAFC43,4723.92,USER_0044,4,MedPlus Pharmacy,Mumbai,RuPay,False
+AF69A641,1652.4,USER_0015,0,D-Mart,Hyderabad,Mastercard,False
+F0BE34B4,4264.52,USER_0038,18,WireTransfer_Global,Hyderabad,RuPay,True
+6BB9D897,3933.29,USER_0013,8,Netflix,Kolkata,Visa,False
+83C842EA,3340.56,USER_0012,10,Swiggy,Jaipur,Visa,False

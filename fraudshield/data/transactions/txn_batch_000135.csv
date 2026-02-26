@@ -1,7 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-9AC2D2C3,1112.74,USER_0024,23,D-Mart,Ahmedabad,Visa,False
-25AD59DD,2893.9,USER_0036,16,CryptoExchange_BuyBit,Kolkata,Mastercard,True
-E7DC48B1,14324.26,USER_0040,1,Myntra,Hyderabad,Visa,False
-4A75297E,636.48,USER_0010,10,MedPlus Pharmacy,Hyderabad,Visa,False
-A94D2385,14940.61,USER_0006,3,Myntra,Ahmedabad,Mastercard,False
-2FB52F82,1940.61,USER_0044,12,D-Mart,Jaipur,RuPay,False
+D7D484B8,2399.8,USER_0033,17,CryptoExchange_BuyBit,Ahmedabad,Amex,True
+5FAD191A,1440.85,USER_0041,13,D-Mart,Hyderabad,Mastercard,False
+534DBCFF,10468.31,USER_0032,2,Uber,Pune,Visa,False
+ACAE9755,1142.07,USER_0030,16,Myntra,Pune,RuPay,False
+C32BE51D,166.07,USER_0003,12,BigBasket,Bangalore,RuPay,False
+FC91E3ED,2330.63,USER_0028,9,BookMyShow,Ahmedabad,Amex,False

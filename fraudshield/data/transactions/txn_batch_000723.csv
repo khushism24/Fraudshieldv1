@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+072430FA,2293.76,USER_0048,22,CasinoRoyal,Surat,Mastercard,True
+7CD181EB,558.13,USER_0039,17,CryptoExchange_BuyBit,Surat,RuPay,True
+21D2F070,3739.01,USER_0026,6,WireTransfer_Global,Hyderabad,Visa,True
+0354FF42,3273.71,USER_0027,12,Amazon,Mumbai,Visa,False

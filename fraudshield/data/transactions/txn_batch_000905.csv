@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+61DF8962,3939.11,USER_0015,23,BigBasket,Ahmedabad,Amex,False
+A8BB1675,2618.0,USER_0011,7,Ola,Delhi,Mastercard,False
+DD911FF1,1587.13,USER_0028,14,Uber,Hyderabad,Visa,False

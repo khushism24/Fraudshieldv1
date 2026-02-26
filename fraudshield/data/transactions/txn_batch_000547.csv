@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+425B9C76,2070.63,USER_0029,6,BookMyShow,Surat,Visa,False
+9994BD15,23562.46,USER_0014,2,Amazon,Pune,RuPay,False
+B698CC73,3968.1,USER_0049,13,Amazon,Delhi,Mastercard,False
+44665A2B,5709.95,USER_0030,2,Netflix,Surat,Amex,False
+32C36C1F,2317.24,USER_0017,19,MedPlus Pharmacy,Chennai,Mastercard,False

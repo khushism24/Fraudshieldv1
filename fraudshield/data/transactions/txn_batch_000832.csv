@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2602EAE2,4813.65,USER_0029,1,D-Mart,Surat,Amex,False
+56C61073,164.25,USER_0025,17,Reliance Mart,Jaipur,Mastercard,False
+0B7D20B5,14322.42,USER_0005,2,WireTransfer_Global,Surat,Visa,True
+A7F6FF85,4201.5,USER_0008,8,BigBasket,Pune,Mastercard,False

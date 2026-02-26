@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F2808A87,3882.92,USER_0034,9,BookMyShow,Surat,Mastercard,False
+57576874,1821.63,USER_0001,8,BookMyShow,Chennai,Mastercard,False
+BA6D45B7,2625.47,USER_0019,9,D-Mart,Bangalore,Visa,False
+76144FC5,299.28,USER_0029,17,Flipkart,Jaipur,Mastercard,False
+FEF618F7,4365.73,USER_0017,14,Ola,Chennai,Amex,False
+EF5D893A,3711.06,USER_0034,20,Myntra,Bangalore,RuPay,False
+A23B881A,3051.82,USER_0044,14,Amazon,Surat,Amex,False
+231679E7,895.61,USER_0027,6,Myntra,Pune,Mastercard,False

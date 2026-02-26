@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+80A3FAD7,1085.47,USER_0013,16,Myntra,Kolkata,Mastercard,False
+1F386406,1567.56,USER_0036,8,IRCTC,Chennai,Mastercard,False
+188DB3DF,324.34,USER_0033,18,Swiggy,Surat,RuPay,False
+6D4BA1B1,1265.85,USER_0003,3,CryptoExchange_BuyBit,Ahmedabad,RuPay,True
+34E13169,1668.27,USER_0001,17,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+7AF3342C,125.27,USER_0049,18,MedPlus Pharmacy,Kolkata,Mastercard,False
+F63FC216,1191.16,USER_0022,17,IRCTC,Kolkata,Mastercard,False
+01AF37CD,1229.33,USER_0042,17,Netflix,Mumbai,Mastercard,False

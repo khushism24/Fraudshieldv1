@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6AB5C084,481.87,USER_0017,9,Myntra,Bangalore,RuPay,False
+4A3BC9BF,207.85,USER_0018,7,CasinoRoyal,Mumbai,RuPay,True
+0A80C6B9,4454.02,USER_0050,7,Flipkart,Hyderabad,Visa,False
+D5A9AAB2,13515.65,USER_0001,0,Reliance Mart,Delhi,Amex,False

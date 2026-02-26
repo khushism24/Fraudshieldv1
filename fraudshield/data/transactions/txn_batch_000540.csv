@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6B6F03BF,764.15,USER_0022,8,Amazon,Mumbai,Visa,False
+FFFC2520,22960.51,USER_0046,3,Netflix,Hyderabad,Mastercard,False
+48C49137,1741.7,USER_0005,20,Uber,Bangalore,Mastercard,False
+6430390B,484.72,USER_0015,18,D-Mart,Bangalore,RuPay,False
+C708C05F,2794.15,USER_0014,21,WireTransfer_Global,Kolkata,Amex,True
+BBBD165D,3436.83,USER_0047,3,Uber,Mumbai,Amex,False

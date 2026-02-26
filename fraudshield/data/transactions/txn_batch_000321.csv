@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+41F6D4F0,844.82,USER_0035,6,Ola,Delhi,RuPay,False
+8062227F,208.16,USER_0040,17,BigBasket,Jaipur,Visa,False
+A8C03757,3362.02,USER_0021,12,Reliance Mart,Pune,Mastercard,False
+C944F0A4,4330.38,USER_0028,17,Uber,Ahmedabad,Amex,False
+7128E860,2453.25,USER_0037,16,Netflix,Ahmedabad,RuPay,False
+6CCA53AC,2366.65,USER_0027,16,IRCTC,Pune,Visa,False

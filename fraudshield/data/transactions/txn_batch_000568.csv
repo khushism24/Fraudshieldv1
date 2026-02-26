@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+50949635,4296.69,USER_0013,10,MedPlus Pharmacy,Kolkata,Amex,False
+3AFE05F2,6469.0,USER_0015,1,Zomato,Jaipur,Visa,False
+D922CAD6,3664.02,USER_0001,14,Myntra,Jaipur,Visa,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F94A2ABD,1113.5,USER_0041,10,BookMyShow,Jaipur,Mastercard,False
+EBA0D02C,4246.31,USER_0015,21,Swiggy,Kolkata,Visa,False
+B74D12D4,2092.0,USER_0042,15,Flipkart,Jaipur,RuPay,False
+FB111DF1,2738.4,USER_0026,18,Flipkart,Kolkata,RuPay,False

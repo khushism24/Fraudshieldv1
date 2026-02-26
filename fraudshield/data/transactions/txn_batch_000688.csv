@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F0356B16,3199.35,USER_0030,6,IRCTC,Hyderabad,Visa,False
+F3D55972,3786.82,USER_0023,0,BigBasket,Kolkata,Amex,False
+68D0D2C2,14062.74,USER_0024,3,Reliance Mart,Bangalore,RuPay,False
+8E9555EF,1872.79,USER_0032,19,Myntra,Delhi,RuPay,False
+337BD451,596.14,USER_0020,21,Reliance Mart,Mumbai,Visa,False

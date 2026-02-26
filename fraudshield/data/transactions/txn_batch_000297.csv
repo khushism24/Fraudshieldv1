@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+49F78C65,665.46,USER_0028,14,Zomato,Delhi,Visa,False
+3DAC8EBF,3234.21,USER_0016,17,MedPlus Pharmacy,Mumbai,Amex,False
+EA7AC115,2139.65,USER_0027,16,Swiggy,Ahmedabad,Visa,False

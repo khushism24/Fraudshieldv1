@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E3981FE3,988.01,USER_0046,9,CryptoExchange_BuyBit,Hyderabad,Visa,True
+0EFA0B9A,4018.83,USER_0036,11,Uber,Chennai,RuPay,False
+44A62EC2,2944.47,USER_0014,23,Ola,Jaipur,Mastercard,False

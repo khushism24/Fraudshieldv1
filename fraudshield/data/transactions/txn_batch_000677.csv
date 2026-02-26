@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4E1C45F1,1640.2,USER_0025,19,CryptoExchange_BuyBit,Ahmedabad,Amex,True
+4CE3C280,90.39,USER_0039,18,WireTransfer_Global,Surat,Amex,True
+8C321BEB,836.31,USER_0043,14,CryptoExchange_BuyBit,Jaipur,Mastercard,True

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CB24DB4B,6030.12,USER_0024,3,D-Mart,Bangalore,Amex,False
+71B867CA,356.44,USER_0032,23,BigBasket,Chennai,Mastercard,False
+B814112E,1475.89,USER_0002,14,Flipkart,Pune,Mastercard,False
+BECF0C8E,18722.52,USER_0033,4,BigBasket,Pune,Visa,False
+57C002A3,1296.19,USER_0050,23,MedPlus Pharmacy,Bangalore,Visa,False
+1131095B,4399.3,USER_0050,5,Flipkart,Bangalore,Mastercard,False

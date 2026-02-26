@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-49AB5F5E,1131.38,USER_0003,8,CasinoRoyal,Surat,Visa,True
-9639BC3C,12677.63,USER_0028,0,Uber,Hyderabad,Amex,False
-6FBA6FA8,921.43,USER_0024,3,Netflix,Mumbai,Visa,False
-C0E12BFA,749.09,USER_0015,1,Netflix,Mumbai,Mastercard,False
+5878659D,3510.64,USER_0035,15,Reliance Mart,Kolkata,Mastercard,False
+C39D404A,2094.98,USER_0006,23,Amazon,Pune,Mastercard,False
+7C95EA0D,2199.73,USER_0011,20,WireTransfer_Global,Surat,Visa,True
+F73FEE9C,12332.35,USER_0030,1,Netflix,Bangalore,Amex,False
+50BBA0BA,12251.22,USER_0040,1,MedPlus Pharmacy,Surat,RuPay,False
+42594429,1488.12,USER_0012,16,Flipkart,Bangalore,Mastercard,False

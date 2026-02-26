@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6A656D5D,1143.34,USER_0012,20,Zomato,Chennai,Amex,False
+1693921D,10994.94,USER_0004,4,MedPlus Pharmacy,Jaipur,RuPay,False
+7230B3D4,21214.04,USER_0006,3,BigBasket,Pune,Visa,False
+EE74D6E8,3682.55,USER_0035,14,MedPlus Pharmacy,Chennai,RuPay,False

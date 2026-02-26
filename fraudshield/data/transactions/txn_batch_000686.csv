@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+56EF27AA,1998.69,USER_0038,18,Reliance Mart,Hyderabad,RuPay,False
+5D2ECB38,16075.27,USER_0038,5,BigBasket,Delhi,RuPay,False
+72EE40EC,4291.0,USER_0001,1,Reliance Mart,Pune,RuPay,False
+33613946,4307.45,USER_0050,19,Amazon,Kolkata,Visa,False

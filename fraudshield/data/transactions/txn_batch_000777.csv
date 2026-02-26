@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D0864BF2,2003.57,USER_0010,1,CasinoRoyal,Mumbai,Mastercard,True
+C29CF8AD,4112.15,USER_0050,23,Amazon,Mumbai,Mastercard,False
+03CB0675,283.45,USER_0034,12,BookMyShow,Mumbai,Amex,False
+FD3ADF0C,1869.98,USER_0026,14,CasinoRoyal,Pune,Amex,True
+4984DEE9,2134.23,USER_0014,16,Amazon,Kolkata,RuPay,False
+2E3A4071,18364.43,USER_0033,2,CasinoRoyal,Ahmedabad,Visa,True
+6CFF9F9F,3185.85,USER_0029,10,BookMyShow,Delhi,Visa,False

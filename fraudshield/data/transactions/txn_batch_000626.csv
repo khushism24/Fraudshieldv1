@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FFDEAEC4,2573.23,USER_0045,15,Reliance Mart,Kolkata,Amex,False
+7E584941,23038.01,USER_0039,3,Zomato,Bangalore,Visa,False
+0517AAEC,2416.56,USER_0003,21,Reliance Mart,Pune,Mastercard,False

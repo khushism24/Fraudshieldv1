@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3245884A,4995.09,USER_0043,3,Netflix,Delhi,Amex,False
+19842F96,1122.7,USER_0034,3,CasinoRoyal,Hyderabad,Mastercard,True
+169582E2,3995.7,USER_0009,1,BookMyShow,Ahmedabad,Visa,False

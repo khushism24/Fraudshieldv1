@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6C1A5E4A,795.32,USER_0030,13,D-Mart,Hyderabad,Visa,False
+68AAEE49,1227.4,USER_0049,20,Amazon,Kolkata,Visa,False
+9F1D81DA,2649.61,USER_0023,16,Swiggy,Chennai,Visa,False
+5872F87D,13729.68,USER_0033,0,Amazon,Chennai,Mastercard,False
+17922FB1,2568.01,USER_0027,20,Amazon,Jaipur,RuPay,False

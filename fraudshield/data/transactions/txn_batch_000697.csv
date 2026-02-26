@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7A3B3DCC,3180.36,USER_0033,15,IRCTC,Pune,RuPay,False
+8B358C51,941.06,USER_0006,18,Netflix,Mumbai,Visa,False
+77B41AC3,819.03,USER_0031,13,Swiggy,Mumbai,Mastercard,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+88E5DE87,2520.62,USER_0020,15,Flipkart,Surat,Visa,False
+4879E02A,441.49,USER_0048,6,Flipkart,Mumbai,RuPay,False
+A5926644,3110.79,USER_0029,1,Swiggy,Delhi,RuPay,False
+2D3CCB62,2779.77,USER_0016,6,CryptoExchange_BuyBit,Pune,Amex,True
+EEA06B63,347.71,USER_0038,10,BookMyShow,Chennai,Mastercard,False
+02C17F8A,1499.19,USER_0029,8,Flipkart,Surat,Visa,False
+01F2AD6A,284.56,USER_0010,17,MedPlus Pharmacy,Delhi,Visa,False
+144B76BA,432.84,USER_0018,8,WireTransfer_Global,Jaipur,Visa,True

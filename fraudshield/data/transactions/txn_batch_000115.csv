@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-CC210CB3,4362.37,USER_0024,17,BookMyShow,Hyderabad,Mastercard,False
-1694E836,1618.27,USER_0014,5,BookMyShow,Delhi,Visa,False
-EEC59F7B,2743.26,USER_0031,20,Myntra,Kolkata,RuPay,False
-F38B018A,2769.24,USER_0029,7,D-Mart,Mumbai,Visa,False
+B1411E53,2875.39,USER_0036,4,Amazon,Ahmedabad,RuPay,False
+94471D05,3985.14,USER_0016,20,WireTransfer_Global,Bangalore,Amex,True
+24760656,3188.48,USER_0014,7,CasinoRoyal,Ahmedabad,Visa,True
+F5B1894A,2978.97,USER_0043,23,IRCTC,Bangalore,RuPay,False
+B3629DFC,1929.8,USER_0041,23,Amazon,Mumbai,Mastercard,False
+C5AC334F,3766.31,USER_0041,18,D-Mart,Bangalore,Amex,False

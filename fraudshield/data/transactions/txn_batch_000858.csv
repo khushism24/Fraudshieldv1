@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+99377009,3502.11,USER_0048,9,WireTransfer_Global,Bangalore,Mastercard,True
+B1946A6D,7560.3,USER_0045,0,Reliance Mart,Mumbai,RuPay,False
+961F3222,1514.61,USER_0015,6,Ola,Delhi,Amex,False
+F464335A,11697.76,USER_0018,0,Reliance Mart,Kolkata,Visa,False
+58EEA8D4,13616.68,USER_0017,4,Netflix,Pune,Amex,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A489E1C3,3241.49,USER_0013,8,Reliance Mart,Surat,Mastercard,False
+445864A5,13168.13,USER_0044,4,D-Mart,Jaipur,Mastercard,False
+23B8AA31,2556.85,USER_0043,11,IRCTC,Bangalore,Mastercard,False
+ED39D6EA,1028.52,USER_0035,13,IRCTC,Ahmedabad,Visa,False
+35C41E08,1881.21,USER_0036,22,BookMyShow,Hyderabad,Mastercard,False
+7D8B0083,1078.37,USER_0024,7,BigBasket,Kolkata,RuPay,False
+B20BC3CD,3851.95,USER_0039,23,Uber,Ahmedabad,RuPay,False

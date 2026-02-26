@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DB4D0C71,3224.85,USER_0044,15,CryptoExchange_BuyBit,Kolkata,Visa,True
+42B71B1B,1395.39,USER_0024,20,Myntra,Delhi,Mastercard,False
+7A3F71CE,3516.32,USER_0008,14,CasinoRoyal,Chennai,Mastercard,True
+C4D390FE,730.03,USER_0029,21,Reliance Mart,Ahmedabad,Amex,False
+51BE2B03,3083.37,USER_0049,23,BigBasket,Mumbai,Mastercard,False

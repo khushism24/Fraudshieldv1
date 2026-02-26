@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B29E349A,15388.96,USER_0011,2,Swiggy,Ahmedabad,Amex,False
+FB2BF929,4117.97,USER_0042,14,Amazon,Mumbai,RuPay,False
+9A8B7B1A,2885.36,USER_0048,21,MedPlus Pharmacy,Delhi,Amex,False
+27B651A9,897.74,USER_0027,19,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+23092CAB,2347.79,USER_0029,6,BookMyShow,Delhi,Visa,False

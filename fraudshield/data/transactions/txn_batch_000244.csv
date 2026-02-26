@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+657E9F95,94.81,USER_0016,10,D-Mart,Delhi,RuPay,False
+AFADED3C,2645.1,USER_0024,10,IRCTC,Pune,RuPay,False
+DA3CD8F0,4304.49,USER_0002,19,Uber,Surat,RuPay,False
+C8C5D1D5,1666.91,USER_0044,6,Ola,Chennai,Amex,False
+AE2D9FDF,3203.09,USER_0031,20,D-Mart,Surat,Amex,False
+D89EC810,2636.97,USER_0030,7,Flipkart,Delhi,RuPay,False

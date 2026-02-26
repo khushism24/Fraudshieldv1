@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+26C96710,3566.87,USER_0028,17,D-Mart,Ahmedabad,Visa,False
+0F2DF158,4049.83,USER_0036,21,BookMyShow,Jaipur,Amex,False
+1B061479,3614.7,USER_0034,12,D-Mart,Ahmedabad,RuPay,False
+F6F6E988,4058.77,USER_0048,18,BigBasket,Pune,Visa,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8C3B632D,572.16,USER_0009,23,Swiggy,Kolkata,Visa,False
+40F2322C,1709.21,USER_0031,14,Flipkart,Kolkata,RuPay,False
+312CFBC9,2823.96,USER_0038,3,D-Mart,Pune,Amex,False
+2590E0C2,3762.1,USER_0017,22,MedPlus Pharmacy,Hyderabad,Visa,False
+2E06DE5E,2834.78,USER_0013,18,BigBasket,Mumbai,Mastercard,False

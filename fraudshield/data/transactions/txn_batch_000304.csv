@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+967F32C9,1579.2,USER_0010,20,Flipkart,Jaipur,RuPay,False
+540D9ECA,4228.43,USER_0022,15,WireTransfer_Global,Kolkata,Visa,True
+65079E6A,1201.76,USER_0048,1,CryptoExchange_BuyBit,Chennai,Visa,True
+C3408BC8,2494.45,USER_0008,22,WireTransfer_Global,Ahmedabad,RuPay,True
+603BDCD6,3454.02,USER_0043,4,MedPlus Pharmacy,Surat,RuPay,False
+B3EE73AB,3056.27,USER_0040,1,Swiggy,Pune,RuPay,False

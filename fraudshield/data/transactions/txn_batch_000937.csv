@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DE902422,1423.54,USER_0009,12,BookMyShow,Delhi,Amex,False
+31246AAF,4317.17,USER_0003,15,Swiggy,Delhi,Mastercard,False
+17FFE978,2865.03,USER_0036,17,CasinoRoyal,Hyderabad,Amex,True
+DB73E1E4,3718.72,USER_0038,18,D-Mart,Ahmedabad,Visa,False
+1F8D0283,4782.38,USER_0014,3,Reliance Mart,Chennai,Mastercard,False
+AB60A6AE,5131.69,USER_0024,5,CryptoExchange_BuyBit,Mumbai,RuPay,True
+51765585,2202.25,USER_0010,9,Amazon,Kolkata,Mastercard,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D3FB510B,3358.06,USER_0039,12,Netflix,Chennai,RuPay,False
+536B9E42,770.22,USER_0015,0,D-Mart,Ahmedabad,Mastercard,False
+684D2D5B,1348.82,USER_0015,9,Netflix,Mumbai,Visa,False
+2C20AC0C,1246.8,USER_0041,21,BookMyShow,Delhi,RuPay,False
+061F18A1,21796.01,USER_0004,2,Myntra,Bangalore,RuPay,False
+006C0FD6,713.37,USER_0032,12,WireTransfer_Global,Chennai,Mastercard,True

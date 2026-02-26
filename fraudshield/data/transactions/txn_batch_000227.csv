@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1D115C31,4457.11,USER_0039,0,MedPlus Pharmacy,Kolkata,Mastercard,False
+05803B6B,5229.34,USER_0011,4,Myntra,Bangalore,RuPay,False
+B29F7D09,800.14,USER_0038,14,Swiggy,Delhi,Visa,False
+E6A69E91,4062.49,USER_0037,5,D-Mart,Delhi,Amex,False
+5E4F5159,3365.9,USER_0024,6,IRCTC,Jaipur,Amex,False
+6B9F8793,999.59,USER_0010,13,Myntra,Chennai,Visa,False

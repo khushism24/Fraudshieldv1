@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+002CCEA4,4867.7,USER_0040,5,Zomato,Ahmedabad,RuPay,False
+0BAC1F44,3518.93,USER_0048,12,BookMyShow,Mumbai,Amex,False
+4304F88F,1963.04,USER_0019,7,Swiggy,Jaipur,Amex,False
+E4D83F84,3751.69,USER_0020,4,BookMyShow,Jaipur,Visa,False

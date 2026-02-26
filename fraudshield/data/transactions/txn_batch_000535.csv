@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C5E002B2,3684.84,USER_0011,5,Zomato,Surat,Mastercard,False
+50FC2176,2858.8,USER_0016,10,Zomato,Bangalore,Visa,False
+B8414DD7,4161.93,USER_0037,0,D-Mart,Mumbai,RuPay,False
+0A64A2E9,4091.93,USER_0015,13,Myntra,Delhi,Visa,False
+63BDE7E6,4006.43,USER_0027,18,WireTransfer_Global,Ahmedabad,Mastercard,True

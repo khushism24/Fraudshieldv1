@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BCA8F7DE,2896.28,USER_0011,21,D-Mart,Surat,Mastercard,False
+A05AC7F4,2482.36,USER_0004,23,CasinoRoyal,Bangalore,Visa,True
+7A6242B0,53.0,USER_0048,22,D-Mart,Bangalore,Amex,False
+CADEDDA9,2139.64,USER_0036,5,IRCTC,Bangalore,Mastercard,False
+244D9704,2645.89,USER_0008,10,Myntra,Delhi,RuPay,False

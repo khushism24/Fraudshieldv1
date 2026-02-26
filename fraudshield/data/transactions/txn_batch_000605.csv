@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CDE60AE2,1194.84,USER_0013,6,BigBasket,Mumbai,Amex,False
+223E1380,4833.74,USER_0032,3,Myntra,Chennai,Visa,False
+82571A18,20252.83,USER_0016,2,Uber,Ahmedabad,Mastercard,False
+5B785FC9,3270.21,USER_0012,8,Reliance Mart,Chennai,RuPay,False
+34EF6D48,16222.69,USER_0028,1,BookMyShow,Bangalore,Amex,False
+A10A8E04,1544.35,USER_0049,9,Zomato,Chennai,Mastercard,False

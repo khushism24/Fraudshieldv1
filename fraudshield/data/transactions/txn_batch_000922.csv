@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+60BE60C2,738.45,USER_0035,22,D-Mart,Bangalore,Amex,False
+636F7761,3574.64,USER_0029,11,D-Mart,Delhi,Mastercard,False
+C8EF4163,1889.38,USER_0039,9,Swiggy,Ahmedabad,Visa,False
+1DDE4423,2629.42,USER_0029,3,IRCTC,Chennai,RuPay,False
+16072045,2015.81,USER_0027,21,Zomato,Jaipur,Amex,False
+0057BB5F,8948.86,USER_0021,3,WireTransfer_Global,Chennai,Amex,True

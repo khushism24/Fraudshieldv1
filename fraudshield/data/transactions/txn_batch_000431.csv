@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+95D28319,8342.8,USER_0001,0,CryptoExchange_BuyBit,Bangalore,Amex,True
+6799942C,395.09,USER_0042,22,CryptoExchange_BuyBit,Surat,Mastercard,True
+E5931D2D,406.79,USER_0005,12,D-Mart,Chennai,RuPay,False
+E29904E3,3882.98,USER_0044,21,Amazon,Kolkata,Visa,False

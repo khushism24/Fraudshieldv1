@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-E1DADC36,21998.69,USER_0028,0,Myntra,Bangalore,RuPay,False
-B7A5105B,3862.97,USER_0006,9,Myntra,Delhi,RuPay,False
-2E589D40,1379.23,USER_0048,22,Reliance Mart,Chennai,Amex,False
-6DE570A1,2692.67,USER_0021,10,CasinoRoyal,Surat,Amex,True
+4C29313E,4569.32,USER_0038,5,CryptoExchange_BuyBit,Hyderabad,Amex,True
+66D2FC1C,3765.34,USER_0036,22,Myntra,Kolkata,Amex,False
+B5918DDB,4104.55,USER_0037,20,BookMyShow,Pune,Amex,False
+34A9A5B8,726.62,USER_0006,15,Swiggy,Jaipur,Amex,False
+B3FB2A8D,22401.98,USER_0033,3,Flipkart,Delhi,Mastercard,False
+6709FB1D,3306.73,USER_0011,19,Netflix,Surat,Amex,False

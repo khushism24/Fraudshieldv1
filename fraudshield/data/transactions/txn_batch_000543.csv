@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5776DB66,3557.29,USER_0031,7,WireTransfer_Global,Mumbai,RuPay,True
+79D26C3B,2251.08,USER_0013,18,D-Mart,Surat,RuPay,False
+060D350D,19365.84,USER_0024,1,Reliance Mart,Hyderabad,RuPay,False
+DDC2403D,868.19,USER_0029,10,CasinoRoyal,Jaipur,RuPay,True
+BDDA4C30,4641.03,USER_0009,1,Flipkart,Mumbai,Mastercard,False
+DB85E071,10192.46,USER_0009,4,Zomato,Chennai,Amex,False

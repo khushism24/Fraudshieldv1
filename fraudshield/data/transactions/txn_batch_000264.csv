@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4119AC74,2856.88,USER_0008,16,IRCTC,Hyderabad,RuPay,False
+2BCFB472,1764.44,USER_0003,11,CasinoRoyal,Ahmedabad,Visa,True
+A4BC21F5,1130.28,USER_0030,0,Reliance Mart,Ahmedabad,RuPay,False

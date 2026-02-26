@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+795D0B2E,11793.04,USER_0005,4,Uber,Jaipur,Visa,False
+26D800CB,5047.05,USER_0019,4,BigBasket,Surat,Amex,False
+30E87B71,13996.71,USER_0048,1,CasinoRoyal,Bangalore,Visa,True
+6A9A7A07,1527.16,USER_0016,12,Amazon,Hyderabad,Amex,False
+130206BF,3246.69,USER_0001,3,Ola,Surat,Visa,False
+0EA8C805,855.36,USER_0033,13,CryptoExchange_BuyBit,Mumbai,Mastercard,True

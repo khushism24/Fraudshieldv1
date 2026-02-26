@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1F9356EA,3269.04,USER_0018,10,D-Mart,Ahmedabad,RuPay,False
+419B9FA7,4535.56,USER_0038,4,D-Mart,Bangalore,Visa,False
+8815EB76,404.17,USER_0036,11,Myntra,Bangalore,Mastercard,False
+7385A6A9,798.33,USER_0041,11,D-Mart,Bangalore,Visa,False
+E008AA6D,3558.19,USER_0045,21,Flipkart,Hyderabad,Visa,False
+3A37B410,504.53,USER_0011,13,BookMyShow,Chennai,Amex,False
+81D0C2F8,2540.51,USER_0005,12,Ola,Pune,Amex,False
+5F1712B4,589.07,USER_0031,15,MedPlus Pharmacy,Kolkata,RuPay,False

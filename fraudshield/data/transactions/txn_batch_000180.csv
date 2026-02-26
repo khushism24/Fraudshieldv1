@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-3A4729A3,3936.25,USER_0036,12,CasinoRoyal,Delhi,Visa,True
-7DB94912,2330.89,USER_0012,22,Myntra,Chennai,Mastercard,False
-4003D4E3,1557.99,USER_0022,12,Reliance Mart,Kolkata,Visa,False
-F37BE47E,16038.34,USER_0036,4,CasinoRoyal,Bangalore,RuPay,True
+C92786D7,3795.01,USER_0008,14,MedPlus Pharmacy,Ahmedabad,Amex,False
+7B831C2E,4498.43,USER_0046,16,BigBasket,Kolkata,Amex,False
+A74EC3AE,8936.08,USER_0003,4,WireTransfer_Global,Pune,Mastercard,True
+60E35723,3755.06,USER_0031,11,BookMyShow,Hyderabad,Amex,False
+1B7A662F,1102.59,USER_0026,10,Flipkart,Bangalore,Visa,False
+9E4FAB87,20615.65,USER_0023,4,Uber,Mumbai,Amex,False

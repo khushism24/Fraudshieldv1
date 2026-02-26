@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EDD2782C,1112.48,USER_0002,14,Reliance Mart,Kolkata,Mastercard,False
+F3B3935B,2624.63,USER_0003,18,WireTransfer_Global,Surat,Amex,True
+221E830C,2111.33,USER_0004,13,Ola,Surat,Amex,False
+87E59508,2592.91,USER_0047,8,Myntra,Mumbai,Mastercard,False
+47554511,598.54,USER_0033,19,CasinoRoyal,Chennai,Mastercard,True
+5372E52F,2796.87,USER_0015,8,Flipkart,Ahmedabad,Mastercard,False

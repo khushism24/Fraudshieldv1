@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2B059116,76.13,USER_0009,16,Netflix,Ahmedabad,Mastercard,False
+7BC66181,23137.0,USER_0019,1,Reliance Mart,Ahmedabad,Mastercard,False
+A68C261C,2482.94,USER_0009,13,Swiggy,Jaipur,Visa,False
+B0E7FDCD,971.11,USER_0041,6,IRCTC,Hyderabad,Amex,False
+73143FBE,1404.86,USER_0008,20,Netflix,Ahmedabad,Amex,False
+4920A589,921.32,USER_0010,9,Uber,Surat,RuPay,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+41FC7393,4986.25,USER_0019,2,D-Mart,Bangalore,Mastercard,False
+930DC160,4492.34,USER_0031,15,Amazon,Pune,Visa,False
+737FF508,2310.66,USER_0048,7,D-Mart,Surat,Visa,False
+DF0ACDEC,2838.59,USER_0036,13,WireTransfer_Global,Kolkata,RuPay,True

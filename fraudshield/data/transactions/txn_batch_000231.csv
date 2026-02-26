@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+71D75BDC,3706.12,USER_0030,6,Swiggy,Kolkata,Amex,False
+CE597232,1161.1,USER_0041,3,Amazon,Kolkata,RuPay,False
+CE17199A,1154.02,USER_0009,11,WireTransfer_Global,Bangalore,Visa,True
+9270F178,7288.81,USER_0008,0,D-Mart,Pune,Mastercard,False
+12EF6D1E,3930.48,USER_0017,12,IRCTC,Surat,Amex,False

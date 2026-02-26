@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F681DF69,14236.65,USER_0029,2,Ola,Chennai,RuPay,False
+860F297E,3066.69,USER_0005,1,Myntra,Surat,RuPay,False
+4A053046,3331.12,USER_0014,18,Zomato,Pune,RuPay,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+49F49BC5,1223.11,USER_0045,23,Swiggy,Hyderabad,Amex,False
+E1A0598F,437.89,USER_0019,15,Reliance Mart,Chennai,Visa,False
+DF3F643D,2361.81,USER_0027,10,CasinoRoyal,Surat,Mastercard,True
+315CD0CF,4089.65,USER_0003,12,WireTransfer_Global,Hyderabad,Mastercard,True
+7948E63F,3143.98,USER_0022,19,Uber,Surat,Mastercard,False

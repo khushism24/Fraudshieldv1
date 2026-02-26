@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+76B6C4FF,1095.8,USER_0023,20,D-Mart,Delhi,Amex,False
+270415B3,4011.24,USER_0035,19,BookMyShow,Pune,RuPay,False
+4C16656F,2880.54,USER_0025,7,Flipkart,Pune,Mastercard,False
+BE0E27B4,1589.9,USER_0027,23,Reliance Mart,Mumbai,RuPay,False
+3ED40216,1218.67,USER_0013,21,BigBasket,Hyderabad,Visa,False

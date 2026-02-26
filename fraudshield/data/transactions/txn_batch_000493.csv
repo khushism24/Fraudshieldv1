@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E27EA212,3912.29,USER_0021,19,Netflix,Pune,RuPay,False
+36FACC0D,315.14,USER_0030,6,Uber,Jaipur,Visa,False
+9417CE18,3899.9,USER_0011,21,Zomato,Kolkata,Visa,False
+0B4299A6,1830.78,USER_0025,22,Uber,Mumbai,Mastercard,False
+33426B80,24070.65,USER_0032,3,Netflix,Kolkata,RuPay,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+682FB375,4040.15,USER_0042,13,BigBasket,Surat,Visa,False
+18E070A0,972.35,USER_0022,17,CryptoExchange_BuyBit,Hyderabad,Amex,True
+99D4A768,432.05,USER_0036,16,Amazon,Mumbai,RuPay,False
+B5C821FB,2728.39,USER_0010,18,IRCTC,Ahmedabad,Visa,False
+1423D898,2129.19,USER_0035,18,WireTransfer_Global,Bangalore,RuPay,True
+B5365683,920.92,USER_0017,12,D-Mart,Kolkata,Visa,False

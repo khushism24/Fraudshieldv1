@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B404356D,2902.81,USER_0026,17,BigBasket,Kolkata,Mastercard,False
+47654A13,3863.82,USER_0005,9,Reliance Mart,Ahmedabad,Amex,False
+DEA9A24F,2747.02,USER_0031,4,Amazon,Mumbai,Amex,False
+94625921,2773.56,USER_0011,23,MedPlus Pharmacy,Mumbai,Visa,False
+A6EEC77B,1985.49,USER_0026,17,Zomato,Surat,RuPay,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5C1775B2,940.53,USER_0037,6,Netflix,Surat,RuPay,False
+9430086D,3891.53,USER_0002,17,Ola,Kolkata,Amex,False
+DFE86CDE,3875.72,USER_0032,9,Swiggy,Bangalore,Amex,False
+248E2BBF,1582.2,USER_0050,13,Flipkart,Pune,Visa,False

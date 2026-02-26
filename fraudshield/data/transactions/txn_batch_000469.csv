@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0BD22E8F,925.66,USER_0022,18,Netflix,Kolkata,Mastercard,False
+4A852B30,18915.41,USER_0008,0,BigBasket,Bangalore,RuPay,False
+F198CAB4,4493.11,USER_0046,20,Zomato,Ahmedabad,RuPay,False
+1DED999D,3533.86,USER_0034,2,MedPlus Pharmacy,Hyderabad,Visa,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+444B76D6,448.91,USER_0045,13,BookMyShow,Jaipur,Amex,False
+83C46CB7,2861.96,USER_0003,15,D-Mart,Ahmedabad,Visa,False
+42924926,2864.77,USER_0030,9,Uber,Pune,Mastercard,False
+089BE70A,7506.48,USER_0021,4,WireTransfer_Global,Mumbai,Visa,True
+8A35068B,2704.82,USER_0011,21,CryptoExchange_BuyBit,Bangalore,Amex,True
+E624DF16,2399.55,USER_0050,17,Amazon,Mumbai,Visa,False
+DFDBF4CB,1258.0,USER_0046,22,Swiggy,Jaipur,Amex,False

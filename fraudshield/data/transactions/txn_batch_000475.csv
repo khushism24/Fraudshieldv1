@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BE06E7D9,2563.48,USER_0046,16,Swiggy,Jaipur,Mastercard,False
+DCC3BE72,1085.86,USER_0029,11,D-Mart,Jaipur,Visa,False
+D0448988,5609.75,USER_0027,2,Netflix,Jaipur,Visa,False
+C1B3D525,3509.1,USER_0021,7,D-Mart,Mumbai,Mastercard,False

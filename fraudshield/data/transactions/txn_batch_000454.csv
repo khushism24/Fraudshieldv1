@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FE634FB0,574.24,USER_0042,22,Ola,Chennai,Visa,False
+CA8BF9B2,103.25,USER_0044,21,Myntra,Surat,Visa,False
+553AD0A5,9611.9,USER_0024,0,MedPlus Pharmacy,Jaipur,Mastercard,False
+7B9A2365,3006.77,USER_0006,17,Amazon,Chennai,Visa,False
+584C1E6D,592.72,USER_0013,15,MedPlus Pharmacy,Mumbai,RuPay,False
+5D700079,5484.12,USER_0029,3,CasinoRoyal,Mumbai,RuPay,True
+816B4B21,1767.52,USER_0047,8,Flipkart,Pune,Visa,False
+D24D0FDC,2686.06,USER_0034,3,Swiggy,Surat,Mastercard,False

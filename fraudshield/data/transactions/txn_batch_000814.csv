@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FFF4DC40,409.39,USER_0040,7,Uber,Bangalore,Visa,False
+352BB663,3666.39,USER_0017,17,Amazon,Jaipur,RuPay,False
+EEEA61BC,17138.36,USER_0004,1,CasinoRoyal,Bangalore,Visa,True
+9912D08B,449.72,USER_0041,19,Myntra,Hyderabad,Amex,False

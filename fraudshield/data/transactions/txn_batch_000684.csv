@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3A52BC98,2620.58,USER_0048,19,MedPlus Pharmacy,Mumbai,Mastercard,False
+D0B49904,1148.09,USER_0008,7,BigBasket,Ahmedabad,Mastercard,False
+0A8CA124,3708.38,USER_0042,21,Myntra,Delhi,Amex,False
+933C331C,1141.09,USER_0049,20,Uber,Mumbai,Mastercard,False

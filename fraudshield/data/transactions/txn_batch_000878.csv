@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+541955E2,1641.86,USER_0037,6,Zomato,Jaipur,Mastercard,False
+D3CDC91F,3949.92,USER_0050,7,Reliance Mart,Bangalore,Amex,False
+AF23E469,1638.39,USER_0046,10,BigBasket,Kolkata,RuPay,False
+283686F7,4360.67,USER_0039,15,Reliance Mart,Kolkata,Amex,False
+27EF12CB,3731.17,USER_0016,13,Swiggy,Mumbai,Mastercard,False
+90808726,1904.51,USER_0019,9,CryptoExchange_BuyBit,Pune,RuPay,True

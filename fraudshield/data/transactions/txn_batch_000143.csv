@@ -1,9 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-3762B9B6,2823.11,USER_0006,3,Swiggy,Surat,Mastercard,False
-3DEC339E,11204.45,USER_0013,0,Zomato,Pune,RuPay,False
-CBC5C360,3050.07,USER_0018,14,IRCTC,Delhi,Visa,False
-81588C74,1693.23,USER_0020,22,Swiggy,Pune,Amex,False
-7DF26C6A,2818.93,USER_0023,11,WireTransfer_Global,Ahmedabad,Visa,True
-2F945E1C,10535.89,USER_0033,5,MedPlus Pharmacy,Hyderabad,Visa,False
-0CC4076D,267.71,USER_0009,9,Flipkart,Hyderabad,Visa,False
-82A5AF26,2574.59,USER_0042,16,Amazon,Surat,Amex,False
+028FF11E,22023.77,USER_0014,0,CasinoRoyal,Hyderabad,Amex,True
+F19D3F7F,381.96,USER_0033,18,MedPlus Pharmacy,Mumbai,Amex,False
+0C495B96,7572.19,USER_0011,0,Netflix,Bangalore,Mastercard,False
+326AF642,1558.25,USER_0024,11,WireTransfer_Global,Chennai,Amex,True
+05EFB1DB,4392.76,USER_0039,14,MedPlus Pharmacy,Mumbai,Mastercard,False
+60592C90,3274.54,USER_0003,1,WireTransfer_Global,Kolkata,Visa,True
+3174AC7D,1959.93,USER_0026,23,Ola,Bangalore,Mastercard,False
+39BEA947,2763.68,USER_0029,2,Netflix,Ahmedabad,Visa,False

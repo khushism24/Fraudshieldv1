@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F2FE9158,2743.25,USER_0042,13,Zomato,Jaipur,Mastercard,False
+0EF07C2B,21434.59,USER_0049,5,Reliance Mart,Hyderabad,Amex,False
+E83B1CF6,3187.26,USER_0005,5,Zomato,Mumbai,Visa,False
+7C339123,258.18,USER_0038,12,BigBasket,Mumbai,RuPay,False
+852BA393,2918.51,USER_0034,15,BookMyShow,Delhi,Mastercard,False
+33D9810C,3660.19,USER_0046,6,Ola,Mumbai,Visa,False

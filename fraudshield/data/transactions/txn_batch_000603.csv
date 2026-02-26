@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+630C7480,19653.05,USER_0009,2,D-Mart,Jaipur,Visa,False
+54EB353D,20342.09,USER_0042,1,CasinoRoyal,Delhi,Visa,True
+A0548FAA,584.97,USER_0006,9,BigBasket,Ahmedabad,Visa,False
+92BEE197,8487.34,USER_0039,3,BookMyShow,Jaipur,RuPay,False
+A882EE5E,943.48,USER_0042,20,Myntra,Kolkata,Mastercard,False

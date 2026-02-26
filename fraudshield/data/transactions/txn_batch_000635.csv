@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B9786484,1770.22,USER_0043,19,BookMyShow,Jaipur,RuPay,False
+69234841,1161.81,USER_0016,14,IRCTC,Kolkata,Mastercard,False
+4AE12265,1597.25,USER_0049,19,WireTransfer_Global,Chennai,Mastercard,True
+A6CFCD7A,23185.85,USER_0036,5,Amazon,Chennai,Visa,False
+F6ACF724,64.79,USER_0044,13,Reliance Mart,Chennai,RuPay,False

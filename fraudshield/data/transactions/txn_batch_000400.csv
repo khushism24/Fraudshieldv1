@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DDB334C8,98.58,USER_0033,18,Ola,Surat,Amex,False
+5D63B7E3,7022.07,USER_0024,2,Zomato,Mumbai,Mastercard,False
+9CEBBB4F,3605.88,USER_0003,9,D-Mart,Kolkata,Amex,False
+7DAFAAD6,4838.03,USER_0041,5,WireTransfer_Global,Hyderabad,Amex,True
+7311DC79,23995.74,USER_0034,3,BookMyShow,Hyderabad,Mastercard,False
+1548AC62,2005.2,USER_0031,20,Ola,Mumbai,Visa,False
+3EBF3187,3665.19,USER_0002,23,CryptoExchange_BuyBit,Pune,Mastercard,True

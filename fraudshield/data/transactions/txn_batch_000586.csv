@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CD645B6D,1484.37,USER_0023,8,Amazon,Delhi,Amex,False
+02BDCAC2,3613.75,USER_0012,15,BookMyShow,Bangalore,Mastercard,False
+4BDC185E,1904.91,USER_0048,7,CasinoRoyal,Delhi,Visa,True
+0F7D9464,2608.44,USER_0014,19,BookMyShow,Bangalore,Visa,False

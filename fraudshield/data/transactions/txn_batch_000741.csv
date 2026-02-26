@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+03F73529,2653.71,USER_0042,8,Uber,Chennai,Amex,False
+D1FF1CC0,3384.06,USER_0021,17,Amazon,Surat,Visa,False
+54FCCAB1,2934.23,USER_0027,16,BookMyShow,Surat,RuPay,False

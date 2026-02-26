@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D793881C,15254.42,USER_0004,4,BigBasket,Jaipur,Amex,False
+45F6FFB3,23128.38,USER_0020,4,Myntra,Delhi,RuPay,False
+413D7B06,3377.78,USER_0045,22,Zomato,Jaipur,RuPay,False
+EF8484CE,1611.56,USER_0012,1,Amazon,Chennai,RuPay,False

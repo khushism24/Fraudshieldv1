@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4205EF6C,1108.35,USER_0035,11,BookMyShow,Surat,Amex,False
+60334F3D,8793.45,USER_0035,3,Flipkart,Chennai,Visa,False
+70A3D8D7,470.35,USER_0035,11,BookMyShow,Kolkata,RuPay,False
+E9B6AA8D,4092.82,USER_0017,8,CasinoRoyal,Chennai,Amex,True

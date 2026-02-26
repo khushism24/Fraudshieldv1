@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0E77851E,1328.28,USER_0037,17,IRCTC,Bangalore,Visa,False
+A7B92D73,23511.13,USER_0049,1,IRCTC,Chennai,Amex,False
+066ECF57,1907.53,USER_0028,19,Amazon,Mumbai,Amex,False
+9E6FD652,4615.9,USER_0020,0,Amazon,Jaipur,Visa,False
+2595754F,2638.07,USER_0017,16,Amazon,Surat,Amex,False
+A69821D8,13748.41,USER_0043,2,BookMyShow,Bangalore,Amex,False

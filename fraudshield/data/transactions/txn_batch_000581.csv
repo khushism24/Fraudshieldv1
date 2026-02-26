@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+454BF2D1,2079.4,USER_0031,14,BookMyShow,Kolkata,RuPay,False
+BCC8D11A,4299.41,USER_0013,10,BookMyShow,Jaipur,Mastercard,False
+CFF8FF8B,1067.46,USER_0028,13,Reliance Mart,Pune,Visa,False
+76E46BEF,19367.61,USER_0009,2,IRCTC,Jaipur,Mastercard,False
+D9012816,24739.89,USER_0019,1,Reliance Mart,Mumbai,Visa,False
+1B1D0467,1427.83,USER_0019,18,Uber,Mumbai,Amex,False

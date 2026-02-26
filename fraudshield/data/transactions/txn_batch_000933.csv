@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CBD2350B,2698.54,USER_0021,12,Zomato,Jaipur,Visa,False
+529CB59A,4284.01,USER_0037,8,CasinoRoyal,Kolkata,RuPay,True
+ADFBF6EB,4419.03,USER_0049,4,Uber,Jaipur,RuPay,False
+44D82E3F,1238.91,USER_0035,16,IRCTC,Bangalore,RuPay,False

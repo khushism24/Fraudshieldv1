@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+151A3798,20248.0,USER_0013,3,IRCTC,Bangalore,Mastercard,False
+88EF1A29,3690.16,USER_0010,6,Ola,Kolkata,Amex,False
+96F60C19,3395.2,USER_0045,15,D-Mart,Jaipur,Amex,False
+78E5E7F1,1162.78,USER_0021,18,Zomato,Mumbai,Mastercard,False
+0580D5C8,3489.91,USER_0020,10,BigBasket,Delhi,Mastercard,False
+020998BE,321.43,USER_0020,6,Ola,Ahmedabad,Amex,False
+EC02CF13,3366.29,USER_0039,15,Zomato,Ahmedabad,Amex,False

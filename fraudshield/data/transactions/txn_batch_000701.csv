@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AF93366C,1558.89,USER_0005,8,MedPlus Pharmacy,Hyderabad,RuPay,False
+DE26F4C5,2349.29,USER_0050,17,Netflix,Hyderabad,RuPay,False
+2A060197,9918.88,USER_0001,0,Flipkart,Ahmedabad,RuPay,False
+DB42490A,2767.58,USER_0045,12,CasinoRoyal,Bangalore,Amex,True

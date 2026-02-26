@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+04A8548F,798.29,USER_0026,7,Myntra,Bangalore,Amex,False
+BC105F2E,2645.29,USER_0008,10,Flipkart,Mumbai,Visa,False
+D2F3563C,1142.85,USER_0033,20,Amazon,Ahmedabad,Visa,False
+29817F4A,4320.59,USER_0017,14,Uber,Surat,Visa,False
+8DA023B9,2424.92,USER_0027,19,WireTransfer_Global,Kolkata,Mastercard,True

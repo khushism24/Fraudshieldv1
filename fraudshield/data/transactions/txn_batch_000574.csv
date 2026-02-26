@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ADCB1A4B,1222.77,USER_0025,14,CasinoRoyal,Pune,Visa,True
+0B6A474F,2704.75,USER_0007,8,MedPlus Pharmacy,Jaipur,Amex,False
+BFC132A3,9632.32,USER_0040,4,BookMyShow,Surat,Visa,False
+6F0FC7CD,2574.9,USER_0036,17,Reliance Mart,Bangalore,Amex,False
+B23205F0,1394.75,USER_0027,10,Zomato,Chennai,Amex,False
+6ABF3185,2001.86,USER_0028,22,Swiggy,Bangalore,Visa,False
+F204D4B6,22111.22,USER_0018,1,WireTransfer_Global,Kolkata,Visa,True

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9F63F786,3762.45,USER_0048,21,D-Mart,Jaipur,RuPay,False
+3854BD01,1113.86,USER_0034,9,CasinoRoyal,Kolkata,RuPay,True
+65101861,1843.23,USER_0015,10,BigBasket,Kolkata,RuPay,False
+C6295BD9,1494.92,USER_0004,8,Ola,Jaipur,Amex,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2FFBDD94,1079.81,USER_0015,17,Netflix,Pune,Mastercard,False
+F988A880,580.17,USER_0002,9,Amazon,Kolkata,RuPay,False
+B8B50A8F,946.68,USER_0013,13,Netflix,Hyderabad,RuPay,False
+9D778629,19835.26,USER_0013,4,Ola,Kolkata,RuPay,False
+3DDDF4F2,7619.29,USER_0002,0,D-Mart,Surat,Amex,False

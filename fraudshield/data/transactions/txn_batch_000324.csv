@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8F1A6060,997.73,USER_0014,8,CryptoExchange_BuyBit,Pune,RuPay,True
+3EC557AD,1610.75,USER_0016,19,IRCTC,Bangalore,Visa,False
+05F7FED0,4059.41,USER_0013,9,BigBasket,Bangalore,RuPay,False
+3C5AFFC1,2783.58,USER_0044,6,Swiggy,Pune,Amex,False
+5939A6AD,17943.98,USER_0021,2,MedPlus Pharmacy,Jaipur,Visa,False
+6AA394CF,343.45,USER_0008,9,Swiggy,Pune,Visa,False
+FC65E762,1890.69,USER_0031,14,MedPlus Pharmacy,Kolkata,RuPay,False

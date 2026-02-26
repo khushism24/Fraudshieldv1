@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+324A251F,501.93,USER_0001,23,IRCTC,Hyderabad,Amex,False
+C6E66245,2854.35,USER_0041,10,Zomato,Ahmedabad,Visa,False
+B113117C,1109.42,USER_0042,22,Flipkart,Pune,Amex,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A32F7D58,3260.66,USER_0019,15,MedPlus Pharmacy,Hyderabad,RuPay,False
+4A639EB8,121.8,USER_0006,16,Zomato,Bangalore,Amex,False
+DAA27FFA,700.65,USER_0015,16,Ola,Surat,Amex,False
+549DD34E,9735.39,USER_0037,5,Swiggy,Pune,Mastercard,False

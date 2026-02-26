@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A39B3B2D,1383.01,USER_0024,2,BookMyShow,Delhi,Mastercard,False
+534D945D,4174.66,USER_0020,12,CasinoRoyal,Bangalore,RuPay,True
+1EC15F05,2685.54,USER_0046,15,WireTransfer_Global,Bangalore,Amex,True

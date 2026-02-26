@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ECC0B79A,935.85,USER_0005,8,CasinoRoyal,Pune,Amex,True
+873BEED2,18832.11,USER_0037,4,Swiggy,Surat,Amex,False
+9EB0E4F6,1119.1,USER_0013,3,Netflix,Kolkata,Visa,False
+7B6513E0,1799.09,USER_0007,6,WireTransfer_Global,Bangalore,Amex,True
+EC6A7896,924.89,USER_0005,8,Flipkart,Ahmedabad,Mastercard,False
+35D9FDD7,19125.0,USER_0029,2,BookMyShow,Ahmedabad,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1EDD1A54,3856.03,USER_0038,17,Netflix,Hyderabad,Visa,False
+04D803E3,1854.71,USER_0015,20,Zomato,Mumbai,Mastercard,False
+E0A587EC,1583.07,USER_0012,13,Reliance Mart,Kolkata,RuPay,False
+48CC79C9,1778.99,USER_0043,21,Myntra,Kolkata,Amex,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+98734936,2360.07,USER_0008,12,Amazon,Bangalore,Visa,False
+4397FA59,1058.51,USER_0045,22,Myntra,Delhi,Amex,False
+87AAF2D5,10063.78,USER_0044,0,Ola,Hyderabad,Amex,False
+0AD7D3E1,2299.68,USER_0033,8,Ola,Hyderabad,Visa,False
+C61AA7CD,1533.93,USER_0038,18,CryptoExchange_BuyBit,Pune,Mastercard,True
+5F5B7BB0,3489.96,USER_0018,21,BookMyShow,Chennai,Amex,False
+D3B367F2,1722.62,USER_0030,13,BigBasket,Kolkata,Visa,False

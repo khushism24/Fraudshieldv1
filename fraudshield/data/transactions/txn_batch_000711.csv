@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1FC5354A,1111.33,USER_0032,18,WireTransfer_Global,Hyderabad,Amex,True
+2ECD4615,2092.28,USER_0029,15,Zomato,Delhi,Amex,False
+256F25D6,4396.6,USER_0029,18,CasinoRoyal,Jaipur,Mastercard,True
+EE933B0F,3670.78,USER_0011,7,CasinoRoyal,Pune,Mastercard,True

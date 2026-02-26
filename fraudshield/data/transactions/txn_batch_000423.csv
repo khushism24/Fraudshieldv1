@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C9BCC7F3,13684.65,USER_0006,5,IRCTC,Jaipur,Visa,False
+34B8909C,4412.96,USER_0045,14,Ola,Surat,Visa,False
+9E61FE48,3654.52,USER_0015,7,Myntra,Jaipur,Visa,False
+220F81F5,3305.63,USER_0022,20,BigBasket,Mumbai,Amex,False
+A87D8BDE,2975.0,USER_0008,20,CryptoExchange_BuyBit,Ahmedabad,Mastercard,True
+FE73CE23,556.22,USER_0044,3,D-Mart,Chennai,RuPay,False

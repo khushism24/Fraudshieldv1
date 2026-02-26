@@ -1,7 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-D11A1473,16884.03,USER_0050,0,CasinoRoyal,Pune,Mastercard,True
-15A24814,260.04,USER_0004,16,Ola,Hyderabad,Mastercard,False
-2B37D67E,2334.78,USER_0009,4,Ola,Pune,Visa,False
-188FC0E2,3798.45,USER_0047,12,BookMyShow,Kolkata,Mastercard,False
-87D9F3D9,3234.01,USER_0010,11,IRCTC,Kolkata,Amex,False
-0B267DFC,23708.44,USER_0013,5,Swiggy,Hyderabad,RuPay,False
+73A59C4F,4159.47,USER_0018,13,CryptoExchange_BuyBit,Chennai,Mastercard,True
+A414BF05,401.15,USER_0019,23,Ola,Hyderabad,Amex,False
+862FECC6,884.76,USER_0049,15,WireTransfer_Global,Jaipur,Amex,True
+E09EBF3F,3037.34,USER_0002,12,WireTransfer_Global,Jaipur,Amex,True
+C545F18A,2816.18,USER_0008,19,Myntra,Bangalore,Amex,False
+4225E53E,2365.56,USER_0034,11,WireTransfer_Global,Mumbai,Mastercard,True
+594DEE92,2865.96,USER_0030,12,IRCTC,Hyderabad,Amex,False

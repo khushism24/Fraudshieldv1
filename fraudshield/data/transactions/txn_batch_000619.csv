@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4F17822C,1938.3,USER_0021,16,Myntra,Mumbai,Amex,False
+BD5E2BA5,1581.92,USER_0004,19,Amazon,Jaipur,Mastercard,False
+DE48DDE9,4161.63,USER_0035,6,Flipkart,Chennai,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E8CC9EEE,1000.78,USER_0028,17,Netflix,Jaipur,RuPay,False
+269A508C,3562.56,USER_0009,2,D-Mart,Ahmedabad,Visa,False
+8D103C60,1368.12,USER_0043,13,IRCTC,Chennai,Visa,False
+6C120A89,1258.24,USER_0027,20,Uber,Mumbai,Amex,False

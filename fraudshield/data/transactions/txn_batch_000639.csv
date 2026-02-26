@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5B829C60,2169.69,USER_0024,8,BookMyShow,Surat,Visa,False
+5F991F05,3220.75,USER_0025,17,Netflix,Kolkata,Visa,False
+1813F0B1,20672.45,USER_0028,5,Zomato,Bangalore,RuPay,False

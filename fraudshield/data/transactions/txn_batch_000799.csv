@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+555A9B7F,881.92,USER_0028,9,WireTransfer_Global,Surat,Visa,True
+2F3DA57D,2868.87,USER_0014,9,Amazon,Ahmedabad,Mastercard,False
+9B5F6DBF,1202.37,USER_0048,21,MedPlus Pharmacy,Hyderabad,RuPay,False
+AC12D6CE,1426.3,USER_0048,12,Uber,Mumbai,RuPay,False
+FA587A1B,3535.13,USER_0023,20,Netflix,Delhi,RuPay,False
+DF43FBED,12483.12,USER_0016,0,Myntra,Delhi,RuPay,False
+93A0584E,862.01,USER_0010,17,CryptoExchange_BuyBit,Pune,RuPay,True
+604DCE3F,1199.26,USER_0024,13,Swiggy,Chennai,Amex,False

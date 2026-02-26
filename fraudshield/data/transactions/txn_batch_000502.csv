@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EDF354DF,2489.59,USER_0033,1,Flipkart,Jaipur,RuPay,False
+1921D471,3671.77,USER_0017,9,Swiggy,Surat,RuPay,False
+4BE23914,3178.58,USER_0022,17,Flipkart,Bangalore,Visa,False
+BAEF4384,4427.91,USER_0048,13,Zomato,Bangalore,RuPay,False
+3C2F766D,427.43,USER_0005,7,Uber,Hyderabad,Visa,False

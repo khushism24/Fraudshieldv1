@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+59B038C8,3241.19,USER_0035,14,Ola,Hyderabad,Amex,False
+8DB4D4D9,4626.98,USER_0038,4,IRCTC,Bangalore,Amex,False
+8EDE58C9,1601.12,USER_0012,20,BigBasket,Pune,Visa,False
+DAC9F30E,1204.48,USER_0014,13,Reliance Mart,Bangalore,Amex,False
+7E28842E,75.94,USER_0018,16,MedPlus Pharmacy,Surat,Mastercard,False

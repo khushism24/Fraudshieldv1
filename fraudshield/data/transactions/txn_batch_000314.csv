@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8BE475A2,2772.87,USER_0008,22,Reliance Mart,Jaipur,RuPay,False
+2AE16A74,20385.91,USER_0044,2,BigBasket,Mumbai,RuPay,False
+C5D52E2E,1593.65,USER_0010,5,Zomato,Jaipur,RuPay,False
+A86D1A93,4155.6,USER_0014,19,Uber,Ahmedabad,RuPay,False
+F1C2880F,3035.23,USER_0018,18,Swiggy,Bangalore,Mastercard,False
+633C3D44,544.31,USER_0026,19,BookMyShow,Hyderabad,Visa,False

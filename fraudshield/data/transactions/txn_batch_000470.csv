@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8A4621B7,22429.42,USER_0029,3,Amazon,Surat,RuPay,False
+EF5FF479,189.56,USER_0006,18,Amazon,Surat,Amex,False
+ACEBD794,1751.56,USER_0030,0,BookMyShow,Chennai,RuPay,False
+833EFC8B,6897.76,USER_0003,3,MedPlus Pharmacy,Surat,Mastercard,False

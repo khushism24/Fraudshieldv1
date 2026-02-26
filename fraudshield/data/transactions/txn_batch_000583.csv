@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4706B0AF,6835.96,USER_0019,0,Flipkart,Bangalore,Amex,False
+5C3C808C,3299.51,USER_0035,17,Uber,Pune,RuPay,False
+98B2BA91,4362.27,USER_0024,19,Uber,Chennai,Visa,False
+8DC6E676,4440.09,USER_0005,14,Zomato,Mumbai,Amex,False
+E57F6660,20225.0,USER_0023,1,D-Mart,Jaipur,Visa,False
+5275ABC1,628.03,USER_0020,20,Amazon,Bangalore,Mastercard,False

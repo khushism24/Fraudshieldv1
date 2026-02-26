@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F82929DB,6172.85,USER_0022,2,BigBasket,Kolkata,Amex,False
+3B28C952,3623.16,USER_0022,16,CasinoRoyal,Pune,Amex,True
+6A87146F,3505.89,USER_0012,17,IRCTC,Delhi,Mastercard,False
+306C994D,3188.51,USER_0026,15,D-Mart,Delhi,RuPay,False
+1EE588F6,20637.17,USER_0043,2,CryptoExchange_BuyBit,Chennai,Mastercard,True
+D9704A52,646.7,USER_0020,15,BigBasket,Kolkata,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2FA4E421,1262.57,USER_0050,20,Uber,Surat,Visa,False
+FC3B62A3,2103.75,USER_0047,22,Zomato,Hyderabad,RuPay,False
+D62FC0C0,21876.48,USER_0012,1,D-Mart,Bangalore,RuPay,False
+74ED4273,3881.54,USER_0047,17,Ola,Bangalore,RuPay,False

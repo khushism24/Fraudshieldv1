@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D81A28B8,3021.13,USER_0002,14,Swiggy,Mumbai,Visa,False
+5E91C3C1,1749.68,USER_0010,22,MedPlus Pharmacy,Ahmedabad,Mastercard,False
+5FD84143,1520.35,USER_0039,10,Swiggy,Delhi,Mastercard,False
+A054E5D9,1001.57,USER_0004,10,D-Mart,Chennai,RuPay,False
+0FDC0938,943.45,USER_0048,17,Reliance Mart,Bangalore,Visa,False

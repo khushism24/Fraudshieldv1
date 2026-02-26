@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7CEF1A42,6661.77,USER_0045,1,MedPlus Pharmacy,Hyderabad,Mastercard,False
+60C6958A,2210.62,USER_0026,16,Amazon,Surat,RuPay,False
+9992FD3B,4931.25,USER_0009,5,CasinoRoyal,Chennai,Mastercard,True
+B2293EBB,21958.58,USER_0007,4,WireTransfer_Global,Bangalore,Mastercard,True
+7966C396,770.44,USER_0018,7,Reliance Mart,Ahmedabad,Amex,False
+AD09EFD2,15897.16,USER_0008,2,CryptoExchange_BuyBit,Mumbai,Visa,True
+FECB2787,363.91,USER_0031,16,Netflix,Ahmedabad,Visa,False

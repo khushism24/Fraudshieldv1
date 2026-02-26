@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+57B1AD83,1992.98,USER_0011,16,WireTransfer_Global,Kolkata,Mastercard,True
+C22D774B,3359.12,USER_0026,21,D-Mart,Surat,Visa,False
+9906885A,2728.26,USER_0011,11,Flipkart,Pune,Mastercard,False
+3E0E502C,2227.2,USER_0049,10,Amazon,Bangalore,Visa,False
+762DEC28,619.82,USER_0002,6,Amazon,Jaipur,Mastercard,False
+BE1906CA,1694.63,USER_0035,13,Swiggy,Ahmedabad,Visa,False
+CD4E1A6E,3837.67,USER_0036,14,BigBasket,Ahmedabad,Visa,False
+BE77C97E,3387.28,USER_0002,21,Swiggy,Pune,Visa,False

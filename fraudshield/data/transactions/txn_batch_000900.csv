@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A7F3F885,1824.17,USER_0049,8,BigBasket,Chennai,Amex,False
+92D1CD96,2520.85,USER_0036,5,BigBasket,Hyderabad,RuPay,False
+443BF951,897.99,USER_0028,17,Zomato,Pune,RuPay,False

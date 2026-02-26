@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BAF8928E,3859.06,USER_0022,10,Zomato,Pune,RuPay,False
+347744E1,7607.65,USER_0049,0,MedPlus Pharmacy,Pune,Visa,False
+30C16D38,4076.39,USER_0014,23,Myntra,Surat,Visa,False
+0C2AC5C0,2225.93,USER_0037,6,Ola,Surat,Mastercard,False
+F28B133D,1742.24,USER_0004,22,Reliance Mart,Hyderabad,Mastercard,False
+947FEDE7,1835.23,USER_0037,11,MedPlus Pharmacy,Chennai,Visa,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+87AB760F,2908.81,USER_0004,12,WireTransfer_Global,Hyderabad,RuPay,True
+F545A2E1,287.31,USER_0018,23,Amazon,Ahmedabad,Amex,False
+EB8DBBCB,20359.48,USER_0049,5,Myntra,Pune,Amex,False

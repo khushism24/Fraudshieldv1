@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4911F7EF,1994.13,USER_0023,21,Ola,Delhi,Mastercard,False
+A2B78BB9,2374.47,USER_0026,13,Swiggy,Jaipur,Amex,False
+3FAC6EB2,1077.85,USER_0015,10,Ola,Ahmedabad,Mastercard,False
+C031AED7,1989.72,USER_0026,22,Myntra,Hyderabad,Visa,False
+627CF8FF,3930.52,USER_0039,8,Ola,Delhi,Mastercard,False
+18859F05,656.2,USER_0005,15,Myntra,Surat,Visa,False
+F28E0E22,3469.86,USER_0001,21,BookMyShow,Hyderabad,Amex,False
+93672FCB,4068.05,USER_0004,23,Ola,Delhi,Visa,False

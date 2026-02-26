@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8B8D0BED,3166.91,USER_0029,21,Ola,Pune,Mastercard,False
+B6C4993B,17552.99,USER_0018,3,Flipkart,Pune,Visa,False
+E461B97C,3909.33,USER_0050,16,Zomato,Bangalore,RuPay,False
+9D56E557,12021.11,USER_0034,1,Zomato,Mumbai,RuPay,False

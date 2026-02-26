@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A39ACB84,10130.5,USER_0004,4,BookMyShow,Surat,Amex,False
+7784A2AA,2298.15,USER_0001,19,WireTransfer_Global,Chennai,Visa,True
+D18D6E10,2855.91,USER_0045,14,Netflix,Bangalore,RuPay,False
+2303F426,1797.95,USER_0034,13,Netflix,Chennai,RuPay,False

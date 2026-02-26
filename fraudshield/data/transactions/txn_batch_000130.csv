@@ -1,5 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-689BB3E9,3952.06,USER_0037,6,MedPlus Pharmacy,Pune,Amex,False
-2D3ACDFE,18251.72,USER_0023,5,BigBasket,Delhi,RuPay,False
-39DB02D9,2949.85,USER_0004,13,Netflix,Pune,Visa,False
-7F606D9A,3199.96,USER_0024,2,Zomato,Mumbai,RuPay,False
+AE6A48D9,511.89,USER_0020,23,Reliance Mart,Delhi,Mastercard,False
+8F52D80A,3336.18,USER_0008,14,BookMyShow,Pune,RuPay,False
+D8DAD0CB,1022.47,USER_0044,15,BigBasket,Kolkata,RuPay,False
+23B5D399,3224.51,USER_0012,21,Swiggy,Jaipur,RuPay,False
+A2E279ED,5751.4,USER_0001,4,WireTransfer_Global,Jaipur,RuPay,True
+151FD25C,3665.39,USER_0042,13,Flipkart,Pune,Amex,False
+E42D1915,1574.65,USER_0023,9,Zomato,Delhi,Amex,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A9BEE9B4,4187.42,USER_0031,13,BookMyShow,Chennai,Amex,False
+395DE625,5335.1,USER_0018,5,Ola,Hyderabad,Amex,False
+A523C5C5,638.62,USER_0004,15,Flipkart,Bangalore,Visa,False
+A5879B4F,3438.1,USER_0037,21,D-Mart,Ahmedabad,Amex,False
+1E47D026,996.94,USER_0050,17,Ola,Pune,Mastercard,False
+216EBA02,4377.02,USER_0045,17,Zomato,Ahmedabad,Amex,False

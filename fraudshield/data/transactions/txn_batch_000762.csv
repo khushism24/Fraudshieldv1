@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A2386867,85.83,USER_0001,22,Netflix,Delhi,Visa,False
+F3FF688A,2656.75,USER_0022,14,BookMyShow,Chennai,RuPay,False
+901B024F,1584.51,USER_0008,17,BigBasket,Kolkata,Mastercard,False
+84AB583B,2122.37,USER_0010,18,BigBasket,Bangalore,Mastercard,False

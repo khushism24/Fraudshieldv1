@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+95FF0F63,8557.08,USER_0042,2,Reliance Mart,Jaipur,RuPay,False
+49EA06AE,11078.55,USER_0041,5,CryptoExchange_BuyBit,Chennai,Mastercard,True
+46853118,1717.08,USER_0003,2,Netflix,Pune,RuPay,False
+57D501A6,7199.1,USER_0012,2,Amazon,Hyderabad,RuPay,False
+EA94F15D,2379.69,USER_0026,22,Zomato,Kolkata,Mastercard,False

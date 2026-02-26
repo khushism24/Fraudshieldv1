@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+113E8FE0,2315.09,USER_0015,21,CryptoExchange_BuyBit,Mumbai,RuPay,True
+18CC928E,115.79,USER_0038,7,WireTransfer_Global,Ahmedabad,Visa,True
+934BAEE8,2305.41,USER_0045,6,Amazon,Surat,Visa,False

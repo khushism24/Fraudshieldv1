@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+50707196,390.09,USER_0040,14,CasinoRoyal,Chennai,Visa,True
+F5A86509,1520.53,USER_0028,12,Ola,Chennai,RuPay,False
+26B595BD,394.39,USER_0024,18,WireTransfer_Global,Ahmedabad,RuPay,True
+39E2E695,1171.33,USER_0035,12,Myntra,Kolkata,Visa,False
+8011137E,648.18,USER_0018,2,Ola,Surat,RuPay,False

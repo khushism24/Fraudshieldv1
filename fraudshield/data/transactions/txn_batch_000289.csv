@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2B6852BF,3350.04,USER_0013,13,BigBasket,Jaipur,Visa,False
+9FB8F623,2284.95,USER_0011,10,Myntra,Bangalore,Visa,False
+A26BFC44,159.43,USER_0013,16,Reliance Mart,Delhi,Visa,False
+D3981061,2493.3,USER_0013,10,WireTransfer_Global,Mumbai,Mastercard,True
+07B673B0,1429.9,USER_0025,18,WireTransfer_Global,Kolkata,Visa,True

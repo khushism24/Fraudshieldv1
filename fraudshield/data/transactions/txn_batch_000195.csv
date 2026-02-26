@@ -1,5 +1,5 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-E27DFA58,535.1,USER_0001,15,Swiggy,Delhi,RuPay,False
-3EC46EB4,3550.9,USER_0003,21,CasinoRoyal,Delhi,Mastercard,True
-7E0FD52F,7692.56,USER_0041,5,CryptoExchange_BuyBit,Ahmedabad,RuPay,True
-BF28BE47,1406.95,USER_0012,19,Flipkart,Delhi,Mastercard,False
+F12BD9B3,2409.29,USER_0009,14,CasinoRoyal,Bangalore,Amex,True
+38D08F1C,4246.06,USER_0038,10,MedPlus Pharmacy,Chennai,RuPay,False
+14FC1C80,1663.84,USER_0043,9,Myntra,Jaipur,Mastercard,False
+43DF1BDE,2881.68,USER_0037,18,Myntra,Surat,Visa,False

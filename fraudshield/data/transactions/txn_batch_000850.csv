@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D941BE35,1656.77,USER_0035,20,MedPlus Pharmacy,Hyderabad,Amex,False
+46CB0258,3594.7,USER_0028,9,Uber,Kolkata,Amex,False
+BBDF99E1,1461.66,USER_0044,22,BigBasket,Kolkata,Amex,False
+D336F5A0,3178.25,USER_0028,20,D-Mart,Hyderabad,Amex,False
+4577260B,1846.44,USER_0017,13,MedPlus Pharmacy,Jaipur,Mastercard,False
+150E4A45,3610.52,USER_0035,18,BookMyShow,Mumbai,Visa,False

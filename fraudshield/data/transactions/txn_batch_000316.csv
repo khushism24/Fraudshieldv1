@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FCB7BB2B,3298.11,USER_0025,10,Myntra,Ahmedabad,RuPay,False
+8630EC51,2951.75,USER_0049,16,D-Mart,Chennai,Visa,False
+D1E2F590,2287.06,USER_0007,5,CryptoExchange_BuyBit,Jaipur,Visa,True
+2F786F86,4163.11,USER_0017,4,Ola,Ahmedabad,RuPay,False
+A2BD0206,4217.26,USER_0042,16,BookMyShow,Jaipur,RuPay,False

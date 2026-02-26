@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A5F968A8,835.81,USER_0037,22,MedPlus Pharmacy,Kolkata,Amex,False
+44213EEE,1331.4,USER_0011,7,CasinoRoyal,Bangalore,Amex,True
+051FA37A,323.96,USER_0017,14,Myntra,Surat,Amex,False
+F13231D5,3004.21,USER_0035,21,Myntra,Hyderabad,Amex,False

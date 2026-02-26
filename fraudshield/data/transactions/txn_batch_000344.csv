@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D278CB8E,2584.09,USER_0038,17,BigBasket,Ahmedabad,RuPay,False
+40996ADF,11460.04,USER_0029,5,Swiggy,Jaipur,Visa,False
+55805AAE,4474.22,USER_0046,18,BookMyShow,Bangalore,RuPay,False
+9F378605,4150.06,USER_0005,10,Ola,Delhi,Visa,False
+0D3DEE88,10588.13,USER_0041,1,BigBasket,Hyderabad,Amex,False
+05C47127,4090.92,USER_0019,22,MedPlus Pharmacy,Ahmedabad,Amex,False
+D01A7B15,591.85,USER_0033,17,WireTransfer_Global,Pune,Amex,True
+E1164C5B,2956.88,USER_0012,8,Uber,Delhi,Visa,False

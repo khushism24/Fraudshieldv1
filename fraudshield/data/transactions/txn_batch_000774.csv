@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+03FF35B3,1819.46,USER_0017,14,Myntra,Pune,Visa,False
+E7F84088,2171.34,USER_0025,7,Uber,Kolkata,RuPay,False
+49DA6211,3509.21,USER_0007,6,D-Mart,Kolkata,Mastercard,False
+A3144165,3867.29,USER_0045,14,WireTransfer_Global,Pune,Visa,True

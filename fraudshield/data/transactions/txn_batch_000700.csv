@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+98B27807,4445.9,USER_0040,15,Myntra,Surat,RuPay,False
+02A1056D,3130.79,USER_0004,5,CasinoRoyal,Delhi,Visa,True
+CFDE107A,1607.37,USER_0011,6,WireTransfer_Global,Ahmedabad,Amex,True
+18054115,1864.79,USER_0022,10,BigBasket,Bangalore,Amex,False
+E2483D98,16813.78,USER_0037,3,WireTransfer_Global,Bangalore,RuPay,True
+261AD90E,10936.57,USER_0014,1,Myntra,Chennai,RuPay,False
+51E30C5D,9806.69,USER_0015,0,Flipkart,Delhi,Visa,False
+7D90A55E,3294.57,USER_0009,9,Flipkart,Surat,Amex,False

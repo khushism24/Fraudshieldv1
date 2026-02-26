@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7EB04283,1050.24,USER_0006,10,MedPlus Pharmacy,Pune,Amex,False
+BF382A47,20509.13,USER_0041,0,BookMyShow,Delhi,Mastercard,False
+5464FEA6,3556.84,USER_0009,16,Amazon,Bangalore,Mastercard,False
+E6972633,1474.91,USER_0046,19,D-Mart,Chennai,Amex,False
+23462D4D,2111.19,USER_0016,5,D-Mart,Mumbai,Mastercard,False
+1CD4C819,4273.56,USER_0017,21,Netflix,Mumbai,Amex,False

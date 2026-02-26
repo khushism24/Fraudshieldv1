@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+34672C3F,1224.33,USER_0014,20,Flipkart,Ahmedabad,RuPay,False
+AD9D760F,23639.02,USER_0005,4,Uber,Jaipur,Visa,False
+D47EEFB5,1815.11,USER_0021,8,Reliance Mart,Ahmedabad,RuPay,False
+7E4C5D8D,5151.58,USER_0024,3,Ola,Delhi,RuPay,False
+CE36DC6B,10351.93,USER_0034,4,CryptoExchange_BuyBit,Pune,Visa,True
+3B14BDE8,3222.29,USER_0037,18,Ola,Surat,Mastercard,False

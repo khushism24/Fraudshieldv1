@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8FFCFB4D,4434.27,USER_0031,16,BookMyShow,Hyderabad,RuPay,False
+DB7C64FF,2904.34,USER_0043,16,Amazon,Chennai,Amex,False
+115259D3,506.05,USER_0014,6,Myntra,Kolkata,Visa,False
+DD001C2C,3385.35,USER_0020,17,Uber,Delhi,Amex,False

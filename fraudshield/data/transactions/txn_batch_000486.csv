@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0A3082C2,3500.66,USER_0039,21,IRCTC,Ahmedabad,Visa,False
+ABC1AB41,4864.56,USER_0025,2,MedPlus Pharmacy,Chennai,Amex,False
+A009E61F,3337.14,USER_0001,13,Ola,Jaipur,Visa,False
+8C8AF550,3439.74,USER_0029,21,CasinoRoyal,Mumbai,Mastercard,True

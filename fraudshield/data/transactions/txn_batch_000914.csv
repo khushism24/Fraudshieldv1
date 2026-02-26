@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0106BC16,3116.73,USER_0037,18,CasinoRoyal,Chennai,RuPay,True
+1D6C1C1C,14932.47,USER_0014,0,BigBasket,Ahmedabad,Visa,False
+F69B562A,18806.71,USER_0018,5,BigBasket,Surat,Visa,False
+67B3EA28,905.02,USER_0013,21,WireTransfer_Global,Pune,Visa,True
+8AB60534,3058.39,USER_0022,8,CasinoRoyal,Ahmedabad,RuPay,True
+C1E225B3,4758.85,USER_0045,0,BookMyShow,Pune,Amex,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C7FB602D,894.6,USER_0036,18,Ola,Surat,RuPay,False
+E448007A,4336.63,USER_0045,6,Flipkart,Kolkata,Visa,False
+EFFE9765,2832.27,USER_0022,0,Uber,Pune,Amex,False
+3E7312B4,19421.56,USER_0010,2,MedPlus Pharmacy,Mumbai,Mastercard,False
+63973D12,17805.85,USER_0001,2,Myntra,Chennai,RuPay,False
+2748015A,4856.13,USER_0006,4,Zomato,Chennai,Visa,False

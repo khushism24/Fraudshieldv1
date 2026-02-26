@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+05CCF05D,4296.33,USER_0020,23,D-Mart,Surat,RuPay,False
+17EEFEAE,4074.36,USER_0011,8,Flipkart,Ahmedabad,RuPay,False
+8849D203,773.6,USER_0029,20,Flipkart,Delhi,Mastercard,False

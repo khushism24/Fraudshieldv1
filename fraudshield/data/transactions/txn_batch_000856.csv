@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E7BD49E3,588.11,USER_0008,17,IRCTC,Chennai,RuPay,False
+FA437621,2651.15,USER_0026,8,BigBasket,Delhi,RuPay,False
+FD8BC38B,12447.52,USER_0028,5,Reliance Mart,Hyderabad,RuPay,False

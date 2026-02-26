@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E52922CA,864.75,USER_0032,10,Reliance Mart,Jaipur,Amex,False
+1EA2A90F,3136.11,USER_0046,11,IRCTC,Delhi,RuPay,False
+6974E54D,1032.59,USER_0008,16,Amazon,Pune,RuPay,False
+1A958F10,12111.15,USER_0023,5,IRCTC,Bangalore,Mastercard,False

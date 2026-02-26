@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7CD446FE,1830.85,USER_0017,12,Myntra,Mumbai,Visa,False
+60F0226E,17698.48,USER_0006,5,Ola,Jaipur,Amex,False
+75370F31,1925.18,USER_0029,8,CasinoRoyal,Kolkata,Visa,True
+33C56196,1141.38,USER_0030,6,BookMyShow,Mumbai,Amex,False
+5C02BBC3,4261.63,USER_0039,14,Zomato,Ahmedabad,Mastercard,False
+8ACAA318,348.04,USER_0007,14,WireTransfer_Global,Chennai,Amex,True
+61E1BD12,4012.67,USER_0023,15,Zomato,Kolkata,Mastercard,False
+A5D4ADD0,3203.2,USER_0036,6,Uber,Kolkata,Mastercard,False

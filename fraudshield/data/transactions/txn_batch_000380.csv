@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0135FBA1,3371.7,USER_0016,6,Reliance Mart,Bangalore,Visa,False
+CE83DBC6,21016.97,USER_0006,3,Reliance Mart,Jaipur,RuPay,False
+60F409D7,877.93,USER_0013,17,CasinoRoyal,Bangalore,Mastercard,True
+26BA314B,716.27,USER_0002,11,MedPlus Pharmacy,Jaipur,Visa,False
+FED0DDC3,1155.85,USER_0005,16,Swiggy,Surat,Mastercard,False

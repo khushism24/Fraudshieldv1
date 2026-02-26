@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C349FDDB,1815.32,USER_0009,2,Swiggy,Delhi,Amex,False
+2D3C73EC,1991.78,USER_0015,6,Flipkart,Surat,Mastercard,False
+56E1E5CF,2018.18,USER_0043,19,Netflix,Bangalore,Mastercard,False
+F5CC144D,16535.05,USER_0009,5,Flipkart,Mumbai,Amex,False
+6ECBDC08,1754.81,USER_0021,23,Zomato,Jaipur,Amex,False
+8D5DE59E,15899.12,USER_0021,1,Reliance Mart,Jaipur,Amex,False
+C4835450,1040.78,USER_0033,12,IRCTC,Delhi,Visa,False
+B912FC32,757.94,USER_0036,20,Flipkart,Surat,Amex,False

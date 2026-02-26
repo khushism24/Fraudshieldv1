@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9A70EFB1,2204.16,USER_0046,16,Amazon,Ahmedabad,Amex,False
+894EC58B,1551.14,USER_0021,19,Reliance Mart,Chennai,Visa,False
+AB8462C3,14505.16,USER_0027,3,Ola,Hyderabad,Mastercard,False
+A70B701F,3949.59,USER_0017,9,Swiggy,Chennai,Visa,False
+60EF96F0,18356.08,USER_0031,1,Reliance Mart,Hyderabad,Amex,False
+7AB06912,1851.95,USER_0031,12,BigBasket,Chennai,Mastercard,False
+CDDD93AF,13567.68,USER_0036,3,Uber,Chennai,Visa,False

@@ -1,5 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-6245F10A,585.16,USER_0044,8,Amazon,Surat,Mastercard,False
-87EAD158,3280.56,USER_0049,1,Amazon,Bangalore,Mastercard,False
-D1A2C350,1953.81,USER_0031,7,Zomato,Kolkata,Visa,False
-BC838376,1375.33,USER_0036,14,Uber,Kolkata,Visa,False
+236A3B67,1345.27,USER_0048,16,BookMyShow,Chennai,Mastercard,False
+286CAF11,3711.56,USER_0011,10,MedPlus Pharmacy,Ahmedabad,Mastercard,False
+60983F6F,504.14,USER_0005,8,BookMyShow,Jaipur,Visa,False
+BDEA9673,2516.86,USER_0008,9,Uber,Bangalore,Amex,False
+FADFEDBA,4227.81,USER_0031,15,Netflix,Kolkata,RuPay,False
+0D122D77,680.93,USER_0002,6,CryptoExchange_BuyBit,Pune,Visa,True

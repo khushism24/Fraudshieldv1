@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A7ABDBC7,2528.69,USER_0014,21,IRCTC,Surat,Visa,False
+EE77C529,2749.03,USER_0041,8,WireTransfer_Global,Hyderabad,Amex,True
+F64EF644,17541.81,USER_0029,0,Uber,Ahmedabad,Mastercard,False
+B5037A58,4456.02,USER_0037,9,Zomato,Bangalore,Mastercard,False
+7CDBF5E0,20956.32,USER_0006,2,Amazon,Hyderabad,Mastercard,False
+97E2CB81,1861.8,USER_0031,14,IRCTC,Pune,Amex,False
+1A0BBDC1,4395.09,USER_0009,6,Netflix,Mumbai,RuPay,False
+34A73AD4,3838.64,USER_0037,12,CryptoExchange_BuyBit,Hyderabad,RuPay,True

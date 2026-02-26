@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E4B5BCB1,13956.37,USER_0002,2,D-Mart,Delhi,Visa,False
+1D1976F5,2937.09,USER_0048,14,Zomato,Pune,Amex,False
+DDE600D5,4435.84,USER_0021,16,Uber,Kolkata,RuPay,False

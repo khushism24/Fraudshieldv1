@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+910C24C2,2612.99,USER_0035,12,D-Mart,Kolkata,Visa,False
+B748CAFE,115.36,USER_0029,11,Zomato,Bangalore,Visa,False
+5B9ADBEE,1137.34,USER_0030,11,Ola,Hyderabad,Mastercard,False

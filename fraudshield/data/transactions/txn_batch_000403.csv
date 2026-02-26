@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+041F1C68,4427.92,USER_0019,13,D-Mart,Pune,Mastercard,False
+205FDEC1,1451.67,USER_0003,17,CryptoExchange_BuyBit,Ahmedabad,RuPay,True
+F15D95D8,3771.75,USER_0016,9,Amazon,Surat,Mastercard,False

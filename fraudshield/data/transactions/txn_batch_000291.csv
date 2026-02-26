@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7B81346A,2026.06,USER_0016,20,MedPlus Pharmacy,Mumbai,Amex,False
+E319F04A,1681.29,USER_0012,12,BookMyShow,Hyderabad,Mastercard,False
+076F7480,2483.29,USER_0013,10,D-Mart,Hyderabad,RuPay,False

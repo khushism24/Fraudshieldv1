@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D3F1860D,1207.64,USER_0033,6,IRCTC,Jaipur,RuPay,False
+716E4F9A,1567.94,USER_0003,8,Uber,Delhi,RuPay,False
+42504F49,939.88,USER_0043,16,CryptoExchange_BuyBit,Chennai,RuPay,True
+04CD1767,443.16,USER_0045,17,WireTransfer_Global,Ahmedabad,Visa,True

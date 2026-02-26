@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5491CA51,1947.92,USER_0007,23,Zomato,Surat,RuPay,False
+F2E0DA79,566.03,USER_0010,13,Uber,Bangalore,RuPay,False
+1D1B4F78,2688.59,USER_0030,1,Zomato,Jaipur,Amex,False
+E611EB9A,4072.34,USER_0008,15,Uber,Jaipur,Mastercard,False

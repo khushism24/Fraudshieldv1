@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D25CD6EE,6867.83,USER_0035,2,Swiggy,Surat,RuPay,False
+1590D892,1292.04,USER_0007,6,BookMyShow,Ahmedabad,Visa,False
+DAC692F7,736.41,USER_0019,22,CasinoRoyal,Ahmedabad,Mastercard,True
+EA3CA368,4418.79,USER_0001,22,Swiggy,Delhi,RuPay,False
+D3F411C8,4434.85,USER_0010,16,CasinoRoyal,Bangalore,RuPay,True
+1EB3A7E1,2155.85,USER_0049,13,Netflix,Jaipur,RuPay,False
+120B90CA,307.46,USER_0040,17,Flipkart,Jaipur,Visa,False

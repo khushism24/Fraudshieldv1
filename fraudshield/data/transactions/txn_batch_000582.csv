@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E69CF292,4216.36,USER_0041,17,Amazon,Ahmedabad,Amex,False
+0C727C1E,484.02,USER_0004,12,Reliance Mart,Ahmedabad,Amex,False
+789D5C2D,159.27,USER_0013,7,Netflix,Mumbai,Mastercard,False
+A18B53FC,1575.37,USER_0020,17,CasinoRoyal,Surat,Amex,True

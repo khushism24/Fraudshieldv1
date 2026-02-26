@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0B8D30C0,1927.09,USER_0008,23,IRCTC,Surat,Amex,False
+D1BFEB2E,814.82,USER_0041,10,IRCTC,Delhi,Amex,False
+4B7DE690,1809.26,USER_0037,12,Netflix,Hyderabad,Visa,False
+0724A65C,733.34,USER_0005,7,D-Mart,Pune,Amex,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BF803D59,699.54,USER_0027,20,Reliance Mart,Ahmedabad,Visa,False
+51F0C054,1490.29,USER_0036,22,Myntra,Jaipur,Visa,False
+2C9960A7,3548.51,USER_0009,12,BigBasket,Pune,Amex,False

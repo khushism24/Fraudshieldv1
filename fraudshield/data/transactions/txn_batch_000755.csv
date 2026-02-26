@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+18512237,4129.42,USER_0031,14,Netflix,Hyderabad,RuPay,False
+9FB1DB67,19757.71,USER_0046,0,Myntra,Bangalore,Mastercard,False
+5A3E977F,60.55,USER_0007,21,CryptoExchange_BuyBit,Bangalore,Visa,True
+BD3A1D1A,4357.64,USER_0014,17,Flipkart,Hyderabad,Amex,False

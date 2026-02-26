@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3623561A,23072.2,USER_0012,0,Netflix,Hyderabad,Visa,False
+95FFCBA7,3721.02,USER_0018,15,Zomato,Pune,Visa,False
+245A4BF2,1016.74,USER_0001,8,Flipkart,Delhi,RuPay,False
+73553AAE,9342.15,USER_0021,2,Netflix,Mumbai,RuPay,False
+CFDD6694,1117.02,USER_0035,12,Zomato,Surat,RuPay,False

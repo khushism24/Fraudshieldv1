@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FE6EF5CE,2238.72,USER_0039,10,CasinoRoyal,Ahmedabad,RuPay,True
+BE724460,4261.02,USER_0005,6,Netflix,Hyderabad,Visa,False
+8B8B5727,3289.8,USER_0020,14,CryptoExchange_BuyBit,Pune,Mastercard,True
+7E687A83,3158.34,USER_0028,22,CasinoRoyal,Surat,Visa,True

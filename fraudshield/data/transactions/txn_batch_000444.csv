@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FE07A0AD,1361.73,USER_0034,20,Flipkart,Bangalore,Visa,False
+C63A18EA,1976.65,USER_0034,12,D-Mart,Bangalore,RuPay,False
+432BBE30,2390.81,USER_0007,4,CasinoRoyal,Kolkata,RuPay,True
+A0646730,3087.41,USER_0050,23,Amazon,Surat,RuPay,False
+10DD65E8,3638.65,USER_0033,7,Netflix,Pune,Amex,False
+080FA6F7,1340.3,USER_0024,6,Uber,Kolkata,Mastercard,False

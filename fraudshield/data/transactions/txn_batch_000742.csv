@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+24777B23,3344.07,USER_0028,3,D-Mart,Hyderabad,Amex,False
+996E81EF,1760.53,USER_0024,9,Reliance Mart,Jaipur,RuPay,False
+3AE13055,1581.28,USER_0045,5,IRCTC,Surat,Mastercard,False
+2C4FBA4C,3821.54,USER_0003,15,Amazon,Bangalore,Visa,False

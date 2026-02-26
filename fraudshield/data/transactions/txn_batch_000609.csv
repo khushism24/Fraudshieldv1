@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+252EAC56,731.26,USER_0032,16,WireTransfer_Global,Jaipur,Amex,True
+9546EBC4,2187.74,USER_0010,16,Netflix,Mumbai,Amex,False
+2FC19799,4288.47,USER_0037,13,Swiggy,Mumbai,Visa,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1E627510,399.4,USER_0001,13,MedPlus Pharmacy,Bangalore,Visa,False
+000BAA11,12053.42,USER_0039,1,IRCTC,Pune,RuPay,False
+8C1B15E1,1495.48,USER_0048,10,Reliance Mart,Surat,Amex,False
+801805C6,802.19,USER_0007,15,WireTransfer_Global,Mumbai,Amex,True
+289150BF,4222.27,USER_0048,11,Netflix,Hyderabad,Mastercard,False
+C756F465,68.71,USER_0022,19,BigBasket,Bangalore,Amex,False

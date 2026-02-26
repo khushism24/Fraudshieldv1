@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+93C241EF,2644.58,USER_0019,12,D-Mart,Pune,Amex,False
+228D96C2,3357.28,USER_0001,15,Swiggy,Surat,Mastercard,False
+DAABA9BD,531.48,USER_0018,11,BigBasket,Kolkata,Mastercard,False
+86210371,4191.52,USER_0036,23,Amazon,Surat,RuPay,False
+0916457D,1259.41,USER_0009,18,BookMyShow,Pune,RuPay,False
+31CE2099,711.39,USER_0049,1,IRCTC,Hyderabad,Amex,False

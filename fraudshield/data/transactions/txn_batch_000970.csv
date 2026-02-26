@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3A968307,3800.16,USER_0005,15,Ola,Kolkata,Visa,False
+498FD6FD,4687.72,USER_0038,0,BigBasket,Mumbai,Visa,False
+931AE423,1889.31,USER_0049,5,Netflix,Jaipur,Visa,False
+418F8756,2055.75,USER_0029,18,Myntra,Chennai,Mastercard,False
+507013C4,729.83,USER_0048,20,IRCTC,Surat,Mastercard,False

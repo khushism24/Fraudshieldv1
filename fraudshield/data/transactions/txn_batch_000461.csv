@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+878EB8BE,414.98,USER_0042,6,MedPlus Pharmacy,Chennai,Visa,False
+3691CACE,24811.23,USER_0019,4,CryptoExchange_BuyBit,Mumbai,Amex,True
+CC7C4E6F,711.55,USER_0003,8,Zomato,Mumbai,Amex,False
+409B6675,1686.16,USER_0036,8,Reliance Mart,Delhi,Visa,False
+46BE66C0,510.33,USER_0038,13,MedPlus Pharmacy,Bangalore,Amex,False
+E11F0465,3193.53,USER_0027,21,Amazon,Chennai,RuPay,False
+429C8991,3141.73,USER_0005,5,IRCTC,Surat,RuPay,False
+F2F49DD9,17058.76,USER_0040,3,BigBasket,Surat,Visa,False

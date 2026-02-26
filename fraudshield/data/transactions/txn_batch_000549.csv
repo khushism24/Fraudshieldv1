@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+501F496A,23755.48,USER_0038,5,IRCTC,Surat,Visa,False
+A05DA6B2,3160.13,USER_0040,10,D-Mart,Jaipur,RuPay,False
+98073A82,4401.15,USER_0022,17,CryptoExchange_BuyBit,Hyderabad,Visa,True
+3425922C,1514.42,USER_0011,12,Swiggy,Kolkata,Amex,False
+AF557AC6,3031.41,USER_0035,22,Uber,Surat,Visa,False
+6E3F4CB0,654.52,USER_0021,14,Ola,Chennai,Mastercard,False

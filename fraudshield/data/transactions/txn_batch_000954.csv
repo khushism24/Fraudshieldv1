@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+80B184E1,2650.82,USER_0018,22,Amazon,Chennai,Amex,False
+C62059BE,3565.2,USER_0001,8,MedPlus Pharmacy,Mumbai,Visa,False
+245EAEB9,249.57,USER_0044,17,Uber,Surat,Mastercard,False
+2872BEF3,3615.4,USER_0014,19,WireTransfer_Global,Delhi,Amex,True
+8181CF3E,4220.34,USER_0022,20,D-Mart,Delhi,Mastercard,False

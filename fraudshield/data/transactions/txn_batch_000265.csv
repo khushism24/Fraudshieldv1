@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B8321DCE,899.62,USER_0010,3,Amazon,Mumbai,Visa,False
+B8CDF499,1458.09,USER_0022,18,Zomato,Surat,Amex,False
+38E83D16,18048.98,USER_0027,4,Myntra,Chennai,RuPay,False
+D10A1A53,4428.92,USER_0014,13,CasinoRoyal,Hyderabad,Visa,True
+6708BB68,11168.15,USER_0024,2,Ola,Surat,Visa,False

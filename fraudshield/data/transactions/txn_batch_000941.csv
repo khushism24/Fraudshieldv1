@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7F5B3E1E,2318.25,USER_0018,8,Amazon,Chennai,RuPay,False
+E563AF91,1833.47,USER_0020,14,Amazon,Jaipur,Mastercard,False
+222FD43C,2726.45,USER_0027,22,Zomato,Ahmedabad,Amex,False
+4DDFE6F8,1994.83,USER_0037,17,MedPlus Pharmacy,Surat,Mastercard,False
+1F0834DE,3335.03,USER_0021,21,D-Mart,Pune,Visa,False

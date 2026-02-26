@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0339E9B8,1369.35,USER_0039,5,Flipkart,Delhi,Visa,False
+DE675071,881.38,USER_0007,18,WireTransfer_Global,Jaipur,Amex,True
+EEB4DE29,2562.03,USER_0045,11,Uber,Kolkata,Visa,False
+1C441A02,1256.2,USER_0023,21,Myntra,Hyderabad,Visa,False
+B20E79D3,4583.86,USER_0005,4,Zomato,Mumbai,Amex,False
+C0BF6AC9,2724.29,USER_0028,15,BigBasket,Ahmedabad,Amex,False
+40C1BA2F,1950.3,USER_0019,1,D-Mart,Hyderabad,Mastercard,False
+8F2F73B7,2339.55,USER_0024,5,Flipkart,Chennai,RuPay,False

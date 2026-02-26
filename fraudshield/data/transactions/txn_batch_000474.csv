@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FCD10659,1526.33,USER_0007,23,Reliance Mart,Surat,Visa,False
+E888EA1D,2131.22,USER_0033,17,CasinoRoyal,Pune,RuPay,True
+657E801E,1913.05,USER_0015,11,BigBasket,Jaipur,Amex,False
+C896A743,13516.22,USER_0002,0,CryptoExchange_BuyBit,Chennai,Mastercard,True
+3914A5E3,2877.16,USER_0021,19,CasinoRoyal,Surat,Amex,True
+3FEDEAB0,2088.89,USER_0011,19,Reliance Mart,Surat,RuPay,False
+05549E46,1509.56,USER_0038,7,Uber,Kolkata,RuPay,False

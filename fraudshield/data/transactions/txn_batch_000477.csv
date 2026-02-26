@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E3355C59,457.51,USER_0007,6,Ola,Surat,Amex,False
+6FDB8177,1659.96,USER_0028,11,Swiggy,Chennai,RuPay,False
+0BF24BB3,715.55,USER_0048,13,Ola,Surat,Visa,False
+D51A4BFE,3415.99,USER_0017,0,Zomato,Surat,Visa,False

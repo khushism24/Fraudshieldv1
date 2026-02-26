@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E27AB5FC,3657.88,USER_0038,21,CasinoRoyal,Surat,Visa,True
+A11A3BF2,4382.59,USER_0049,9,Ola,Hyderabad,Amex,False
+EF359A6D,3624.94,USER_0018,14,WireTransfer_Global,Kolkata,Visa,True
+DA09B73D,4393.44,USER_0039,16,Flipkart,Surat,Mastercard,False
+6D15D8CC,3033.3,USER_0048,15,MedPlus Pharmacy,Ahmedabad,Mastercard,False
+FD24BEC7,845.52,USER_0033,9,MedPlus Pharmacy,Jaipur,Amex,False
+99A65334,19893.81,USER_0037,5,BigBasket,Ahmedabad,RuPay,False

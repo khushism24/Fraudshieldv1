@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CD7B1E7B,1101.79,USER_0022,17,BigBasket,Bangalore,Visa,False
+AA7ABDC2,1064.15,USER_0048,18,MedPlus Pharmacy,Pune,Amex,False
+4B55C8E2,1691.05,USER_0039,7,CasinoRoyal,Kolkata,Visa,True
+8437AF39,2532.19,USER_0018,13,Ola,Pune,Mastercard,False
+9855A4CD,1519.2,USER_0025,10,Uber,Kolkata,RuPay,False

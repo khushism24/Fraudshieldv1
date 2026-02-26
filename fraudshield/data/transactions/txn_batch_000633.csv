@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7CA00184,2186.45,USER_0042,12,Uber,Hyderabad,Visa,False
+36CF7D17,9583.81,USER_0030,2,BookMyShow,Delhi,RuPay,False
+F7F908C4,2790.07,USER_0040,11,BookMyShow,Pune,Visa,False
+C0FC225C,3878.07,USER_0002,18,Zomato,Jaipur,Amex,False
+A96A3A3D,232.34,USER_0029,10,Myntra,Pune,Visa,False
+A35E9CA6,3388.31,USER_0040,7,Uber,Bangalore,Mastercard,False

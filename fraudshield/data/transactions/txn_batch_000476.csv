@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7AA8E9C4,1095.08,USER_0044,9,CasinoRoyal,Pune,RuPay,True
+A09D596D,1645.91,USER_0045,17,Zomato,Delhi,Amex,False
+D9100CED,22689.49,USER_0032,0,BookMyShow,Delhi,Amex,False
+BFD7ED85,970.39,USER_0045,22,Myntra,Bangalore,Amex,False
+1E70906E,1054.26,USER_0046,3,Flipkart,Ahmedabad,RuPay,False
+58FB9335,2283.46,USER_0033,11,Ola,Ahmedabad,RuPay,False

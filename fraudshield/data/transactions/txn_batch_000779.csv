@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B1B4A7BD,3331.8,USER_0045,11,D-Mart,Chennai,Visa,False
+FA4A0AAB,4450.88,USER_0011,11,Ola,Hyderabad,Mastercard,False
+38195E62,1271.4,USER_0020,13,Netflix,Hyderabad,RuPay,False

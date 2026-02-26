@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C753F1E5,636.25,USER_0008,15,Myntra,Jaipur,Amex,False
+6110601A,939.13,USER_0035,23,Uber,Jaipur,Visa,False
+B6916544,4474.72,USER_0010,1,Netflix,Pune,Visa,False
+EC4261A1,15956.55,USER_0026,2,MedPlus Pharmacy,Chennai,Visa,False
+F1326C5F,1717.96,USER_0039,7,Ola,Kolkata,Mastercard,False
+189DF1A9,11772.05,USER_0035,4,CasinoRoyal,Hyderabad,Visa,True

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E23BCEE9,1007.84,USER_0029,8,Reliance Mart,Kolkata,Amex,False
+868251A3,51.09,USER_0045,19,Myntra,Delhi,RuPay,False
+BE31381F,183.31,USER_0015,10,Uber,Ahmedabad,RuPay,False
+20F15EC5,4294.45,USER_0030,20,BookMyShow,Hyderabad,Amex,False
+94E18831,1849.54,USER_0048,11,WireTransfer_Global,Pune,Mastercard,True
+2DA113E8,1712.43,USER_0008,3,CryptoExchange_BuyBit,Bangalore,Amex,True

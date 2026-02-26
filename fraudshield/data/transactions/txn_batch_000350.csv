@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B8D8F71E,4357.0,USER_0026,8,Swiggy,Mumbai,Visa,False
+79417D34,479.2,USER_0012,22,BookMyShow,Delhi,RuPay,False
+C0A361AF,2948.69,USER_0016,6,MedPlus Pharmacy,Delhi,Amex,False
+88EAEBF5,3426.65,USER_0016,18,MedPlus Pharmacy,Delhi,Mastercard,False
+7BAD4190,4586.62,USER_0006,3,Amazon,Pune,RuPay,False

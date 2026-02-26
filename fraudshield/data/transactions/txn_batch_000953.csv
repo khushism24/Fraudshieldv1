@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E712042E,1201.86,USER_0044,19,CasinoRoyal,Surat,Mastercard,True
+62533C1D,2616.98,USER_0015,23,BigBasket,Delhi,Visa,False
+D4089FFD,4146.56,USER_0048,12,BookMyShow,Mumbai,Visa,False
+FFB1A41C,2947.5,USER_0032,17,Myntra,Chennai,Mastercard,False
+0114B027,3479.86,USER_0002,3,Reliance Mart,Chennai,RuPay,False
+89836D13,1313.04,USER_0003,6,BookMyShow,Surat,Visa,False
+1FFD3721,10336.15,USER_0020,4,BookMyShow,Delhi,Amex,False

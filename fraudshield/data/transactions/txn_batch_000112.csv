@@ -1,5 +1,5 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-E6268EA0,4398.9,USER_0045,11,CryptoExchange_BuyBit,Pune,Visa,True
-34E7ABCF,542.8,USER_0042,11,Myntra,Bangalore,RuPay,False
-552D90F4,3648.52,USER_0030,17,CasinoRoyal,Delhi,Amex,True
-8582D15B,3326.64,USER_0035,9,Reliance Mart,Surat,Mastercard,False
+7D6D2D87,2824.26,USER_0032,9,BigBasket,Ahmedabad,Visa,False
+76867CBA,1709.03,USER_0047,20,WireTransfer_Global,Kolkata,Visa,True
+0D672508,3438.79,USER_0044,20,Ola,Ahmedabad,RuPay,False
+7D8ED396,3838.28,USER_0018,6,Amazon,Ahmedabad,Amex,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7D941729,4700.85,USER_0035,5,Amazon,Mumbai,Amex,False
+D98DA21C,4473.27,USER_0004,5,CryptoExchange_BuyBit,Kolkata,RuPay,True
+433E9D35,193.74,USER_0025,20,BigBasket,Hyderabad,RuPay,False
+B986940D,4040.78,USER_0015,20,CryptoExchange_BuyBit,Pune,RuPay,True
+39881B82,11653.57,USER_0017,1,Uber,Jaipur,Visa,False
+1E39A618,3125.0,USER_0035,21,MedPlus Pharmacy,Surat,Visa,False
+0ABFBA36,3943.19,USER_0018,21,Reliance Mart,Delhi,Mastercard,False
+336B6214,980.32,USER_0042,15,Uber,Delhi,Visa,False

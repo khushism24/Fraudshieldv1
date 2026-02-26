@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+17693CB7,4903.3,USER_0027,1,Swiggy,Jaipur,Mastercard,False
+59ED5C95,4176.21,USER_0023,17,BigBasket,Jaipur,RuPay,False
+0F580E2E,3636.45,USER_0004,22,Amazon,Bangalore,RuPay,False
+0AE78B63,1136.03,USER_0049,14,BookMyShow,Chennai,RuPay,False
+F4B59C5E,4399.54,USER_0031,6,Uber,Hyderabad,Amex,False
+48B93A31,11323.27,USER_0032,0,CryptoExchange_BuyBit,Pune,Mastercard,True
+088E7F01,16311.55,USER_0024,4,BigBasket,Jaipur,Amex,False
+161FCD56,23421.18,USER_0049,5,MedPlus Pharmacy,Mumbai,RuPay,False

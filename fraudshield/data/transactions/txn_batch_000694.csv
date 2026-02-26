@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2CB3F32F,3819.11,USER_0049,3,CryptoExchange_BuyBit,Chennai,Amex,True
+42F30F46,2804.81,USER_0013,17,BigBasket,Bangalore,Amex,False
+675E698F,143.72,USER_0027,13,Myntra,Surat,Mastercard,False
+CF305F3A,1089.53,USER_0002,9,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+5A85B0E7,3228.54,USER_0035,11,Uber,Delhi,Amex,False
+9245929F,2225.04,USER_0024,21,Reliance Mart,Mumbai,Visa,False
+2FC856F6,12862.88,USER_0046,4,Flipkart,Surat,Amex,False
+B8B5B2D5,3979.35,USER_0050,18,D-Mart,Bangalore,Mastercard,False

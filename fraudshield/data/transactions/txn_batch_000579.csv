@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+30D084CA,4312.13,USER_0029,0,Myntra,Bangalore,Mastercard,False
+97B60FDF,3083.73,USER_0018,18,Uber,Hyderabad,Amex,False
+864D314C,22892.43,USER_0021,3,Swiggy,Kolkata,Amex,False
+B774EBBE,1387.97,USER_0022,18,Ola,Surat,Mastercard,False
+B35EACF4,3894.64,USER_0032,11,CasinoRoyal,Ahmedabad,Visa,True

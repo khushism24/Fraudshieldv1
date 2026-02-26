@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E4F49353,1265.46,USER_0043,20,CryptoExchange_BuyBit,Delhi,Mastercard,True
+6670DBF3,2163.37,USER_0003,7,BookMyShow,Kolkata,Mastercard,False
+FCFFA62B,1775.92,USER_0042,10,Swiggy,Surat,Visa,False

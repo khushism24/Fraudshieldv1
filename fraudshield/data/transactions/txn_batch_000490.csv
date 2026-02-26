@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A33A1848,4471.1,USER_0037,22,CryptoExchange_BuyBit,Jaipur,RuPay,True
+33986B35,3700.54,USER_0049,7,Myntra,Hyderabad,RuPay,False
+AE0F9909,2594.73,USER_0025,0,D-Mart,Jaipur,Visa,False
+F2C8E97F,787.3,USER_0046,1,Zomato,Chennai,Visa,False
+1D01524A,4430.1,USER_0047,7,Swiggy,Chennai,Amex,False

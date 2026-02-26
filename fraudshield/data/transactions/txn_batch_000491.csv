@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+384B91A3,2914.97,USER_0004,21,CryptoExchange_BuyBit,Jaipur,Visa,True
+57220576,1301.35,USER_0039,7,Amazon,Delhi,Visa,False
+94E71244,1222.65,USER_0037,19,WireTransfer_Global,Pune,Amex,True

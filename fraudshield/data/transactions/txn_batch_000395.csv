@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6779BD94,15275.09,USER_0033,4,MedPlus Pharmacy,Delhi,Visa,False
+63A1F6C3,1814.32,USER_0009,20,Zomato,Hyderabad,Mastercard,False
+1D035DDE,1748.43,USER_0020,6,Flipkart,Chennai,Visa,False
+E4D4A13E,1213.2,USER_0015,8,IRCTC,Hyderabad,Amex,False
+2DB519F3,4556.93,USER_0008,2,Netflix,Mumbai,Mastercard,False
+630720AB,1209.07,USER_0045,23,BookMyShow,Chennai,Visa,False
+04E5B2E7,3159.51,USER_0026,17,BigBasket,Surat,Amex,False
+E051AA6B,2204.95,USER_0020,23,BigBasket,Hyderabad,Amex,False

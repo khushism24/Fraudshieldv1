@@ -1,9 +1,4 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-9B95D6AB,3143.55,USER_0015,22,Ola,Surat,Mastercard,False
-E06B927F,3182.88,USER_0015,1,IRCTC,Delhi,Mastercard,False
-56ABD4DD,1079.56,USER_0042,5,Flipkart,Kolkata,Mastercard,False
-A39BB400,2768.84,USER_0040,14,D-Mart,Jaipur,Amex,False
-3AA15710,663.59,USER_0034,7,BigBasket,Ahmedabad,Mastercard,False
-77BA08CF,1258.47,USER_0045,7,Amazon,Bangalore,RuPay,False
-40821FDA,4169.98,USER_0045,17,CasinoRoyal,Kolkata,RuPay,True
-1864D4F0,1756.47,USER_0016,21,Reliance Mart,Mumbai,Visa,False
+EA738651,7206.75,USER_0005,3,CasinoRoyal,Delhi,Mastercard,True
+41C4C592,390.87,USER_0022,22,D-Mart,Ahmedabad,Visa,False
+52397B42,3350.02,USER_0003,7,CasinoRoyal,Bangalore,Mastercard,True

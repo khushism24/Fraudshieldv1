@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+83235076,990.4,USER_0045,18,MedPlus Pharmacy,Delhi,Amex,False
+80FFFAB3,3006.28,USER_0048,6,CasinoRoyal,Kolkata,RuPay,True
+C8D856CE,19223.81,USER_0025,0,BigBasket,Mumbai,Amex,False
+EE8E5B00,4060.29,USER_0008,8,Amazon,Mumbai,Visa,False
+250E3FC4,56.74,USER_0021,12,WireTransfer_Global,Jaipur,RuPay,True
+EF707ECF,3422.12,USER_0022,21,Swiggy,Pune,Visa,False
+8EC7B884,3684.72,USER_0033,16,Swiggy,Kolkata,Mastercard,False
+9B251AC0,19280.97,USER_0049,3,BookMyShow,Kolkata,Visa,False

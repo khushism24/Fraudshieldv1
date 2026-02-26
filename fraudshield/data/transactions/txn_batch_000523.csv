@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+992CFBE2,3148.66,USER_0014,23,Swiggy,Chennai,RuPay,False
+8B8B44D2,4304.88,USER_0048,23,IRCTC,Delhi,Amex,False
+45FFE3FB,2232.98,USER_0010,11,IRCTC,Pune,Visa,False
+4743B56C,3545.86,USER_0011,7,IRCTC,Jaipur,RuPay,False
+1C28FD84,15014.89,USER_0002,3,Zomato,Pune,Amex,False
+70C737E8,335.96,USER_0045,13,BigBasket,Mumbai,Mastercard,False
+B0B3696F,3235.27,USER_0012,23,WireTransfer_Global,Chennai,RuPay,True
+A619FCC1,1337.14,USER_0013,11,Flipkart,Hyderabad,RuPay,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C2B2ED96,4470.61,USER_0002,20,Swiggy,Bangalore,Visa,False
+32A549B4,1333.53,USER_0031,16,Zomato,Bangalore,Visa,False
+CB110BB5,4193.86,USER_0015,14,IRCTC,Surat,Mastercard,False
+14A9793E,3099.95,USER_0017,20,Swiggy,Surat,Visa,False
+E30E2A14,2231.38,USER_0047,6,D-Mart,Jaipur,Visa,False
+1350A2B9,601.49,USER_0040,9,Reliance Mart,Pune,RuPay,False
+6D1F5D2C,8637.53,USER_0012,5,Reliance Mart,Hyderabad,RuPay,False

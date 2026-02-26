@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A84ADB71,1492.18,USER_0049,10,Myntra,Delhi,RuPay,False
+77D87916,16198.98,USER_0015,5,MedPlus Pharmacy,Chennai,Mastercard,False
+BE89F130,1333.3,USER_0038,20,CryptoExchange_BuyBit,Chennai,RuPay,True
+88DAF337,24430.33,USER_0033,3,BigBasket,Pune,Amex,False
+AFEAC439,300.52,USER_0021,8,MedPlus Pharmacy,Hyderabad,RuPay,False
+C3A80514,1693.42,USER_0021,22,Netflix,Chennai,Mastercard,False

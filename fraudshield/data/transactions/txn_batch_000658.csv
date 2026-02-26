@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0D31500F,2266.01,USER_0017,22,CasinoRoyal,Jaipur,RuPay,True
+B9D599D7,106.24,USER_0027,11,Zomato,Mumbai,Mastercard,False
+C242D900,1911.09,USER_0027,10,CryptoExchange_BuyBit,Surat,Amex,True

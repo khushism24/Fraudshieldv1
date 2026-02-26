@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C7BBC24B,162.82,USER_0028,13,IRCTC,Bangalore,Amex,False
+C1EF2ABE,689.21,USER_0026,20,MedPlus Pharmacy,Delhi,Amex,False
+F4512496,3323.15,USER_0009,9,Reliance Mart,Jaipur,RuPay,False
+4E24DCC2,2829.08,USER_0020,12,Zomato,Pune,Amex,False

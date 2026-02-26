@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D8FEEAAA,5488.59,USER_0035,4,Myntra,Delhi,Mastercard,False
+A5B861FE,3990.27,USER_0032,17,Zomato,Delhi,Visa,False
+6EB67F09,15261.45,USER_0033,2,Ola,Surat,RuPay,False
+DFEF97CB,1239.57,USER_0018,20,Amazon,Mumbai,Amex,False

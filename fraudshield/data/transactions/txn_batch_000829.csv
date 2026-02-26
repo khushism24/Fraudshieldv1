@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B1901680,4429.64,USER_0039,22,Myntra,Delhi,Visa,False
+D686499D,2577.85,USER_0049,4,Myntra,Chennai,Amex,False
+0CE23CF1,536.52,USER_0014,20,Flipkart,Kolkata,RuPay,False

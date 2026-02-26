@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+310FD0A8,4156.26,USER_0018,13,MedPlus Pharmacy,Kolkata,RuPay,False
+D17D7726,3498.32,USER_0040,4,Ola,Chennai,Amex,False
+8467DA7A,3923.45,USER_0048,21,BookMyShow,Hyderabad,Amex,False
+D72D09F0,1095.4,USER_0020,16,Ola,Chennai,Amex,False
+CA7BF815,4819.66,USER_0025,2,Ola,Bangalore,RuPay,False
+D0DB6252,2526.34,USER_0004,23,D-Mart,Jaipur,Visa,False
+514ADFC9,3195.17,USER_0045,10,MedPlus Pharmacy,Ahmedabad,RuPay,False

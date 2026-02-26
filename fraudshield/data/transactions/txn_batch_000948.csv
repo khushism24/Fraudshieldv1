@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0724AA89,19741.12,USER_0045,4,D-Mart,Ahmedabad,Amex,False
+A995D8EB,2386.59,USER_0045,17,MedPlus Pharmacy,Mumbai,RuPay,False
+8638EEB2,2483.88,USER_0039,6,Uber,Hyderabad,Mastercard,False
+D7B3EDA0,2014.45,USER_0030,5,Netflix,Chennai,RuPay,False
+707B7701,6971.47,USER_0019,1,Flipkart,Delhi,Amex,False
+EC7F3372,3707.84,USER_0009,7,Swiggy,Hyderabad,Amex,False

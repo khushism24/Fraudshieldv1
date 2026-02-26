@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D3A9E221,517.9,USER_0026,2,D-Mart,Kolkata,Amex,False
+92EC3BAB,22627.75,USER_0025,5,D-Mart,Surat,Amex,False
+9B0902F1,3503.71,USER_0025,6,Myntra,Kolkata,Amex,False
+BC438ED5,2942.81,USER_0011,16,Swiggy,Bangalore,RuPay,False
+3F83F6E7,1242.67,USER_0024,18,WireTransfer_Global,Chennai,Mastercard,True

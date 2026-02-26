@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+33820025,540.72,USER_0041,0,Uber,Hyderabad,Amex,False
+DC0B0048,3098.18,USER_0004,19,Ola,Bangalore,Mastercard,False
+985D7A0B,3445.21,USER_0024,13,WireTransfer_Global,Surat,Visa,True
+64E74CCD,8893.55,USER_0025,2,BookMyShow,Surat,Visa,False
+E5C99F2C,2429.03,USER_0004,8,Ola,Chennai,Visa,False
+F35A3EC6,20809.97,USER_0014,0,Reliance Mart,Jaipur,RuPay,False
+B65EE945,2289.09,USER_0029,5,Reliance Mart,Chennai,Visa,False
+9459F5FC,1930.5,USER_0034,10,Ola,Delhi,Mastercard,False

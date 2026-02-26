@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B9255700,3870.37,USER_0034,7,Ola,Ahmedabad,Amex,False
+CD951909,3515.91,USER_0028,23,Myntra,Bangalore,Amex,False
+B6825C34,3813.85,USER_0015,6,Reliance Mart,Pune,Mastercard,False
+12CCDEAD,3048.23,USER_0043,22,BigBasket,Bangalore,RuPay,False

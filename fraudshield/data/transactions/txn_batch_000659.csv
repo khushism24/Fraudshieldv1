@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+938683B6,2390.23,USER_0041,22,Ola,Pune,Mastercard,False
+8242397E,1212.39,USER_0009,16,BookMyShow,Hyderabad,Amex,False
+78DE1893,2042.87,USER_0006,22,D-Mart,Jaipur,RuPay,False
+D9B268BF,16404.65,USER_0012,3,Uber,Mumbai,Visa,False

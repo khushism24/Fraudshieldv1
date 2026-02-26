@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+060122E8,1795.94,USER_0012,16,Ola,Pune,Visa,False
+78D7A255,659.91,USER_0019,11,D-Mart,Mumbai,Visa,False
+655F5CDA,2445.48,USER_0014,10,Myntra,Hyderabad,Mastercard,False
+79BECF8A,1230.04,USER_0005,7,Flipkart,Kolkata,Amex,False
+697D494B,1283.36,USER_0046,9,D-Mart,Jaipur,Visa,False

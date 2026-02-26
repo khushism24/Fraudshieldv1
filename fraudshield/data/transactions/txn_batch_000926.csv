@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1F618643,2970.62,USER_0017,14,Zomato,Chennai,Mastercard,False
+ECF0A855,1551.39,USER_0028,8,WireTransfer_Global,Jaipur,Amex,True
+E6B4AF87,4912.67,USER_0033,4,Zomato,Mumbai,Amex,False
+BC0E42CE,321.1,USER_0010,20,Uber,Bangalore,Visa,False
+6797991F,1713.05,USER_0039,12,Swiggy,Surat,RuPay,False

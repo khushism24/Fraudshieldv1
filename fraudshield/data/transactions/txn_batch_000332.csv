@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+21E15863,3483.39,USER_0025,14,Zomato,Bangalore,Mastercard,False
+2AF7914C,5573.71,USER_0014,3,MedPlus Pharmacy,Kolkata,Mastercard,False
+D183FCA5,24651.92,USER_0046,0,CryptoExchange_BuyBit,Delhi,Mastercard,True
+0C2731A7,3869.75,USER_0017,8,Swiggy,Jaipur,RuPay,False
+44426217,4297.79,USER_0005,22,D-Mart,Surat,Mastercard,False

@@ -1,8 +1,6 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-DDCDF0A6,1657.35,USER_0033,22,WireTransfer_Global,Ahmedabad,Mastercard,True
-49BDF18A,6946.87,USER_0029,4,CasinoRoyal,Ahmedabad,Amex,True
-3943977A,2607.09,USER_0007,20,D-Mart,Ahmedabad,Visa,False
-7ED3D5F4,3861.23,USER_0012,0,Netflix,Mumbai,Visa,False
-36D02C97,4135.32,USER_0002,3,Myntra,Chennai,RuPay,False
-D6828B72,17912.24,USER_0004,5,Uber,Chennai,Mastercard,False
-E627F06D,2778.97,USER_0038,23,Zomato,Pune,RuPay,False
+62623ACF,2273.77,USER_0011,12,MedPlus Pharmacy,Mumbai,RuPay,False
+5566B796,4316.45,USER_0042,8,Amazon,Ahmedabad,Amex,False
+4341BFC0,3390.91,USER_0049,1,Reliance Mart,Ahmedabad,Amex,False
+83BAB123,904.0,USER_0040,0,WireTransfer_Global,Pune,RuPay,True
+2EEBB996,643.99,USER_0024,6,BigBasket,Jaipur,RuPay,False

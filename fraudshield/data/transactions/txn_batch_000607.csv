@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BA2E7EBB,4475.06,USER_0043,18,Uber,Mumbai,Amex,False
+467499D1,1660.35,USER_0028,23,CasinoRoyal,Chennai,Amex,True
+8C4C7A5D,11929.81,USER_0046,1,CryptoExchange_BuyBit,Delhi,Amex,True
+B1AD19A3,2624.26,USER_0013,17,WireTransfer_Global,Mumbai,Amex,True
+D2E8AD8A,3591.98,USER_0029,9,Swiggy,Chennai,Mastercard,False
+DDF9ED9A,2699.73,USER_0026,22,IRCTC,Bangalore,Mastercard,False
+890F9362,857.15,USER_0016,22,MedPlus Pharmacy,Delhi,Amex,False

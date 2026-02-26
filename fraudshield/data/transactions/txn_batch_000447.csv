@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+55B68EA0,3747.88,USER_0029,15,CryptoExchange_BuyBit,Pune,Visa,True
+B9947255,1943.17,USER_0029,18,IRCTC,Chennai,Mastercard,False
+5407616D,4468.11,USER_0020,18,MedPlus Pharmacy,Surat,Mastercard,False
+BC058D2F,583.83,USER_0032,15,CryptoExchange_BuyBit,Bangalore,Visa,True
+7F29EC65,12515.91,USER_0029,1,D-Mart,Chennai,Visa,False
+5ACD2907,1569.73,USER_0014,17,D-Mart,Mumbai,Visa,False
+0FA7D7FE,1343.43,USER_0010,16,BigBasket,Surat,RuPay,False

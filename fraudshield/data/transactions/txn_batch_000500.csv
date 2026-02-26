@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3EB9CA4D,1021.2,USER_0037,12,Reliance Mart,Hyderabad,RuPay,False
+BCFB46DB,12630.25,USER_0014,0,CryptoExchange_BuyBit,Delhi,Visa,True
+7B0D1A7E,4234.75,USER_0015,14,BookMyShow,Pune,Amex,False
+5E69DEE8,1727.39,USER_0014,8,BookMyShow,Mumbai,Amex,False
+15C0F734,3818.16,USER_0023,20,Uber,Ahmedabad,RuPay,False

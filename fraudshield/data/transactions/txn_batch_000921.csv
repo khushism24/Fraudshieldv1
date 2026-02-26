@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+023763A5,3362.18,USER_0048,2,Uber,Chennai,Visa,False
+930DC048,1952.45,USER_0009,8,Uber,Jaipur,Amex,False
+3E1020F8,2950.25,USER_0032,19,WireTransfer_Global,Delhi,Mastercard,True
+E2028595,1835.61,USER_0008,8,BookMyShow,Ahmedabad,Visa,False
+AF5B3893,1864.24,USER_0050,4,Swiggy,Hyderabad,Amex,False
+8E9EE1E2,3288.31,USER_0008,10,WireTransfer_Global,Hyderabad,Mastercard,True
+81A195B4,6066.77,USER_0043,2,Myntra,Mumbai,Mastercard,False

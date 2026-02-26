@@ -1,8 +1,6 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-62C0FDE1,3029.6,USER_0009,1,MedPlus Pharmacy,Surat,Visa,False
-F545674F,20125.18,USER_0018,1,CryptoExchange_BuyBit,Ahmedabad,Amex,True
-3A8BEA79,3124.99,USER_0046,11,Myntra,Surat,Visa,False
-47305D70,11562.85,USER_0010,5,MedPlus Pharmacy,Mumbai,RuPay,False
-AF37F7E4,14531.82,USER_0026,3,WireTransfer_Global,Chennai,Visa,True
-47ADD4F8,8845.89,USER_0027,5,Amazon,Mumbai,Amex,False
-8D58BA9E,14504.71,USER_0026,4,Ola,Bangalore,RuPay,False
+77D392F9,2407.89,USER_0004,5,MedPlus Pharmacy,Chennai,Amex,False
+D6F4A80A,1299.7,USER_0019,10,Zomato,Bangalore,Visa,False
+6BE7ED86,720.56,USER_0006,21,Reliance Mart,Kolkata,Visa,False
+B023B35E,4307.97,USER_0039,17,Uber,Pune,Mastercard,False
+F81260B0,856.87,USER_0028,8,BigBasket,Surat,Visa,False

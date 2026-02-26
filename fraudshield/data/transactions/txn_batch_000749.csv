@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0A3F06BC,509.76,USER_0046,9,D-Mart,Surat,RuPay,False
+844E7FA2,2997.23,USER_0048,21,Reliance Mart,Kolkata,RuPay,False
+A214AED7,3384.12,USER_0036,6,Swiggy,Mumbai,RuPay,False
+571A2CDC,3308.9,USER_0011,18,Netflix,Ahmedabad,Visa,False
+18B48816,598.88,USER_0009,20,WireTransfer_Global,Chennai,Mastercard,True
+115A262C,3686.47,USER_0016,19,Swiggy,Bangalore,Visa,False
+3626B092,1079.52,USER_0008,8,CryptoExchange_BuyBit,Kolkata,Amex,True
+662EF1FC,12747.42,USER_0032,2,Netflix,Pune,Mastercard,False

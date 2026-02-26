@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FEA1FF8B,681.21,USER_0029,7,Flipkart,Surat,Visa,False
+698D4D34,3000.32,USER_0044,12,Amazon,Kolkata,RuPay,False
+74FDD48D,13880.12,USER_0042,5,Amazon,Bangalore,RuPay,False
+CD7683B7,2181.15,USER_0036,1,Reliance Mart,Mumbai,Visa,False
+14F0BE32,2424.3,USER_0032,16,BigBasket,Kolkata,Visa,False
+98DA3E59,775.58,USER_0003,12,Reliance Mart,Surat,RuPay,False
+434FDE60,3758.28,USER_0010,2,CasinoRoyal,Delhi,RuPay,True

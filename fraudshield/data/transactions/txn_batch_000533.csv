@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5D408B32,626.29,USER_0032,8,Netflix,Mumbai,Visa,False
+B73E2C5E,2234.57,USER_0028,11,Swiggy,Mumbai,Mastercard,False
+372072E3,3743.26,USER_0007,11,Ola,Delhi,Amex,False
+755FCE9C,218.48,USER_0050,21,D-Mart,Kolkata,RuPay,False
+DC00AFB3,855.5,USER_0003,7,Netflix,Mumbai,RuPay,False

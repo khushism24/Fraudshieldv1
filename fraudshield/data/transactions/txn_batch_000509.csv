@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C56BDCE4,170.03,USER_0008,6,Amazon,Ahmedabad,Amex,False
+9CF3C228,2959.19,USER_0047,8,Reliance Mart,Hyderabad,RuPay,False
+5758047A,3451.73,USER_0048,18,D-Mart,Mumbai,RuPay,False

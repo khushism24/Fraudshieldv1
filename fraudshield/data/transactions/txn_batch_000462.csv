@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ADFAB5F6,2634.74,USER_0048,21,Amazon,Hyderabad,Mastercard,False
+F071002C,2700.54,USER_0019,9,Myntra,Kolkata,Amex,False
+536C2F13,2834.27,USER_0006,10,Flipkart,Kolkata,Visa,False
+E2894361,1194.11,USER_0045,11,Uber,Ahmedabad,Visa,False
+61B9693D,960.45,USER_0033,12,BookMyShow,Surat,Mastercard,False
+7006C992,16003.96,USER_0029,4,Myntra,Surat,Amex,False
+2ED7A359,14442.58,USER_0040,5,Ola,Surat,RuPay,False
+81C1B43E,264.54,USER_0007,17,Uber,Ahmedabad,Amex,False

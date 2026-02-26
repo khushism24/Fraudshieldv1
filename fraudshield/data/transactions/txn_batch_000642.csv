@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0F4671CE,1815.52,USER_0014,18,Ola,Pune,Visa,False
+52A0A3A6,524.47,USER_0035,7,BookMyShow,Ahmedabad,Mastercard,False
+C9B989EB,4348.15,USER_0005,23,Reliance Mart,Hyderabad,Mastercard,False
+18A1E0FF,3387.12,USER_0013,19,Amazon,Jaipur,Visa,False

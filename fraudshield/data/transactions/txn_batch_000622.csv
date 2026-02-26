@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2EFD80A0,2954.14,USER_0012,12,D-Mart,Pune,Visa,False
+AB2A3373,5694.81,USER_0036,1,Ola,Delhi,RuPay,False
+71982F4B,772.72,USER_0031,5,IRCTC,Surat,Amex,False

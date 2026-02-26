@@ -1,7 +1,9 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-2B3C0052,1223.9,USER_0022,17,Amazon,Mumbai,Amex,False
-22A8D156,15669.87,USER_0040,1,WireTransfer_Global,Kolkata,Amex,True
-D5A94305,2815.1,USER_0042,19,BigBasket,Hyderabad,Amex,False
-B345EEDB,2006.56,USER_0018,21,CasinoRoyal,Mumbai,RuPay,True
-E755BF3C,2999.52,USER_0027,0,CryptoExchange_BuyBit,Mumbai,Mastercard,True
-50BF7365,4479.14,USER_0026,21,Amazon,Ahmedabad,Visa,False
+A5DD842D,3846.24,USER_0014,18,IRCTC,Pune,RuPay,False
+E05315D5,357.35,USER_0014,23,Uber,Kolkata,Mastercard,False
+F370DA49,4478.65,USER_0035,22,D-Mart,Kolkata,Mastercard,False
+A56C2508,1785.44,USER_0028,23,Amazon,Delhi,RuPay,False
+FEEFEFDB,3084.4,USER_0048,14,CasinoRoyal,Chennai,Amex,True
+6513204A,2011.99,USER_0004,8,BookMyShow,Ahmedabad,RuPay,False
+EB6A7D49,4980.84,USER_0032,3,BookMyShow,Chennai,Mastercard,False
+2B8F3371,927.77,USER_0005,3,CryptoExchange_BuyBit,Kolkata,Visa,True

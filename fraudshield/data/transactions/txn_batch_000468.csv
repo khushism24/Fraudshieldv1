@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8193D3E8,3191.55,USER_0009,8,Zomato,Mumbai,Visa,False
+9257D7A8,1878.24,USER_0017,9,Uber,Delhi,Visa,False
+6CD17C95,4593.15,USER_0016,2,Netflix,Bangalore,Amex,False
+239F967E,1921.38,USER_0010,4,BookMyShow,Ahmedabad,Visa,False
+60E854A3,3453.33,USER_0017,22,Ola,Mumbai,Visa,False
+9C1E6A1C,380.83,USER_0046,18,CasinoRoyal,Chennai,Visa,True

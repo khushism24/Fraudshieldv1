@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FFB9E5BB,3346.84,USER_0016,16,D-Mart,Bangalore,Amex,False
+205280C7,2569.31,USER_0003,23,Flipkart,Kolkata,Mastercard,False
+9FA1FCA2,596.23,USER_0008,17,CasinoRoyal,Surat,Amex,True
+2C873BA6,4055.17,USER_0023,17,IRCTC,Chennai,Mastercard,False
+82C7E085,2388.4,USER_0009,10,Swiggy,Pune,Visa,False
+51C2D70E,4497.66,USER_0020,6,Uber,Mumbai,Mastercard,False

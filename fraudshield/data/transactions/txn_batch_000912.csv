@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AD69FECD,981.56,USER_0004,7,Uber,Jaipur,Amex,False
+6DF19E44,2991.38,USER_0027,14,BigBasket,Delhi,Amex,False
+62B4A7AA,1787.03,USER_0005,2,D-Mart,Kolkata,RuPay,False
+AC851E3F,1155.29,USER_0025,17,Swiggy,Hyderabad,Visa,False
+109F6337,2112.31,USER_0035,5,Reliance Mart,Kolkata,Mastercard,False
+932F51CB,3403.24,USER_0047,5,WireTransfer_Global,Mumbai,Mastercard,True
+DE1B35CD,8622.32,USER_0017,4,Uber,Surat,RuPay,False
+B6D19AD6,3465.0,USER_0050,9,Swiggy,Mumbai,Amex,False

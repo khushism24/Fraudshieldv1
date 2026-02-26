@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+940E1B22,4501.41,USER_0024,4,Flipkart,Jaipur,Mastercard,False
+D75A4C0C,1944.24,USER_0042,7,Netflix,Pune,Mastercard,False
+E7CB64DE,22794.6,USER_0023,0,Uber,Jaipur,Visa,False
+9B596AA9,692.97,USER_0029,9,Swiggy,Pune,Visa,False

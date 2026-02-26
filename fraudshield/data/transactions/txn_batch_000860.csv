@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+64B941E9,1589.5,USER_0028,6,Uber,Jaipur,Amex,False
+7B62871C,7468.27,USER_0037,1,Zomato,Chennai,RuPay,False
+4A6EF54E,3154.56,USER_0009,16,CryptoExchange_BuyBit,Jaipur,Amex,True
+DBFDD128,913.65,USER_0021,6,Ola,Hyderabad,Amex,False
+11D6A0AC,10328.26,USER_0008,2,D-Mart,Chennai,RuPay,False
+61B6FE34,2428.61,USER_0042,7,MedPlus Pharmacy,Kolkata,Amex,False
+2B257442,12497.99,USER_0019,4,BookMyShow,Pune,Visa,False
+2DC7AB02,1115.14,USER_0026,16,Flipkart,Hyderabad,Mastercard,False

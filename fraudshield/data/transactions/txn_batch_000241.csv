@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+89F4B2F6,3529.43,USER_0037,7,D-Mart,Surat,Amex,False
+E9319582,686.2,USER_0028,2,Myntra,Pune,Visa,False
+A5F66414,1850.46,USER_0020,12,Zomato,Hyderabad,Visa,False
+CD54139A,1540.33,USER_0016,19,Ola,Hyderabad,Amex,False

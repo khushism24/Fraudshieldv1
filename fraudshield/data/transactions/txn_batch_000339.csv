@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4CD8904E,857.04,USER_0025,22,Uber,Surat,Amex,False
+9D8B578D,2520.71,USER_0016,1,CryptoExchange_BuyBit,Delhi,Mastercard,True
+D7702DDE,2585.21,USER_0043,19,CryptoExchange_BuyBit,Chennai,Visa,True
+64E8A5F7,1052.13,USER_0038,11,Myntra,Bangalore,Mastercard,False
+147BB671,1254.0,USER_0013,11,Myntra,Jaipur,RuPay,False

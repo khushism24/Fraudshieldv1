@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AFEA14FE,4202.34,USER_0010,17,BigBasket,Chennai,Mastercard,False
+DB3CD81F,3961.12,USER_0012,23,Ola,Chennai,Mastercard,False
+915EA04E,1983.88,USER_0035,19,Flipkart,Hyderabad,Mastercard,False
+200CDCD3,3283.41,USER_0012,12,Reliance Mart,Mumbai,RuPay,False

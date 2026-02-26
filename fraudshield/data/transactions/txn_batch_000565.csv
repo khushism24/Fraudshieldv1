@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7F25CECC,467.44,USER_0022,15,IRCTC,Jaipur,Amex,False
+C5501A78,763.63,USER_0035,16,Uber,Ahmedabad,Mastercard,False
+9D3A599E,1881.72,USER_0024,8,Reliance Mart,Jaipur,Visa,False
+EEA5090F,1747.26,USER_0024,5,D-Mart,Bangalore,Visa,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+75D55B3A,2106.18,USER_0026,23,IRCTC,Hyderabad,Mastercard,False
+8ED76C4A,1743.41,USER_0046,18,CryptoExchange_BuyBit,Delhi,Amex,True
+BEA03908,4056.08,USER_0040,17,BigBasket,Hyderabad,Visa,False
+49087B9A,3629.94,USER_0047,23,Reliance Mart,Surat,Amex,False
+E5C4D205,716.61,USER_0026,13,Netflix,Bangalore,Mastercard,False
+80036782,3287.23,USER_0044,20,Ola,Surat,Mastercard,False
+1AD08880,3481.36,USER_0030,17,Swiggy,Surat,Mastercard,False

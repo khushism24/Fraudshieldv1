@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5E4156F8,2981.72,USER_0047,22,Amazon,Kolkata,Visa,False
+C87B15B1,2678.0,USER_0003,0,Amazon,Surat,Mastercard,False
+C3C9D5EA,3137.12,USER_0039,18,Swiggy,Jaipur,Mastercard,False
+3FBADE3C,15698.13,USER_0048,3,CasinoRoyal,Kolkata,Mastercard,True
+F50977E9,14206.87,USER_0033,1,Zomato,Bangalore,Visa,False

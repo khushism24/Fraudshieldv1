@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6F9A1A76,3038.42,USER_0017,16,Reliance Mart,Pune,Visa,False
+5039FAD6,2688.52,USER_0028,9,Flipkart,Pune,RuPay,False
+EA682003,1372.1,USER_0036,11,Zomato,Delhi,Amex,False
+184DDCEA,23308.0,USER_0011,1,Zomato,Jaipur,Mastercard,False
+34248D01,2589.75,USER_0004,3,WireTransfer_Global,Hyderabad,Mastercard,True
+00E80B8F,4228.78,USER_0032,18,Flipkart,Ahmedabad,RuPay,False
+58ADF37F,4319.81,USER_0017,6,WireTransfer_Global,Mumbai,Amex,True

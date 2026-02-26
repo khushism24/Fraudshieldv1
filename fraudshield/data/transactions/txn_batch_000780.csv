@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+06ACF94B,11233.98,USER_0018,3,Flipkart,Chennai,RuPay,False
+E481B87D,3151.63,USER_0022,22,Ola,Delhi,Mastercard,False
+162163F6,8429.71,USER_0008,1,WireTransfer_Global,Jaipur,Mastercard,True
+64B752F8,9622.23,USER_0041,4,Zomato,Pune,Mastercard,False
+D07174ED,3339.23,USER_0041,22,Flipkart,Jaipur,Amex,False

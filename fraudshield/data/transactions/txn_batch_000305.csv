@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7BA9022F,291.62,USER_0047,14,CryptoExchange_BuyBit,Kolkata,Mastercard,True
+C5FC448E,1591.21,USER_0014,14,BigBasket,Surat,Visa,False
+1A1B7328,668.15,USER_0008,15,Netflix,Kolkata,Visa,False
+32105251,1465.23,USER_0038,14,BookMyShow,Jaipur,Amex,False
+74C68234,916.54,USER_0032,22,Amazon,Ahmedabad,Mastercard,False
+A1384CC5,691.19,USER_0039,22,BigBasket,Chennai,Amex,False

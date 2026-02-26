@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A7320B35,1326.18,USER_0006,23,WireTransfer_Global,Kolkata,Mastercard,True
+2241452B,17758.96,USER_0017,0,Reliance Mart,Kolkata,Mastercard,False
+D160E259,3738.4,USER_0036,16,Myntra,Kolkata,Mastercard,False
+3785922D,3170.31,USER_0037,22,D-Mart,Bangalore,Mastercard,False

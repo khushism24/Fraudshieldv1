@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FEEC1281,1635.89,USER_0003,18,BigBasket,Mumbai,Amex,False
+51A4EE99,755.41,USER_0008,15,Swiggy,Chennai,Mastercard,False
+37D3D1A6,3179.53,USER_0044,8,IRCTC,Chennai,Amex,False
+A6BE7D6B,3862.2,USER_0019,5,MedPlus Pharmacy,Delhi,RuPay,False
+D75BF93F,3597.46,USER_0024,11,Ola,Delhi,Amex,False

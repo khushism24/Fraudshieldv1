@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F9630195,4449.02,USER_0001,21,MedPlus Pharmacy,Mumbai,Amex,False
+6976B63F,15424.07,USER_0036,0,Uber,Pune,Mastercard,False
+00060892,172.66,USER_0011,6,MedPlus Pharmacy,Mumbai,RuPay,False
+30F1079F,2057.03,USER_0036,20,CryptoExchange_BuyBit,Mumbai,Mastercard,True
+25772C55,2157.39,USER_0017,19,MedPlus Pharmacy,Hyderabad,Mastercard,False
+E2E5AE6E,2405.01,USER_0047,7,Swiggy,Delhi,Visa,False

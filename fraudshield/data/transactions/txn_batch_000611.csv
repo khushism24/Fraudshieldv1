@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A9494830,174.11,USER_0025,17,Netflix,Surat,Mastercard,False
+733F64FE,3755.59,USER_0006,9,Amazon,Surat,Mastercard,False
+03C12B42,10224.69,USER_0031,5,BigBasket,Hyderabad,Amex,False
+4A527FDD,1311.29,USER_0029,6,IRCTC,Mumbai,RuPay,False

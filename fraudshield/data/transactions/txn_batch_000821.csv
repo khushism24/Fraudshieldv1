@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+25B268D8,1701.5,USER_0039,7,Reliance Mart,Jaipur,Amex,False
+CF03FDA9,241.79,USER_0033,6,Myntra,Chennai,Mastercard,False
+5EC33389,2584.44,USER_0018,23,Netflix,Surat,Amex,False
+2094C767,18643.26,USER_0015,3,MedPlus Pharmacy,Bangalore,RuPay,False
+F635FF6D,23773.24,USER_0008,3,Ola,Pune,Mastercard,False
+12C9D96A,1617.83,USER_0023,7,IRCTC,Chennai,RuPay,False
+F89B672C,8721.23,USER_0010,5,Myntra,Bangalore,Amex,False
+361A679C,8436.83,USER_0003,0,MedPlus Pharmacy,Pune,RuPay,False

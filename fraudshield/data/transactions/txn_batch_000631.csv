@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9DCB6F43,445.65,USER_0035,10,WireTransfer_Global,Kolkata,Visa,True
+E569704C,2166.1,USER_0033,21,WireTransfer_Global,Surat,RuPay,True
+41D84E46,2900.43,USER_0013,0,CryptoExchange_BuyBit,Bangalore,Visa,True
+7E12892C,2550.98,USER_0050,4,Swiggy,Surat,Amex,False
+E8731E1F,14668.71,USER_0028,1,MedPlus Pharmacy,Surat,RuPay,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A2D2338F,1110.83,USER_0013,10,Myntra,Delhi,RuPay,False
+F353F02B,3330.98,USER_0044,22,MedPlus Pharmacy,Pune,RuPay,False
+467368A1,2756.94,USER_0010,13,Amazon,Bangalore,Visa,False
+2179BD65,275.48,USER_0007,17,Reliance Mart,Surat,Amex,False
+592C4B54,3900.21,USER_0043,9,Reliance Mart,Jaipur,Mastercard,False

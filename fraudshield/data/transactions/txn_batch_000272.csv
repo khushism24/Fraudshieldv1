@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D92EFEC8,3316.68,USER_0040,14,Swiggy,Chennai,Mastercard,False
+10719F70,2094.1,USER_0013,14,D-Mart,Chennai,Amex,False
+CF738761,248.92,USER_0048,9,D-Mart,Kolkata,Mastercard,False

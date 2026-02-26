@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2C0B8959,3750.53,USER_0034,22,IRCTC,Pune,Visa,False
+557A2FFB,3027.23,USER_0017,0,BookMyShow,Mumbai,Visa,False
+659206D4,2754.53,USER_0025,20,D-Mart,Delhi,Visa,False

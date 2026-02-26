@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0E0F1482,3553.0,USER_0042,19,Flipkart,Jaipur,Visa,False
+CF6FA2EA,20052.26,USER_0048,4,BookMyShow,Ahmedabad,Visa,False
+9EF2A039,8274.57,USER_0047,1,CryptoExchange_BuyBit,Bangalore,Amex,True
+36758262,1501.14,USER_0018,15,IRCTC,Kolkata,Visa,False

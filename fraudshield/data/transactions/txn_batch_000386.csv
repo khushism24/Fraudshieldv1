@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+03E0DBC8,777.31,USER_0031,19,Flipkart,Kolkata,Mastercard,False
+240F4949,14591.41,USER_0002,4,Myntra,Pune,Amex,False
+FA1946CA,4429.05,USER_0004,16,Swiggy,Mumbai,RuPay,False
+8370BB85,4315.48,USER_0013,8,Ola,Delhi,Mastercard,False
+31E23621,195.8,USER_0035,19,Netflix,Kolkata,Visa,False

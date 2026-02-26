@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F7B7DB60,1325.92,USER_0044,6,Zomato,Chennai,Mastercard,False
+CB356671,8993.59,USER_0027,0,Myntra,Kolkata,Mastercard,False
+AACC5A8A,1410.87,USER_0024,20,Ola,Mumbai,RuPay,False
+92ADD719,4799.25,USER_0015,5,Swiggy,Mumbai,Amex,False
+95B59509,790.19,USER_0017,9,Myntra,Kolkata,Mastercard,False
+AF8AAB8E,12989.67,USER_0004,1,BigBasket,Chennai,Visa,False
+B9DC5CDF,3583.69,USER_0036,15,Zomato,Jaipur,Visa,False
+767174D4,3604.69,USER_0044,16,BookMyShow,Pune,Amex,False

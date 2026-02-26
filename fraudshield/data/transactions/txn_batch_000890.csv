@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1C6B4C61,23225.9,USER_0025,2,Zomato,Ahmedabad,Visa,False
+9A77C6CC,1670.39,USER_0009,22,Amazon,Hyderabad,Amex,False
+E65C18F2,2518.64,USER_0015,2,Uber,Chennai,Amex,False

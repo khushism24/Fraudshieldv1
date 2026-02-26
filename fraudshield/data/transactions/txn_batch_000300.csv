@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+374A977D,2578.34,USER_0026,7,Netflix,Kolkata,RuPay,False
+F4A1049C,2694.29,USER_0039,16,Flipkart,Hyderabad,Visa,False
+A94A4C66,2115.3,USER_0027,1,MedPlus Pharmacy,Pune,Amex,False
+A926A104,7642.36,USER_0041,0,Uber,Surat,Visa,False

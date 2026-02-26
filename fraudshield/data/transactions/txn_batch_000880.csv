@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6DDA4CF3,10406.34,USER_0037,0,D-Mart,Jaipur,Mastercard,False
+7AD8E1FC,2068.84,USER_0017,2,Myntra,Surat,Mastercard,False
+F15C4D73,4371.6,USER_0027,22,Ola,Mumbai,Mastercard,False
+EA110450,16308.47,USER_0023,3,BookMyShow,Kolkata,Amex,False
+1426AB65,827.21,USER_0045,7,D-Mart,Mumbai,Amex,False
+88AEF5F1,1675.35,USER_0014,7,Uber,Pune,Amex,False

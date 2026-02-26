@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EF14C7E4,2079.75,USER_0013,21,Uber,Kolkata,RuPay,False
+1B2EA1F3,3162.61,USER_0038,14,MedPlus Pharmacy,Delhi,RuPay,False
+D6D53BE5,1378.77,USER_0012,2,MedPlus Pharmacy,Pune,Amex,False
+F0D6C369,16937.57,USER_0012,5,BookMyShow,Surat,RuPay,False
+933E8D28,773.48,USER_0007,6,Myntra,Kolkata,RuPay,False

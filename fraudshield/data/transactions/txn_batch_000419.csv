@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FCD576E7,4494.51,USER_0038,5,Amazon,Mumbai,Visa,False
+3724B140,24548.98,USER_0044,0,Netflix,Chennai,Amex,False
+9DD2B71D,23434.51,USER_0013,5,BigBasket,Ahmedabad,Mastercard,False
+C6A8B38C,1744.34,USER_0026,13,Flipkart,Hyderabad,Amex,False
+3E88FF21,2735.73,USER_0014,22,Swiggy,Hyderabad,RuPay,False
+69440943,2545.03,USER_0039,22,Ola,Ahmedabad,Amex,False
+E4A699D4,4428.92,USER_0041,11,Uber,Surat,Mastercard,False

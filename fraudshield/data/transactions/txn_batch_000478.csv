@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+42BCD629,3000.6,USER_0008,8,Myntra,Surat,Visa,False
+311EB273,2609.16,USER_0030,20,Reliance Mart,Ahmedabad,RuPay,False
+C498105C,614.13,USER_0008,17,Myntra,Jaipur,Amex,False
+028C2F30,4330.24,USER_0022,11,Swiggy,Mumbai,Amex,False
+C0041861,4383.56,USER_0027,15,CasinoRoyal,Delhi,Amex,True
+4BCC3A48,2199.73,USER_0013,23,Amazon,Jaipur,Mastercard,False
+1C266A13,2580.69,USER_0010,20,Zomato,Kolkata,Amex,False
+6454033F,3023.56,USER_0032,23,Myntra,Hyderabad,RuPay,False

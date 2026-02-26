@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4FA07DFE,8802.52,USER_0001,0,Reliance Mart,Surat,Amex,False
+02013DEC,4558.72,USER_0025,1,BigBasket,Jaipur,RuPay,False
+033B4F0A,15901.02,USER_0007,2,Netflix,Bangalore,Amex,False
+535B9901,1013.99,USER_0013,11,CasinoRoyal,Pune,Amex,True

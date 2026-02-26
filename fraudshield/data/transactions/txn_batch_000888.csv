@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FD96D4FA,1180.45,USER_0019,23,Reliance Mart,Ahmedabad,Amex,False
+30E2939C,3158.58,USER_0013,23,Flipkart,Mumbai,Visa,False
+BD6E2FF2,2822.02,USER_0028,0,Netflix,Mumbai,RuPay,False

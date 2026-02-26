@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+24A76EBB,3057.03,USER_0011,23,WireTransfer_Global,Jaipur,Amex,True
+8BD44608,15081.1,USER_0023,2,Flipkart,Kolkata,Amex,False
+55F435AD,23329.19,USER_0048,5,Swiggy,Hyderabad,Amex,False
+3C339428,4275.74,USER_0005,16,CryptoExchange_BuyBit,Pune,Mastercard,True
+A1982BB4,880.73,USER_0025,10,CryptoExchange_BuyBit,Pune,Mastercard,True

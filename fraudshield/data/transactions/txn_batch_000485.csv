@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+384C989A,587.29,USER_0032,2,Swiggy,Surat,Mastercard,False
+ECEA4C4C,1008.08,USER_0017,1,Netflix,Hyderabad,Visa,False
+551CBFDC,1377.44,USER_0036,10,D-Mart,Bangalore,Visa,False
+7C51F6C2,3700.25,USER_0041,5,Swiggy,Chennai,Mastercard,False
+9686ABDA,657.32,USER_0040,12,Flipkart,Jaipur,Visa,False
+B71EF7DF,10343.88,USER_0032,1,Swiggy,Jaipur,Mastercard,False
+086D1BCA,3813.9,USER_0035,16,MedPlus Pharmacy,Jaipur,Visa,False

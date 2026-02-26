@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+15220CB5,12338.12,USER_0043,4,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+3B3BBD31,16948.09,USER_0045,2,Reliance Mart,Pune,RuPay,False
+8B0DB951,398.01,USER_0004,23,CryptoExchange_BuyBit,Chennai,Mastercard,True
+D79620D8,1308.48,USER_0010,9,Myntra,Kolkata,Mastercard,False

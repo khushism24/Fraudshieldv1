@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8DECCB43,3307.13,USER_0017,21,BigBasket,Surat,Amex,False
+B723DD59,3224.96,USER_0033,20,CasinoRoyal,Pune,Amex,True
+9C84693D,4422.82,USER_0033,17,D-Mart,Mumbai,Visa,False
+91659844,2226.34,USER_0019,4,Ola,Ahmedabad,Amex,False
+1E952862,2720.12,USER_0032,20,CryptoExchange_BuyBit,Hyderabad,Amex,True

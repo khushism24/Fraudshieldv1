@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9831D3E3,3203.49,USER_0030,14,WireTransfer_Global,Chennai,Amex,True
+75D549EA,19344.36,USER_0002,2,BigBasket,Pune,Visa,False
+A7FAADB0,611.99,USER_0021,21,CasinoRoyal,Chennai,Mastercard,True
+397A4C1A,262.26,USER_0019,15,D-Mart,Pune,Amex,False
+30B8875D,441.18,USER_0043,8,WireTransfer_Global,Ahmedabad,Visa,True
+023D43E0,4350.26,USER_0007,15,Amazon,Delhi,Mastercard,False
+9A47643F,1388.52,USER_0035,12,Swiggy,Ahmedabad,Visa,False
+054D34E5,1565.91,USER_0021,16,MedPlus Pharmacy,Delhi,RuPay,False

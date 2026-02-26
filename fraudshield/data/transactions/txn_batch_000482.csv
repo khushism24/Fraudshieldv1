@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F5786EDF,241.44,USER_0017,23,Ola,Surat,Visa,False
+CB647BF3,2966.6,USER_0005,21,BigBasket,Chennai,Visa,False
+98934117,2295.48,USER_0031,17,IRCTC,Surat,Mastercard,False

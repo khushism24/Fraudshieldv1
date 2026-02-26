@@ -1,5 +1,5 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-B3DB906A,1611.19,USER_0043,17,Uber,Hyderabad,Visa,False
-A82C8A6E,3305.77,USER_0015,14,Uber,Chennai,Mastercard,False
-E65D26D9,1195.03,USER_0027,8,CryptoExchange_BuyBit,Delhi,Amex,True
-EC94F46B,1935.9,USER_0046,15,Swiggy,Ahmedabad,RuPay,False
+D03228B0,1952.24,USER_0032,8,Netflix,Jaipur,Amex,False
+57A1DCB5,2966.61,USER_0011,16,Zomato,Pune,Mastercard,False
+2ABFDF7C,86.91,USER_0044,21,WireTransfer_Global,Ahmedabad,Mastercard,True
+CA75132C,3438.47,USER_0048,11,BigBasket,Bangalore,RuPay,False

@@ -1,8 +1,4 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-30BF2F38,24727.05,USER_0026,4,BigBasket,Ahmedabad,Visa,False
-7F8715A6,12401.09,USER_0021,5,WireTransfer_Global,Chennai,Visa,True
-6EB85F26,3733.06,USER_0020,23,Netflix,Jaipur,Visa,False
-ECC0EAAA,1392.4,USER_0039,17,CasinoRoyal,Jaipur,Mastercard,True
-739EA2D6,4966.11,USER_0025,4,Zomato,Mumbai,RuPay,False
-8743446D,1695.1,USER_0001,13,BigBasket,Delhi,Mastercard,False
-70BA8393,10731.71,USER_0014,5,Flipkart,Mumbai,Amex,False
+BEFC0F01,4273.24,USER_0023,17,Flipkart,Delhi,RuPay,False
+D82A3D22,1449.01,USER_0048,11,Swiggy,Chennai,Amex,False
+DE75076F,1102.42,USER_0010,18,WireTransfer_Global,Ahmedabad,Mastercard,True

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5A558752,1742.67,USER_0005,4,IRCTC,Chennai,Visa,False
+F205B8DF,1981.52,USER_0050,11,D-Mart,Chennai,RuPay,False
+C35C3B8C,1424.19,USER_0048,10,BookMyShow,Ahmedabad,RuPay,False
+5D4D5DA5,4266.37,USER_0042,18,WireTransfer_Global,Jaipur,Visa,True
+30A222E1,635.39,USER_0034,12,Swiggy,Bangalore,Mastercard,False
+0413BD3B,3285.86,USER_0033,10,MedPlus Pharmacy,Ahmedabad,Visa,False
+1F90A873,3790.49,USER_0050,21,Myntra,Surat,Visa,False

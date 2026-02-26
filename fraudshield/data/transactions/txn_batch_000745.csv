@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6908F0A4,561.53,USER_0009,19,Ola,Jaipur,Mastercard,False
+99FE9862,4082.06,USER_0007,23,Swiggy,Kolkata,Amex,False
+CBCC417D,1713.23,USER_0010,17,MedPlus Pharmacy,Hyderabad,Visa,False
+D7F49458,3729.95,USER_0044,18,Ola,Bangalore,Visa,False
+9E7A457C,1711.52,USER_0049,21,Zomato,Mumbai,RuPay,False
+457A6802,3628.48,USER_0035,21,Swiggy,Ahmedabad,Amex,False
+3C1756C1,4073.98,USER_0038,20,Amazon,Hyderabad,Mastercard,False

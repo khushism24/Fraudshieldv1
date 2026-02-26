@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D2D8D5E2,881.54,USER_0019,12,WireTransfer_Global,Surat,RuPay,True
+6860F043,2940.2,USER_0016,21,IRCTC,Surat,Visa,False
+5D8F1B6B,624.78,USER_0036,15,MedPlus Pharmacy,Hyderabad,Mastercard,False
+14583201,4310.1,USER_0024,15,Netflix,Bangalore,Amex,False
+DC84971D,113.67,USER_0029,12,CryptoExchange_BuyBit,Mumbai,Amex,True

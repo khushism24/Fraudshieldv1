@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+522189B2,20837.78,USER_0003,4,CasinoRoyal,Chennai,Mastercard,True
+05A43C2E,2383.73,USER_0023,9,Uber,Kolkata,Mastercard,False
+C6DAE220,3336.9,USER_0012,19,MedPlus Pharmacy,Bangalore,RuPay,False
+D8A6AA1D,61.25,USER_0015,9,IRCTC,Ahmedabad,Amex,False
+D23A101E,2994.62,USER_0037,0,Myntra,Pune,Mastercard,False
+B5F6957F,1935.15,USER_0007,13,BigBasket,Ahmedabad,Amex,False

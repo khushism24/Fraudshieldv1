@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0759CB3D,2452.57,USER_0014,13,WireTransfer_Global,Bangalore,Mastercard,True
+6CDC2FCE,2009.33,USER_0046,4,Swiggy,Ahmedabad,Amex,False
+1DC79FE0,4250.57,USER_0048,16,WireTransfer_Global,Hyderabad,RuPay,True
+0AAFA59B,1706.45,USER_0036,12,CryptoExchange_BuyBit,Pune,RuPay,True
+822CB3AB,1664.26,USER_0035,17,Amazon,Bangalore,Mastercard,False
+1730F190,2350.53,USER_0033,4,BookMyShow,Delhi,Mastercard,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6F946A50,3112.88,USER_0050,15,D-Mart,Surat,Visa,False
+6ED0B115,17592.85,USER_0006,0,CasinoRoyal,Mumbai,Visa,True
+98ED6A1B,506.72,USER_0012,13,Zomato,Hyderabad,Mastercard,False
+67F0CC08,1979.14,USER_0023,20,Amazon,Surat,Mastercard,False
+02432303,640.62,USER_0044,16,Swiggy,Delhi,Visa,False

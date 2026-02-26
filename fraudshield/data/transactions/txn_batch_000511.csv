@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+99B68E42,2007.72,USER_0008,17,CasinoRoyal,Chennai,Mastercard,True
+326C1878,857.23,USER_0006,20,Amazon,Hyderabad,Mastercard,False
+B8C7DFE9,439.16,USER_0017,17,Zomato,Surat,RuPay,False
+77A3F432,232.71,USER_0006,17,MedPlus Pharmacy,Hyderabad,Visa,False

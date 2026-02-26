@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0585292F,1847.23,USER_0017,0,Reliance Mart,Delhi,Amex,False
+D173201C,2781.2,USER_0036,18,Myntra,Surat,Amex,False
+DABECEA2,510.4,USER_0032,10,Flipkart,Surat,Mastercard,False
+96382F61,643.33,USER_0036,0,Swiggy,Chennai,Amex,False
+B4E0F97B,3660.16,USER_0049,13,BookMyShow,Delhi,Amex,False
+BEB687ED,940.75,USER_0022,8,Swiggy,Bangalore,Visa,False
+6B35A757,2468.1,USER_0021,16,MedPlus Pharmacy,Surat,RuPay,False
+39C6369D,11742.97,USER_0008,3,Flipkart,Ahmedabad,Mastercard,False

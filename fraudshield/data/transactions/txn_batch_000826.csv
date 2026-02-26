@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8109DAEA,785.0,USER_0040,19,Swiggy,Bangalore,RuPay,False
+E18002E4,16027.49,USER_0030,0,IRCTC,Chennai,Amex,False
+EF74F36D,3695.74,USER_0035,19,Myntra,Jaipur,Amex,False
+E9FBC87E,4384.27,USER_0030,22,Swiggy,Mumbai,Visa,False
+F8548760,4440.6,USER_0048,21,Reliance Mart,Pune,Amex,False
+1416E1C6,1348.59,USER_0015,6,Myntra,Bangalore,Amex,False
+C332A4FC,231.38,USER_0011,13,Reliance Mart,Bangalore,Visa,False
+E708CA35,3895.18,USER_0028,11,BigBasket,Mumbai,Amex,False

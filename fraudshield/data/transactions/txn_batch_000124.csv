@@ -1,5 +1,8 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-40181BEA,1502.06,USER_0026,12,CasinoRoyal,Hyderabad,Mastercard,True
-AE482853,2909.74,USER_0040,19,Zomato,Bangalore,Mastercard,False
-5178F19A,539.76,USER_0025,16,D-Mart,Chennai,Amex,False
-8A180218,375.66,USER_0044,13,BigBasket,Jaipur,Mastercard,False
+F3745322,19009.37,USER_0040,4,D-Mart,Bangalore,Amex,False
+3AFEE817,2554.33,USER_0007,18,Netflix,Jaipur,Visa,False
+BF183882,4326.81,USER_0038,11,Swiggy,Hyderabad,Amex,False
+F5DE134A,3901.96,USER_0014,8,Swiggy,Ahmedabad,Mastercard,False
+6B5BD501,1942.18,USER_0010,3,CasinoRoyal,Hyderabad,Visa,True
+7035FFD1,1017.5,USER_0019,9,Uber,Kolkata,Mastercard,False
+7BDC9DBA,3083.41,USER_0019,0,Swiggy,Jaipur,RuPay,False

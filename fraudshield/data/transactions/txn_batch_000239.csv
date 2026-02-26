@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8D47BD39,3660.87,USER_0023,16,BookMyShow,Delhi,RuPay,False
+50C41530,1352.4,USER_0040,8,Amazon,Surat,RuPay,False
+B52FCBA7,1552.47,USER_0035,22,CryptoExchange_BuyBit,Mumbai,Mastercard,True
+29661CF7,3792.73,USER_0015,21,Netflix,Delhi,RuPay,False

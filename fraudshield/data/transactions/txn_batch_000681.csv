@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+31751939,1136.03,USER_0040,22,Zomato,Kolkata,RuPay,False
+5642CD36,1561.96,USER_0045,20,CryptoExchange_BuyBit,Mumbai,RuPay,True
+8357C103,8989.19,USER_0035,0,Myntra,Pune,RuPay,False
+A8BD4A59,2255.64,USER_0012,10,BigBasket,Surat,Mastercard,False
+BB552688,1890.57,USER_0034,11,Swiggy,Surat,Visa,False

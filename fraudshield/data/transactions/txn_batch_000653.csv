@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FB67C1AD,4252.99,USER_0049,18,MedPlus Pharmacy,Surat,Mastercard,False
+9F80CDBC,3530.41,USER_0042,8,Reliance Mart,Ahmedabad,Visa,False
+0A3B1F9E,3832.77,USER_0008,22,Uber,Bangalore,RuPay,False
+C1D115F9,1691.7,USER_0024,9,MedPlus Pharmacy,Chennai,Amex,False
+0F0588EF,20903.4,USER_0032,2,BookMyShow,Mumbai,Amex,False

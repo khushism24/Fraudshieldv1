@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+840A8D67,4566.96,USER_0019,2,BigBasket,Bangalore,RuPay,False
+A6ED4D17,710.17,USER_0002,11,Flipkart,Pune,RuPay,False
+92E71C2A,2740.16,USER_0008,7,CasinoRoyal,Ahmedabad,Amex,True
+B437DB2C,4129.15,USER_0042,19,MedPlus Pharmacy,Hyderabad,Visa,False
+F4371774,1376.17,USER_0024,20,BookMyShow,Jaipur,RuPay,False

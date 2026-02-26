@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3E4AD092,1736.47,USER_0004,7,CasinoRoyal,Jaipur,Visa,True
+8D27C98B,1942.28,USER_0041,12,Swiggy,Kolkata,Visa,False
+B10FDB3F,933.93,USER_0014,12,Swiggy,Pune,Mastercard,False
+AC75534E,2318.72,USER_0025,18,Zomato,Kolkata,RuPay,False
+DAA59698,1551.88,USER_0027,8,Zomato,Bangalore,Visa,False
+8C197589,1744.6,USER_0024,18,Swiggy,Hyderabad,Amex,False

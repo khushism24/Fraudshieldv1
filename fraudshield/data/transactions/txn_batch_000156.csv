@@ -1,7 +1,7 @@
 transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
-AEC0B0DD,1929.06,USER_0012,14,MedPlus Pharmacy,Pune,Amex,False
-EA6374F1,19617.23,USER_0020,0,Amazon,Mumbai,Visa,False
-43EFE210,2494.77,USER_0029,9,IRCTC,Pune,Mastercard,False
-A1E57298,4464.67,USER_0025,10,BigBasket,Delhi,Amex,False
-49489C9B,3531.95,USER_0010,7,Netflix,Hyderabad,RuPay,False
-B71194AD,2987.3,USER_0040,6,BigBasket,Bangalore,Amex,False
+72F11077,1301.22,USER_0001,17,Ola,Surat,RuPay,False
+BC771B9C,711.26,USER_0010,10,MedPlus Pharmacy,Hyderabad,Mastercard,False
+27411652,3573.1,USER_0028,20,CasinoRoyal,Bangalore,Visa,True
+C34A55FA,3598.06,USER_0036,9,IRCTC,Kolkata,Visa,False
+5C1603AD,4428.96,USER_0030,11,Swiggy,Mumbai,RuPay,False
+6C830C67,828.17,USER_0001,17,Uber,Delhi,Mastercard,False

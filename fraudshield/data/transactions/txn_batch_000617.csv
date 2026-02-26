@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B4410870,2331.53,USER_0038,16,BookMyShow,Jaipur,RuPay,False
+88D82C73,604.11,USER_0010,10,Amazon,Ahmedabad,Mastercard,False
+76D9B4DA,1031.63,USER_0034,16,Netflix,Delhi,RuPay,False
+7DA4E633,1312.43,USER_0034,15,WireTransfer_Global,Kolkata,Visa,True
+59047968,4312.49,USER_0028,18,WireTransfer_Global,Bangalore,Mastercard,True
+C764DFDE,7597.39,USER_0036,0,IRCTC,Hyderabad,Visa,False
+29E43C12,873.25,USER_0035,6,BigBasket,Jaipur,RuPay,False
+B887FC60,3930.11,USER_0008,5,Myntra,Kolkata,Amex,False

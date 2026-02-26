@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+50263882,19729.85,USER_0027,0,Amazon,Chennai,Amex,False
+8CAB1849,622.36,USER_0022,18,Myntra,Pune,RuPay,False
+75A2D06E,339.52,USER_0004,20,Amazon,Mumbai,Amex,False
+B3E2AEA6,8535.63,USER_0046,5,Zomato,Bangalore,RuPay,False
+84F2DD3D,74.12,USER_0003,9,Amazon,Ahmedabad,Mastercard,False
+C43B25E6,2335.62,USER_0031,15,MedPlus Pharmacy,Pune,Amex,False
+CDF7B191,3033.91,USER_0010,13,WireTransfer_Global,Bangalore,Amex,True

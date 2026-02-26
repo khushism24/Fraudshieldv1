@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1FAA1102,1796.1,USER_0026,17,Uber,Kolkata,Visa,False
+BFD523F7,17146.74,USER_0040,1,MedPlus Pharmacy,Chennai,Mastercard,False
+3CC26A4E,3360.48,USER_0032,15,Netflix,Surat,Visa,False
+4EBD2DDA,4228.67,USER_0008,13,CryptoExchange_BuyBit,Chennai,Mastercard,True
+02E6DF18,1077.74,USER_0034,11,MedPlus Pharmacy,Surat,Amex,False

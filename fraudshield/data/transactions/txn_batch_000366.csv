@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DD7DBDC9,4416.44,USER_0020,3,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+5F3BB717,218.43,USER_0009,23,Zomato,Ahmedabad,Mastercard,False
+39CEF2A1,2238.73,USER_0013,10,Ola,Surat,RuPay,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+683121CD,1059.44,USER_0049,18,CryptoExchange_BuyBit,Pune,Amex,True
+A40F45E4,3660.41,USER_0035,23,Swiggy,Delhi,Mastercard,False
+EDA6E8DF,1601.17,USER_0005,9,MedPlus Pharmacy,Kolkata,RuPay,False
+6394CC99,3228.77,USER_0022,23,Myntra,Ahmedabad,Mastercard,False
+85814ABB,2936.66,USER_0027,8,Uber,Surat,Visa,False

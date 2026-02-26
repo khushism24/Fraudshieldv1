@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B390338E,361.27,USER_0048,11,Swiggy,Chennai,RuPay,False
+392024F2,274.65,USER_0016,7,Uber,Bangalore,Visa,False
+0A255207,623.85,USER_0035,18,BookMyShow,Ahmedabad,Visa,False

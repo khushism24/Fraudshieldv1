@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+883D2CD8,1756.35,USER_0038,0,MedPlus Pharmacy,Delhi,Visa,False
+1FBC2FA5,452.51,USER_0001,10,IRCTC,Ahmedabad,RuPay,False
+17EFD6F6,1513.87,USER_0050,16,WireTransfer_Global,Hyderabad,Mastercard,True
+A5F568C2,6693.61,USER_0003,1,Flipkart,Ahmedabad,Visa,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D77068B5,850.73,USER_0040,17,Reliance Mart,Delhi,Amex,False
+D194843C,3213.68,USER_0035,8,MedPlus Pharmacy,Delhi,Mastercard,False
+1C4D9C50,2051.17,USER_0001,12,Uber,Mumbai,RuPay,False

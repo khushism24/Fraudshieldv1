@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B655F234,1304.79,USER_0029,17,MedPlus Pharmacy,Ahmedabad,Mastercard,False
+E21A96F6,2392.51,USER_0035,7,Zomato,Surat,Amex,False
+D6EF8D3A,2603.63,USER_0015,17,BookMyShow,Ahmedabad,Visa,False
+30005953,2057.89,USER_0011,6,Uber,Ahmedabad,RuPay,False
+F2A2318F,2878.08,USER_0011,18,WireTransfer_Global,Jaipur,RuPay,True

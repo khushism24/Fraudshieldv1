@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3A12C640,3751.43,USER_0010,15,Myntra,Delhi,Amex,False
+C6B40E52,2802.17,USER_0038,5,Reliance Mart,Ahmedabad,Amex,False
+EEF67456,1460.16,USER_0007,0,CryptoExchange_BuyBit,Pune,Mastercard,True
+7B6CBBFC,16126.62,USER_0045,3,Reliance Mart,Pune,Amex,False
+EC5FEFA0,3879.07,USER_0007,10,Reliance Mart,Pune,Amex,False
+E44AD1B2,4477.99,USER_0020,14,Ola,Hyderabad,Mastercard,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+656737FD,3956.58,USER_0042,13,Reliance Mart,Hyderabad,RuPay,False
+2836022A,2084.31,USER_0005,11,Swiggy,Jaipur,Mastercard,False
+27E2898D,223.01,USER_0017,6,Flipkart,Kolkata,RuPay,False
+3B152A1C,24399.48,USER_0044,4,CasinoRoyal,Surat,Mastercard,True
+D21C7FF5,22129.25,USER_0048,4,Zomato,Hyderabad,Amex,False
+BD3B15EE,1841.26,USER_0048,10,MedPlus Pharmacy,Jaipur,Mastercard,False
+72538DA6,118.68,USER_0010,7,Zomato,Chennai,Visa,False

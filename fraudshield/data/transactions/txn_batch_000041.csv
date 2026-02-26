@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0E8E8AC4,2864.69,USER_0033,12,Swiggy,Bangalore,Amex,False
+3076EF42,4362.81,USER_0004,22,BigBasket,Surat,Mastercard,False
+45D32534,1635.02,USER_0025,18,Ola,Hyderabad,RuPay,False
+4EFD47CF,2107.99,USER_0037,17,Reliance Mart,Jaipur,Visa,False

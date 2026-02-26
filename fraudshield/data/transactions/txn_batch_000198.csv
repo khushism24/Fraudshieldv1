@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D1CDF992,2481.16,USER_0038,12,CryptoExchange_BuyBit,Pune,Amex,True
+427CA0BB,22452.19,USER_0039,1,Uber,Hyderabad,Amex,False
+758F1449,1176.3,USER_0038,10,Uber,Kolkata,Mastercard,False
+A889A1E7,2013.26,USER_0037,15,MedPlus Pharmacy,Bangalore,RuPay,False
+DC69769D,1918.47,USER_0014,3,Myntra,Pune,Amex,False
+B5DD4F66,127.5,USER_0001,12,CryptoExchange_BuyBit,Kolkata,Mastercard,True
+B4040C9A,4045.83,USER_0050,22,D-Mart,Bangalore,Amex,False
+C0781420,3259.31,USER_0024,18,D-Mart,Pune,Mastercard,False

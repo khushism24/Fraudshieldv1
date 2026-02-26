@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B3FAAA6E,1183.24,USER_0045,23,CasinoRoyal,Kolkata,Amex,True
+CD44E5DE,538.96,USER_0037,10,BookMyShow,Hyderabad,Mastercard,False
+E7A4BB1B,4388.12,USER_0017,10,Reliance Mart,Chennai,RuPay,False
+B7734F55,3640.06,USER_0016,19,Netflix,Delhi,RuPay,False
+BA9A8405,1118.6,USER_0040,12,Amazon,Chennai,Visa,False

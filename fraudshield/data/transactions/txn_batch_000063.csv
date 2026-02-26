@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3196D194,6974.0,USER_0034,4,Swiggy,Mumbai,Mastercard,False
+70222746,3775.7,USER_0044,22,BookMyShow,Ahmedabad,Amex,False
+A1658090,22253.89,USER_0045,2,Amazon,Chennai,Amex,False
+58FCDCE2,3374.22,USER_0002,12,IRCTC,Ahmedabad,Visa,False
+00862282,2127.27,USER_0003,9,IRCTC,Mumbai,Amex,False
+8C7937BA,2338.8,USER_0033,19,WireTransfer_Global,Jaipur,Visa,True

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+75ED19EC,16655.57,USER_0047,1,Amazon,Hyderabad,Mastercard,False
+24449368,423.9,USER_0021,21,BigBasket,Delhi,Mastercard,False
+13DF65EE,2973.1,USER_0037,1,IRCTC,Mumbai,RuPay,False
+772030F0,679.73,USER_0006,22,Flipkart,Jaipur,Mastercard,False
+4BB57619,3242.97,USER_0001,5,MedPlus Pharmacy,Ahmedabad,Mastercard,False
+C2B60F2A,1658.83,USER_0022,16,Flipkart,Pune,Amex,False
+62DD30DF,625.73,USER_0030,22,WireTransfer_Global,Pune,Visa,True
+6A9BF938,3103.68,USER_0022,16,Flipkart,Jaipur,RuPay,False

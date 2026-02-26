@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A7C0F8A1,695.61,USER_0044,8,CryptoExchange_BuyBit,Hyderabad,Amex,True
+1FF1AE89,2689.74,USER_0023,9,IRCTC,Hyderabad,Amex,False
+CA977042,141.38,USER_0036,19,WireTransfer_Global,Delhi,Visa,True
+FDA378EB,4339.2,USER_0029,10,Flipkart,Hyderabad,Amex,False
+ED8446F2,2921.07,USER_0018,9,IRCTC,Surat,Visa,False
+84046E18,3665.12,USER_0034,7,Reliance Mart,Surat,Mastercard,False
+39FA2E5E,608.58,USER_0047,7,D-Mart,Pune,RuPay,False

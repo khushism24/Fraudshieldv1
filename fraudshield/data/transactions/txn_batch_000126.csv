@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1D2D462A,1300.37,USER_0016,18,Uber,Kolkata,Amex,False
+1A453965,2189.94,USER_0018,13,CasinoRoyal,Delhi,Mastercard,True
+15A88976,3219.31,USER_0031,3,Zomato,Pune,Visa,False
+8E807C1A,1621.7,USER_0027,11,Flipkart,Jaipur,Visa,False

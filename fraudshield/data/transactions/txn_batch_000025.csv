@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C0A89970,10151.91,USER_0028,3,Netflix,Hyderabad,Mastercard,False
+2BB57AE7,1537.06,USER_0030,12,Swiggy,Hyderabad,Amex,False
+166A3FD6,3949.89,USER_0011,21,IRCTC,Pune,Mastercard,False
+5CD8E713,3539.93,USER_0048,23,MedPlus Pharmacy,Chennai,RuPay,False
+AE3D8EAE,24726.92,USER_0039,3,Reliance Mart,Bangalore,Amex,False

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+56E37A6B,797.82,USER_0027,0,Ola,Mumbai,Amex,False
+E272AFEA,1718.81,USER_0040,23,Myntra,Jaipur,Visa,False
+E1046080,3980.25,USER_0043,13,Amazon,Ahmedabad,Amex,False
+F7E12488,1241.37,USER_0029,17,Zomato,Bangalore,Visa,False
+D739E001,1404.76,USER_0031,2,MedPlus Pharmacy,Ahmedabad,Amex,False

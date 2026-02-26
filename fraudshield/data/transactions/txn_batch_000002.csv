@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3B71424A,4405.24,USER_0043,9,CasinoRoyal,Hyderabad,Visa,True
+37DF6662,3656.66,USER_0047,5,BigBasket,Hyderabad,Mastercard,False
+74192EE3,3316.51,USER_0007,7,CasinoRoyal,Chennai,Amex,True
+F83FF84C,15568.84,USER_0015,5,WireTransfer_Global,Pune,Mastercard,True
+6DCCE0D0,22952.87,USER_0047,4,CryptoExchange_BuyBit,Pune,RuPay,True

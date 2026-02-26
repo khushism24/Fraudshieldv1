@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9055B3DF,887.12,USER_0012,14,Amazon,Pune,Mastercard,False
+E59080C4,853.52,USER_0047,13,CasinoRoyal,Hyderabad,Amex,True
+D93B3343,3927.3,USER_0033,3,Reliance Mart,Hyderabad,RuPay,False

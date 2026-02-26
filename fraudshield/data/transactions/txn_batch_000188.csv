@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7C8FBDC2,2244.22,USER_0007,9,Myntra,Chennai,Mastercard,False
+577061A8,1153.42,USER_0040,21,Amazon,Kolkata,Mastercard,False
+87AEBDAC,2385.74,USER_0049,13,Amazon,Bangalore,Mastercard,False
+FB4597E3,231.11,USER_0023,19,Netflix,Mumbai,Mastercard,False

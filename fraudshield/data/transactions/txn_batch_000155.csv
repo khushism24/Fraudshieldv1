@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7CF60145,3628.65,USER_0024,20,Reliance Mart,Pune,Amex,False
+A4EB2737,582.74,USER_0025,16,MedPlus Pharmacy,Pune,Visa,False
+8A74BC6E,3798.87,USER_0030,21,Myntra,Ahmedabad,Amex,False
+70FB0974,24436.12,USER_0028,0,CryptoExchange_BuyBit,Hyderabad,RuPay,True
+EA258C14,3890.74,USER_0023,12,BookMyShow,Jaipur,Mastercard,False

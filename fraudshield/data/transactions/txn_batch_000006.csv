@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+D449B958,1250.68,USER_0045,18,IRCTC,Mumbai,Visa,False
+DFE11748,3038.04,USER_0007,10,Ola,Chennai,RuPay,False
+EC76BA34,3919.27,USER_0004,12,Uber,Mumbai,Amex,False
+E54F36D1,2518.85,USER_0035,7,Uber,Surat,Visa,False
+3F1A7DED,4031.02,USER_0008,5,IRCTC,Hyderabad,Visa,False
+208948DC,1937.64,USER_0050,18,Uber,Ahmedabad,RuPay,False
+3E9DE031,2027.93,USER_0022,8,BookMyShow,Bangalore,RuPay,False

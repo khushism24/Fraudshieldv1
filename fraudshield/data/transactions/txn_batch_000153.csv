@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+315073F2,1142.51,USER_0049,23,CasinoRoyal,Bangalore,RuPay,True
+3C9538C3,2195.68,USER_0020,6,Swiggy,Bangalore,Amex,False
+8D1609C4,907.7,USER_0007,12,D-Mart,Hyderabad,Visa,False
+D481DD00,3980.28,USER_0016,20,Ola,Delhi,RuPay,False
+31D8FF5A,17809.59,USER_0016,5,BookMyShow,Bangalore,RuPay,False
+EDE3A153,6490.89,USER_0015,4,CryptoExchange_BuyBit,Hyderabad,RuPay,True
+FFB3703E,8301.32,USER_0018,5,IRCTC,Surat,RuPay,False
+D0115DC1,4404.04,USER_0030,12,Reliance Mart,Surat,Amex,False

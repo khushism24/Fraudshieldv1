@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BC7E4FCB,671.67,USER_0035,22,Netflix,Delhi,Visa,False
+8562EA9E,2150.6,USER_0042,7,Flipkart,Delhi,Visa,False
+069BA62E,1220.0,USER_0006,23,BookMyShow,Ahmedabad,Mastercard,False

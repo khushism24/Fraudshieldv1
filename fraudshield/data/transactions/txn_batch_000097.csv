@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E0CBD0D7,900.86,USER_0015,14,Uber,Bangalore,Visa,False
+209E316B,3650.17,USER_0010,18,CasinoRoyal,Hyderabad,RuPay,True
+05F2812F,1959.87,USER_0030,2,Netflix,Mumbai,RuPay,False
+61210865,4671.75,USER_0016,3,Ola,Jaipur,Amex,False

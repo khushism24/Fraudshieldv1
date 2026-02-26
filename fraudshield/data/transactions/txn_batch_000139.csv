@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AFF0583D,21952.66,USER_0048,1,WireTransfer_Global,Mumbai,RuPay,True
+45E444F4,5326.52,USER_0007,4,CasinoRoyal,Bangalore,Mastercard,True
+723E754F,3336.6,USER_0010,20,Amazon,Surat,Visa,False
+D046B3DE,2618.0,USER_0044,8,Reliance Mart,Bangalore,Visa,False
+CD962777,2112.24,USER_0029,6,Uber,Bangalore,Mastercard,False
+6C3922F4,1195.16,USER_0047,17,Flipkart,Hyderabad,Mastercard,False

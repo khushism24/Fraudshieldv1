@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AA9346AF,1025.86,USER_0042,21,BigBasket,Delhi,Visa,False
+A97DFC90,17740.26,USER_0003,4,BigBasket,Ahmedabad,Amex,False
+2A32E8C0,3514.51,USER_0038,16,CasinoRoyal,Surat,RuPay,True
+A732A7D9,2120.59,USER_0035,11,MedPlus Pharmacy,Bangalore,Visa,False
+642BF10F,17086.15,USER_0021,0,D-Mart,Surat,RuPay,False

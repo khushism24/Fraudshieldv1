@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6245F10A,585.16,USER_0044,8,Amazon,Surat,Mastercard,False
+87EAD158,3280.56,USER_0049,1,Amazon,Bangalore,Mastercard,False
+D1A2C350,1953.81,USER_0031,7,Zomato,Kolkata,Visa,False
+BC838376,1375.33,USER_0036,14,Uber,Kolkata,Visa,False

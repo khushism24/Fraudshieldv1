@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+817E1601,2874.97,USER_0001,16,IRCTC,Pune,Mastercard,False
+D5882387,713.84,USER_0026,7,Flipkart,Kolkata,Visa,False
+8C8264DD,20062.08,USER_0039,5,CryptoExchange_BuyBit,Pune,RuPay,True
+84090988,508.42,USER_0033,6,D-Mart,Mumbai,Mastercard,False

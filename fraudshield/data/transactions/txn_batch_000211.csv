@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FD74C85F,1114.0,USER_0050,0,WireTransfer_Global,Pune,RuPay,True
+D67AD2F4,1162.28,USER_0030,16,Zomato,Kolkata,RuPay,False
+46EB8783,2075.87,USER_0032,21,Reliance Mart,Bangalore,Visa,False
+E1106E18,1801.25,USER_0040,15,Netflix,Bangalore,Mastercard,False
+39BB5819,1872.68,USER_0036,18,Zomato,Chennai,RuPay,False
+FE19D594,2882.64,USER_0020,16,WireTransfer_Global,Bangalore,RuPay,True

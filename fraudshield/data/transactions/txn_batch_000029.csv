@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4274E139,3726.47,USER_0034,19,Ola,Mumbai,RuPay,False
+E1E96983,4386.28,USER_0035,6,CryptoExchange_BuyBit,Chennai,Mastercard,True
+822151FC,3723.73,USER_0015,14,CryptoExchange_BuyBit,Hyderabad,RuPay,True

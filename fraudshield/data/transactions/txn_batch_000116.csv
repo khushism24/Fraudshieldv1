@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B4B4C2CD,1152.49,USER_0020,8,D-Mart,Pune,Mastercard,False
+B1EBB9E2,15288.91,USER_0035,2,Reliance Mart,Delhi,RuPay,False
+746E5694,1730.09,USER_0032,14,CasinoRoyal,Pune,Visa,True
+E72946EE,18762.93,USER_0022,2,MedPlus Pharmacy,Jaipur,Amex,False
+309AB34D,116.6,USER_0034,7,BookMyShow,Delhi,Amex,False
+80A79052,2627.79,USER_0011,7,D-Mart,Surat,Visa,False
+F5BEDF9C,22889.23,USER_0023,0,BigBasket,Jaipur,RuPay,False

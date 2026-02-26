@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2D705146,2233.96,USER_0023,19,MedPlus Pharmacy,Hyderabad,RuPay,False
+DE319D72,23978.4,USER_0012,1,MedPlus Pharmacy,Kolkata,RuPay,False
+6BA51237,438.73,USER_0037,12,CryptoExchange_BuyBit,Chennai,Visa,True

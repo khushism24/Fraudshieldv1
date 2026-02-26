@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9410ADE8,3879.5,USER_0008,4,WireTransfer_Global,Chennai,Amex,True
+C46AF740,7568.94,USER_0019,3,CryptoExchange_BuyBit,Delhi,Mastercard,True
+193B67B9,3666.11,USER_0023,7,BookMyShow,Surat,Mastercard,False
+86F35AE8,4049.28,USER_0020,20,Myntra,Kolkata,Mastercard,False
+C1B1B039,1806.83,USER_0041,8,Flipkart,Surat,Mastercard,False
+202CEBCD,3497.42,USER_0031,12,BigBasket,Hyderabad,RuPay,False
+528B1B42,1768.77,USER_0005,14,MedPlus Pharmacy,Kolkata,Mastercard,False

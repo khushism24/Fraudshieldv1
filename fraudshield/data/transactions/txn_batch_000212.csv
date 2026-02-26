@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4439C21A,295.77,USER_0007,20,WireTransfer_Global,Jaipur,Visa,True
+9B02F178,318.3,USER_0047,17,Swiggy,Chennai,Amex,False
+19F4A415,2326.29,USER_0046,9,Netflix,Ahmedabad,Visa,False
+1A6E89B5,245.27,USER_0049,23,Netflix,Bangalore,Visa,False
+18FC233C,794.7,USER_0001,6,Flipkart,Delhi,Mastercard,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0043ED9C,4430.7,USER_0037,17,Myntra,Surat,RuPay,False
+9516C530,2872.67,USER_0019,13,Myntra,Ahmedabad,RuPay,False
+13B676C3,3002.47,USER_0026,20,Netflix,Kolkata,RuPay,False
+1C73AC91,3788.95,USER_0007,21,Zomato,Delhi,Visa,False
+91D91943,3943.19,USER_0011,14,CasinoRoyal,Jaipur,Mastercard,True
+96ACBDB6,2585.54,USER_0028,15,BookMyShow,Bangalore,Amex,False
+6CAF0B30,733.59,USER_0048,8,Flipkart,Pune,RuPay,False

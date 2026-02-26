@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CA2F25BA,2594.04,USER_0002,11,Reliance Mart,Kolkata,Amex,False
+BA0D99EE,172.7,USER_0009,12,Ola,Jaipur,Mastercard,False
+BE7296E3,1929.15,USER_0018,4,Reliance Mart,Kolkata,RuPay,False
+6E984FDE,4051.65,USER_0029,13,Netflix,Hyderabad,Mastercard,False
+07726AD7,2842.85,USER_0015,12,Ola,Surat,RuPay,False
+29A2EF73,1114.53,USER_0037,16,MedPlus Pharmacy,Surat,RuPay,False

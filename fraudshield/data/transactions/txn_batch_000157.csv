@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A2B5DAC1,2329.65,USER_0009,4,D-Mart,Delhi,Amex,False
+D3AB3468,3551.77,USER_0018,6,CasinoRoyal,Bangalore,Mastercard,True
+DFDA2FAB,1599.76,USER_0026,13,Swiggy,Bangalore,RuPay,False
+29D5F5B7,3845.75,USER_0049,10,Flipkart,Jaipur,RuPay,False

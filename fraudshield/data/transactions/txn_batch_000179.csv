@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+493C4B24,4357.46,USER_0034,10,WireTransfer_Global,Jaipur,Visa,True
+8D353A9D,282.42,USER_0042,23,IRCTC,Surat,RuPay,False
+B3D34FD0,14298.18,USER_0028,3,Reliance Mart,Jaipur,Mastercard,False
+8F19B49F,2286.72,USER_0013,14,Netflix,Hyderabad,RuPay,False

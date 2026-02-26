@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+001F4C07,646.78,USER_0016,7,BookMyShow,Mumbai,Visa,False
+3A961870,1328.51,USER_0007,16,WireTransfer_Global,Hyderabad,Amex,True
+D2805D83,3300.96,USER_0035,14,Ola,Surat,RuPay,False
+6EBCF51B,21645.83,USER_0032,5,CasinoRoyal,Ahmedabad,Amex,True

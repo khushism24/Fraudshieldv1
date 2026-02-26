@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BAE75B7A,3763.39,USER_0016,9,Swiggy,Chennai,Visa,False
+9EBFDA1C,16232.94,USER_0017,3,Myntra,Delhi,Mastercard,False
+A3872DFE,119.96,USER_0035,16,Flipkart,Chennai,Visa,False
+D1C25C09,2983.87,USER_0038,9,Uber,Pune,RuPay,False

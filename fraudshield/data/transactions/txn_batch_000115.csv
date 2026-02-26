@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CC210CB3,4362.37,USER_0024,17,BookMyShow,Hyderabad,Mastercard,False
+1694E836,1618.27,USER_0014,5,BookMyShow,Delhi,Visa,False
+EEC59F7B,2743.26,USER_0031,20,Myntra,Kolkata,RuPay,False
+F38B018A,2769.24,USER_0029,7,D-Mart,Mumbai,Visa,False

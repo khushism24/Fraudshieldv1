@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DD483165,1778.18,USER_0016,18,Amazon,Ahmedabad,Mastercard,False
+F9D8E885,3929.64,USER_0039,6,BookMyShow,Hyderabad,Mastercard,False
+EEFD0716,1107.76,USER_0018,14,WireTransfer_Global,Bangalore,Mastercard,True
+8DEE3FB1,2648.98,USER_0022,23,CasinoRoyal,Chennai,RuPay,True
+2E79D804,3196.4,USER_0021,14,IRCTC,Hyderabad,Amex,False
+80D7B504,2143.41,USER_0033,6,CryptoExchange_BuyBit,Pune,Visa,True

@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BD4B54A3,8923.07,USER_0001,4,Myntra,Pune,Mastercard,False
+74E21C10,771.57,USER_0004,19,Ola,Mumbai,Mastercard,False
+3B25E52C,3790.2,USER_0045,3,Amazon,Hyderabad,Amex,False
+61560EEE,225.06,USER_0024,7,CasinoRoyal,Ahmedabad,RuPay,True
+D5E64292,3067.66,USER_0017,23,Flipkart,Kolkata,Amex,False

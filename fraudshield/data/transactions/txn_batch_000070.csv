@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+AEEB79FD,22135.0,USER_0042,2,D-Mart,Mumbai,Visa,False
+D8569315,1638.22,USER_0040,1,Uber,Delhi,Mastercard,False
+2645BAE8,2269.09,USER_0014,5,D-Mart,Surat,Amex,False
+E5A8DD30,2894.62,USER_0019,10,Myntra,Delhi,Visa,False
+85662B14,2040.17,USER_0030,1,BookMyShow,Jaipur,RuPay,False
+9288C54F,1162.94,USER_0044,10,BookMyShow,Ahmedabad,RuPay,False
+B0D475FA,254.07,USER_0011,20,Ola,Jaipur,Visa,False

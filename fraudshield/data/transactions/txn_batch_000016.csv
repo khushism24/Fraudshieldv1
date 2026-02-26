@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EE510254,2911.09,USER_0003,11,CasinoRoyal,Kolkata,RuPay,True
+171177DB,3351.01,USER_0026,10,Ola,Surat,Mastercard,False
+B33E25A6,524.87,USER_0011,6,Ola,Ahmedabad,Amex,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+56151C25,2734.68,USER_0024,7,Zomato,Bangalore,Mastercard,False
+581A84D1,4399.73,USER_0047,15,CryptoExchange_BuyBit,Hyderabad,RuPay,True
+09458C3D,1238.13,USER_0013,10,BookMyShow,Kolkata,Visa,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E231AA6D,392.19,USER_0019,11,WireTransfer_Global,Bangalore,Visa,True
+8F1C9D61,346.97,USER_0046,9,Myntra,Jaipur,Amex,False
+FC48C8D6,3725.3,USER_0012,1,CryptoExchange_BuyBit,Kolkata,RuPay,True
+282DF346,16031.63,USER_0050,4,BigBasket,Chennai,Visa,False
+FBA50555,527.94,USER_0005,19,Swiggy,Chennai,Visa,False
+6677E82B,4519.22,USER_0012,1,MedPlus Pharmacy,Chennai,Mastercard,False
+F9266A6A,4077.65,USER_0026,1,Ola,Pune,Amex,False
+C5332FD2,3612.23,USER_0027,14,Swiggy,Hyderabad,RuPay,False

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+B0EEDF55,550.22,USER_0019,19,Uber,Delhi,RuPay,False
+ADC82382,684.9,USER_0027,9,Uber,Bangalore,Amex,False
+91D9D9BB,4301.73,USER_0012,3,Ola,Jaipur,Amex,False
+B34C2C57,3382.74,USER_0020,13,Myntra,Jaipur,Mastercard,False
+2F799712,20546.96,USER_0003,0,Swiggy,Chennai,Mastercard,False
+BB225E00,2375.13,USER_0029,20,Uber,Ahmedabad,Visa,False
+C027ECD5,1433.86,USER_0022,20,D-Mart,Ahmedabad,Amex,False

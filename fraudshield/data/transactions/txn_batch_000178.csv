@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EFA1BF50,2476.47,USER_0036,20,Uber,Kolkata,Mastercard,False
+7174D7A4,2954.23,USER_0021,21,Ola,Mumbai,Visa,False
+D9DA51CD,1097.5,USER_0016,7,CasinoRoyal,Chennai,RuPay,True

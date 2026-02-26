@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E01FB2D8,1071.75,USER_0017,21,CasinoRoyal,Ahmedabad,RuPay,True
+13557D44,940.93,USER_0034,9,Ola,Surat,RuPay,False
+9E538EB7,1406.01,USER_0048,2,WireTransfer_Global,Kolkata,Amex,True
+5FA68616,105.1,USER_0015,14,Flipkart,Bangalore,Amex,False
+EF99277D,1074.67,USER_0033,21,D-Mart,Jaipur,Visa,False
+E71D2535,4429.94,USER_0048,19,Netflix,Bangalore,Amex,False
+FAD2C443,11750.21,USER_0045,3,WireTransfer_Global,Pune,Visa,True

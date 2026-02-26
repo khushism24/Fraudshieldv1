@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DE5218CF,1389.73,USER_0002,8,BigBasket,Chennai,Visa,False
+224C0F2B,848.23,USER_0044,22,D-Mart,Bangalore,RuPay,False
+FEA2F5C7,24254.88,USER_0027,4,Ola,Pune,Amex,False
+9F6870A5,1894.98,USER_0018,10,Amazon,Ahmedabad,Visa,False
+1F8BB9F4,15155.15,USER_0029,3,Ola,Hyderabad,Visa,False
+979839C8,9745.03,USER_0013,3,CasinoRoyal,Chennai,RuPay,True

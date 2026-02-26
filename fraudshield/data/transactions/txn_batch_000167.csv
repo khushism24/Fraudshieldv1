@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A5C72371,2447.0,USER_0006,20,Flipkart,Bangalore,Visa,False
+A1A739AE,730.51,USER_0045,11,CryptoExchange_BuyBit,Delhi,Visa,True
+9A5460CC,3963.75,USER_0042,15,Zomato,Chennai,Visa,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CF795242,2284.0,USER_0049,22,Amazon,Ahmedabad,Visa,False
+BAA9A2D6,2154.94,USER_0048,5,Reliance Mart,Kolkata,RuPay,False
+E3A729F2,4488.42,USER_0016,22,Swiggy,Pune,RuPay,False
+87F9DB4A,24538.09,USER_0014,5,IRCTC,Hyderabad,Amex,False

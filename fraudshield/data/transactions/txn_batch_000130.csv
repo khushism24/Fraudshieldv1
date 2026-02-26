@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+689BB3E9,3952.06,USER_0037,6,MedPlus Pharmacy,Pune,Amex,False
+2D3ACDFE,18251.72,USER_0023,5,BigBasket,Delhi,RuPay,False
+39DB02D9,2949.85,USER_0004,13,Netflix,Pune,Visa,False
+7F606D9A,3199.96,USER_0024,2,Zomato,Mumbai,RuPay,False

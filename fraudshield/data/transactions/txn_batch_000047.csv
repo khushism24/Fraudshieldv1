@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+991D51A2,4020.91,USER_0016,22,BigBasket,Ahmedabad,Mastercard,False
+0F1FA370,12782.97,USER_0033,0,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+0EFE601C,1290.43,USER_0042,23,Myntra,Kolkata,Mastercard,False
+30CC8F02,1762.97,USER_0021,10,Uber,Surat,Mastercard,False
+78C2C5CA,9963.69,USER_0045,2,Zomato,Chennai,RuPay,False
+65D662FA,774.58,USER_0020,3,Zomato,Delhi,RuPay,False
+8C57F4E4,2843.97,USER_0049,16,WireTransfer_Global,Mumbai,RuPay,True
+324CE853,1064.38,USER_0016,6,IRCTC,Mumbai,Mastercard,False

@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+43DAFE8F,1976.94,USER_0003,11,IRCTC,Chennai,Mastercard,False
+CE0B1737,741.6,USER_0033,23,BigBasket,Surat,Amex,False
+138099BC,3818.7,USER_0040,23,Flipkart,Hyderabad,RuPay,False
+9C501C60,1238.82,USER_0046,4,BookMyShow,Chennai,Amex,False
+7FF0AEA1,1147.94,USER_0024,12,CasinoRoyal,Pune,Visa,True
+65771E87,22162.27,USER_0048,0,Netflix,Chennai,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3A4729A3,3936.25,USER_0036,12,CasinoRoyal,Delhi,Visa,True
+7DB94912,2330.89,USER_0012,22,Myntra,Chennai,Mastercard,False
+4003D4E3,1557.99,USER_0022,12,Reliance Mart,Kolkata,Visa,False
+F37BE47E,16038.34,USER_0036,4,CasinoRoyal,Bangalore,RuPay,True

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1997B287,1580.85,USER_0008,7,CasinoRoyal,Jaipur,Amex,True
+7AB5DC9C,883.68,USER_0036,21,Netflix,Chennai,Visa,False
+F4757599,4285.0,USER_0026,4,D-Mart,Delhi,RuPay,False

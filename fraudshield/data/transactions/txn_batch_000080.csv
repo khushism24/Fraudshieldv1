@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FBCF7539,1590.26,USER_0015,19,Netflix,Chennai,Amex,False
+2FAF8D65,2263.36,USER_0036,19,Amazon,Delhi,Mastercard,False
+D2572DAF,5101.05,USER_0008,5,Amazon,Mumbai,Amex,False
+12C84086,3505.34,USER_0035,12,Swiggy,Jaipur,RuPay,False

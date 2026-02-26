@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9F991D96,1686.24,USER_0023,16,IRCTC,Kolkata,RuPay,False
+2FDA8875,1403.0,USER_0038,8,IRCTC,Chennai,RuPay,False
+23AD4F87,1187.63,USER_0036,17,Myntra,Mumbai,Amex,False
+88AD371B,13146.11,USER_0043,3,MedPlus Pharmacy,Jaipur,RuPay,False
+3B25228E,75.49,USER_0038,16,Zomato,Chennai,Amex,False
+36120EE6,22520.8,USER_0031,3,Myntra,Hyderabad,Mastercard,False

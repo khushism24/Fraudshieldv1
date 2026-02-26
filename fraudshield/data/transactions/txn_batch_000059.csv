@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+185E33B8,16446.18,USER_0028,1,Netflix,Kolkata,Visa,False
+A336722E,4271.6,USER_0011,13,Zomato,Ahmedabad,RuPay,False
+1C4962BC,1895.47,USER_0010,4,CryptoExchange_BuyBit,Bangalore,Amex,True
+7EABAF26,366.96,USER_0044,14,Uber,Hyderabad,Visa,False
+AB935953,4435.47,USER_0022,8,Uber,Kolkata,Mastercard,False
+DA219A09,2873.84,USER_0023,10,D-Mart,Kolkata,RuPay,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+61C88C5A,352.96,USER_0032,14,D-Mart,Ahmedabad,RuPay,False
+1567100A,21043.61,USER_0002,5,Swiggy,Bangalore,Mastercard,False
+60617D4C,2646.61,USER_0047,14,BigBasket,Surat,Amex,False
+E99C44A5,17718.3,USER_0018,2,Ola,Kolkata,RuPay,False

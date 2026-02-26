@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ACD17432,17225.46,USER_0035,4,BigBasket,Bangalore,Visa,False
+E69FFDCE,11003.72,USER_0028,4,MedPlus Pharmacy,Jaipur,Amex,False
+CABB90A9,1203.38,USER_0041,7,D-Mart,Kolkata,RuPay,False

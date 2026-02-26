@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5C11B4BD,132.06,USER_0019,11,Ola,Hyderabad,Mastercard,False
+88479C6F,2967.0,USER_0049,1,Ola,Bangalore,RuPay,False
+FF45A5A8,729.65,USER_0008,3,Ola,Pune,RuPay,False
+C3510304,1586.48,USER_0027,8,Zomato,Delhi,Mastercard,False

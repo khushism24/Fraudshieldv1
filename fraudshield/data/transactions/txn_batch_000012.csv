@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+9C5E45C0,3388.9,USER_0039,20,Zomato,Chennai,Amex,False
+CA7605C5,1343.09,USER_0028,2,WireTransfer_Global,Chennai,RuPay,True
+195C54DB,13341.04,USER_0002,3,Myntra,Hyderabad,Mastercard,False
+ED2347D1,3394.92,USER_0048,13,WireTransfer_Global,Hyderabad,RuPay,True
+1A2A19D9,2744.71,USER_0037,23,Zomato,Hyderabad,Mastercard,False
+5F3922BE,488.53,USER_0011,11,WireTransfer_Global,Pune,Amex,True

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1DB479ED,3957.97,USER_0007,20,Amazon,Bangalore,Mastercard,False
+679598ED,3877.47,USER_0022,16,Netflix,Jaipur,Mastercard,False
+D784A520,971.3,USER_0035,6,Myntra,Pune,RuPay,False
+CB3727CA,24882.49,USER_0042,3,BookMyShow,Kolkata,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7BB9F913,888.66,USER_0021,5,BigBasket,Mumbai,Amex,False
+49F8F3DB,2544.57,USER_0004,21,Reliance Mart,Surat,Amex,False
+E87A3824,198.74,USER_0014,16,Myntra,Chennai,Mastercard,False
+6809BA95,2006.58,USER_0002,9,CasinoRoyal,Surat,RuPay,True

@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+EFB44DF5,816.72,USER_0027,12,CryptoExchange_BuyBit,Bangalore,Mastercard,True
+A8D538D9,4445.21,USER_0031,21,Netflix,Pune,Mastercard,False
+FEE6786D,8822.14,USER_0034,0,CasinoRoyal,Surat,Amex,True
+59E66A06,2145.96,USER_0045,19,IRCTC,Ahmedabad,Mastercard,False
+2936E8C4,303.24,USER_0016,8,Netflix,Bangalore,Visa,False
+6E3956AF,1443.38,USER_0018,9,Flipkart,Pune,Visa,False
+90555FB8,21274.68,USER_0029,5,D-Mart,Hyderabad,Amex,False

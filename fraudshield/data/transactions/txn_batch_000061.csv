@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2311DBDC,3062.89,USER_0019,21,Netflix,Delhi,Amex,False
+5216F9B7,608.07,USER_0033,2,D-Mart,Hyderabad,RuPay,False
+33E550A2,2900.04,USER_0046,14,Swiggy,Jaipur,RuPay,False
+73538943,17062.82,USER_0045,5,Swiggy,Pune,Amex,False
+80FE2DF7,988.9,USER_0001,13,CasinoRoyal,Jaipur,RuPay,True
+36340F78,1382.97,USER_0047,8,D-Mart,Surat,Mastercard,False

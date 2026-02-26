@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7CE78E95,1828.83,USER_0043,5,D-Mart,Bangalore,Amex,False
+A187FD93,2438.98,USER_0043,9,CryptoExchange_BuyBit,Mumbai,Amex,True
+5CEA8618,2010.92,USER_0024,10,Netflix,Jaipur,RuPay,False
+0CEAE46A,2205.37,USER_0030,19,Reliance Mart,Kolkata,Amex,False

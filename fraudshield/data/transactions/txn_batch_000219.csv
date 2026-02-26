@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+5DAE813C,3548.55,USER_0037,10,Reliance Mart,Ahmedabad,Amex,False
+82385092,1438.57,USER_0023,3,Netflix,Jaipur,Mastercard,False
+F413646E,2603.83,USER_0013,21,Flipkart,Mumbai,RuPay,False
+AD5307F4,2243.48,USER_0023,19,Zomato,Surat,Amex,False
+B6811F52,576.76,USER_0024,14,WireTransfer_Global,Bangalore,Visa,True
+6D1EB8E4,340.9,USER_0049,17,Amazon,Kolkata,Amex,False
+E1061399,2458.38,USER_0023,12,CasinoRoyal,Delhi,Amex,True
+2D64B7EB,2321.24,USER_0042,4,IRCTC,Bangalore,Mastercard,False

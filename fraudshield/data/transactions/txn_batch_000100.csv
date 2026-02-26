@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+80744A24,2548.24,USER_0044,18,Ola,Delhi,Mastercard,False
+DB517CF6,3588.04,USER_0004,7,CryptoExchange_BuyBit,Mumbai,RuPay,True
+9FCB4E78,2022.48,USER_0038,15,Ola,Bangalore,Mastercard,False
+B56CDE9D,3166.12,USER_0035,15,BookMyShow,Jaipur,Mastercard,False
+8B80DD12,3239.81,USER_0007,0,Reliance Mart,Pune,RuPay,False
+28D65D96,3912.74,USER_0017,10,Swiggy,Kolkata,Visa,False

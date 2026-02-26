@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DDA4197C,3980.84,USER_0032,23,Netflix,Delhi,Visa,False
+A45AE44D,2537.79,USER_0029,8,CryptoExchange_BuyBit,Delhi,RuPay,True
+6F3EB662,4145.12,USER_0030,19,CasinoRoyal,Kolkata,Mastercard,True
+26112787,68.25,USER_0017,14,Reliance Mart,Ahmedabad,Mastercard,False

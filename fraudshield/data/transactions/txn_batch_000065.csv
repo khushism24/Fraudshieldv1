@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+36BCD114,3409.14,USER_0047,17,Ola,Delhi,Amex,False
+2BCA059F,4483.1,USER_0013,8,Uber,Hyderabad,Mastercard,False
+F5622C5F,14831.68,USER_0004,5,Swiggy,Jaipur,Amex,False

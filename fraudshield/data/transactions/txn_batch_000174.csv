@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+DDCDF0A6,1657.35,USER_0033,22,WireTransfer_Global,Ahmedabad,Mastercard,True
+49BDF18A,6946.87,USER_0029,4,CasinoRoyal,Ahmedabad,Amex,True
+3943977A,2607.09,USER_0007,20,D-Mart,Ahmedabad,Visa,False
+7ED3D5F4,3861.23,USER_0012,0,Netflix,Mumbai,Visa,False
+36D02C97,4135.32,USER_0002,3,Myntra,Chennai,RuPay,False
+D6828B72,17912.24,USER_0004,5,Uber,Chennai,Mastercard,False
+E627F06D,2778.97,USER_0038,23,Zomato,Pune,RuPay,False

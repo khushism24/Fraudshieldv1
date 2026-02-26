@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F0B3FB66,1175.4,USER_0020,1,Netflix,Pune,Visa,False
+E0F0C216,4479.13,USER_0040,13,Ola,Delhi,Amex,False
+C3530E68,4314.55,USER_0036,12,Reliance Mart,Hyderabad,Visa,False

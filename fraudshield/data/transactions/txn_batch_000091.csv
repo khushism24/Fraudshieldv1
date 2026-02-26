@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A5C01183,1529.11,USER_0033,0,Myntra,Mumbai,Visa,False
+E7AC9875,1871.95,USER_0026,11,CryptoExchange_BuyBit,Pune,Amex,True
+4D3D7DEA,3743.15,USER_0006,17,Uber,Bangalore,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+05904AB9,2702.9,USER_0018,21,Amazon,Surat,Visa,False
+8B78BE33,1849.1,USER_0048,11,Zomato,Chennai,Amex,False
+D9431F6B,611.43,USER_0032,11,Uber,Pune,Visa,False
+34383844,642.75,USER_0043,17,D-Mart,Jaipur,Visa,False

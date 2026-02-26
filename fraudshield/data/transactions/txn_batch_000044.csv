@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0B9D934E,17717.6,USER_0034,5,Uber,Jaipur,RuPay,False
+277F0A89,20009.21,USER_0011,4,Netflix,Ahmedabad,Amex,False
+ECB0E169,2177.38,USER_0027,10,Reliance Mart,Mumbai,Mastercard,False
+6BE332C9,3402.63,USER_0012,12,MedPlus Pharmacy,Delhi,Mastercard,False

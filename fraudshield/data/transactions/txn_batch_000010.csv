@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+70EEE039,2284.37,USER_0018,2,BookMyShow,Surat,RuPay,False
+516E07D7,18641.59,USER_0028,2,Netflix,Jaipur,Mastercard,False
+027D846E,3198.91,USER_0028,7,Amazon,Jaipur,Amex,False

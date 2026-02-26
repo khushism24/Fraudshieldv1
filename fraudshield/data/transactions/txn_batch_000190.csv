@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6B653FAF,21712.77,USER_0004,1,Reliance Mart,Surat,Amex,False
+9E9B4A74,3767.34,USER_0035,10,BookMyShow,Chennai,Mastercard,False
+C4E9393F,478.87,USER_0004,23,WireTransfer_Global,Hyderabad,RuPay,True
+101F90CA,3768.46,USER_0034,8,BigBasket,Surat,Visa,False
+8A575257,4090.55,USER_0023,18,Netflix,Ahmedabad,RuPay,False

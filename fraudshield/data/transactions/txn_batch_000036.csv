@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+35A52DA2,2713.28,USER_0032,16,Ola,Kolkata,RuPay,False
+01BB31A6,3803.48,USER_0035,8,Zomato,Delhi,Mastercard,False
+9E02ECFD,1399.91,USER_0007,16,Amazon,Mumbai,RuPay,False

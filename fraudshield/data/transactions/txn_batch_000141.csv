@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+6407C40E,2586.68,USER_0041,6,Zomato,Jaipur,Visa,False
+01EE042E,1892.57,USER_0009,6,WireTransfer_Global,Kolkata,Amex,True
+2D999B80,23769.75,USER_0026,1,Zomato,Surat,Visa,False
+976960E4,1443.87,USER_0018,1,IRCTC,Chennai,Amex,False

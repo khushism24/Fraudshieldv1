@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3FB8661C,12083.17,USER_0011,5,Zomato,Ahmedabad,Amex,False
+9E8F25C1,3407.83,USER_0041,20,MedPlus Pharmacy,Delhi,Mastercard,False
+869F4025,2716.39,USER_0024,21,Netflix,Hyderabad,Amex,False
+63F8514F,2559.45,USER_0009,18,Swiggy,Pune,Visa,False
+6F52A13A,2406.06,USER_0004,17,MedPlus Pharmacy,Surat,Mastercard,False
+169D4ABC,757.84,USER_0016,8,WireTransfer_Global,Pune,Visa,True

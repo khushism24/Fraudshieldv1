@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+20DE3F3E,2375.01,USER_0016,6,CryptoExchange_BuyBit,Surat,Mastercard,True
+DEB8E823,8947.36,USER_0008,0,Zomato,Kolkata,RuPay,False
+92191C20,8971.18,USER_0022,3,Flipkart,Bangalore,Mastercard,False
+16AABF56,2676.59,USER_0043,21,BigBasket,Pune,Mastercard,False
+FBC8835B,553.96,USER_0036,2,D-Mart,Chennai,Amex,False

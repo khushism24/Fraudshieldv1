@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+23537982,3018.05,USER_0016,7,D-Mart,Hyderabad,Visa,False
+366B6693,2905.82,USER_0041,14,Zomato,Delhi,Amex,False
+692366B7,2772.52,USER_0048,21,Ola,Bangalore,Visa,False
+B7804335,2100.05,USER_0032,23,BookMyShow,Pune,Visa,False
+F1BC6763,1911.37,USER_0048,17,BookMyShow,Mumbai,Visa,False
+DF66A79C,2934.6,USER_0002,8,Netflix,Bangalore,Amex,False

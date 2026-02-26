@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F7CFCFC3,11703.12,USER_0014,0,WireTransfer_Global,Pune,RuPay,True
+40B2C057,1790.9,USER_0046,19,Amazon,Hyderabad,Mastercard,False
+457D60D6,1454.61,USER_0035,21,BookMyShow,Ahmedabad,Amex,False
+10D041B7,1427.66,USER_0033,17,Reliance Mart,Delhi,Visa,False
+5C350062,19435.97,USER_0038,1,IRCTC,Kolkata,Amex,False
+463319C8,2657.9,USER_0026,10,Reliance Mart,Jaipur,Visa,False
+AC662057,1585.97,USER_0027,17,Netflix,Chennai,Visa,False

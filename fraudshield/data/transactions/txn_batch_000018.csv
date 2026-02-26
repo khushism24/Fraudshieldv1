@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+CB5FDF29,2336.61,USER_0007,22,Myntra,Surat,Visa,False
+CA9190FE,953.86,USER_0026,3,Zomato,Pune,Visa,False
+668248F9,4429.49,USER_0011,13,BigBasket,Jaipur,Amex,False

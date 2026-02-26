@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1C4C61AB,922.15,USER_0042,13,Zomato,Delhi,Mastercard,False
+29EDA37A,274.02,USER_0035,11,Ola,Ahmedabad,RuPay,False
+AD6BC09C,3717.77,USER_0011,10,Swiggy,Pune,Visa,False
+507263E5,1560.42,USER_0012,9,D-Mart,Delhi,RuPay,False
+46AB3929,3277.44,USER_0012,17,Myntra,Jaipur,RuPay,False

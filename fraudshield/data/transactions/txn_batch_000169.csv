@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1BB474A9,3720.5,USER_0050,19,Flipkart,Jaipur,Amex,False
+7A9F1235,2386.6,USER_0034,20,Amazon,Bangalore,Amex,False
+49D65BBC,3256.51,USER_0016,12,Netflix,Jaipur,Amex,False
+4F4AD628,2494.61,USER_0021,16,Swiggy,Kolkata,Mastercard,False
+DF54B2A5,1125.22,USER_0020,15,WireTransfer_Global,Delhi,Amex,True

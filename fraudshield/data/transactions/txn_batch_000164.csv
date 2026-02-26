@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+53479178,3852.9,USER_0009,16,D-Mart,Chennai,Visa,False
+B7EB4D64,21897.1,USER_0033,2,Zomato,Jaipur,RuPay,False
+DCAFCE08,1928.27,USER_0046,8,WireTransfer_Global,Mumbai,Mastercard,True
+2DA28498,3998.36,USER_0013,13,Zomato,Ahmedabad,Mastercard,False
+601815F7,3220.52,USER_0009,0,Netflix,Surat,RuPay,False

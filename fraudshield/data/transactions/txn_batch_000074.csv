@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4AFAC416,1989.18,USER_0013,18,Ola,Chennai,Visa,False
+D190A7AF,757.02,USER_0001,16,Zomato,Delhi,RuPay,False
+36123555,1199.63,USER_0030,6,Amazon,Delhi,Mastercard,False
+71FAAD0D,16501.16,USER_0028,3,Uber,Ahmedabad,Amex,False
+CCCC0419,4106.81,USER_0035,8,MedPlus Pharmacy,Pune,Visa,False
+92052CA0,2270.85,USER_0048,16,Amazon,Chennai,RuPay,False
+534EE7BF,595.25,USER_0010,16,Swiggy,Pune,Mastercard,False
+8737FF40,1446.42,USER_0011,14,D-Mart,Pune,Amex,False

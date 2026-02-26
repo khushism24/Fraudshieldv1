@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+40181BEA,1502.06,USER_0026,12,CasinoRoyal,Hyderabad,Mastercard,True
+AE482853,2909.74,USER_0040,19,Zomato,Bangalore,Mastercard,False
+5178F19A,539.76,USER_0025,16,D-Mart,Chennai,Amex,False
+8A180218,375.66,USER_0044,13,BigBasket,Jaipur,Mastercard,False

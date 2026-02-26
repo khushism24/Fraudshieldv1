@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+344BC212,390.33,USER_0040,10,BigBasket,Jaipur,RuPay,False
+45FD6B47,3975.78,USER_0024,11,Uber,Ahmedabad,Visa,False
+2657E205,20102.01,USER_0032,4,Zomato,Jaipur,Mastercard,False
+C0E02EC9,23064.49,USER_0009,2,Ola,Kolkata,Visa,False

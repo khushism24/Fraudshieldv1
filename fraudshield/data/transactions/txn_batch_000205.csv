@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FE2839C4,960.7,USER_0048,21,Zomato,Mumbai,RuPay,False
+20191777,287.53,USER_0015,7,Netflix,Delhi,RuPay,False
+41404516,2191.65,USER_0044,12,Flipkart,Hyderabad,Mastercard,False
+38E220B7,3380.0,USER_0049,21,BookMyShow,Kolkata,Amex,False
+C54FEFA7,57.25,USER_0028,6,Flipkart,Kolkata,RuPay,False
+5AC7FCC2,1689.35,USER_0016,13,Amazon,Hyderabad,Mastercard,False

@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+49AB5F5E,1131.38,USER_0003,8,CasinoRoyal,Surat,Visa,True
+9639BC3C,12677.63,USER_0028,0,Uber,Hyderabad,Amex,False
+6FBA6FA8,921.43,USER_0024,3,Netflix,Mumbai,Visa,False
+C0E12BFA,749.09,USER_0015,1,Netflix,Mumbai,Mastercard,False

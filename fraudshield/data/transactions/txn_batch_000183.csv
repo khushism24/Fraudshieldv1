@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A6F4CCA7,3137.38,USER_0048,16,WireTransfer_Global,Mumbai,Visa,True
+8A26E72B,2141.46,USER_0008,4,CasinoRoyal,Kolkata,Visa,True
+08C86A26,1817.45,USER_0050,23,D-Mart,Kolkata,RuPay,False
+CD398A52,3487.08,USER_0013,10,WireTransfer_Global,Hyderabad,Mastercard,True
+96198EAF,2972.53,USER_0015,22,BigBasket,Surat,Mastercard,False
+F7E23654,10272.51,USER_0021,2,Zomato,Kolkata,Visa,False
+CFDBC296,3256.86,USER_0022,12,CryptoExchange_BuyBit,Ahmedabad,Visa,True
+A3E34CB4,3119.66,USER_0019,13,D-Mart,Hyderabad,Amex,False

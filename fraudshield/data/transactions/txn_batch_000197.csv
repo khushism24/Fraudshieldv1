@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+09EC5754,558.7,USER_0048,21,Flipkart,Pune,Mastercard,False
+F241FABF,2667.78,USER_0022,18,CryptoExchange_BuyBit,Hyderabad,RuPay,True
+314A7E82,1989.6,USER_0050,13,IRCTC,Mumbai,Visa,False
+E7FCDF4D,3858.31,USER_0006,11,Flipkart,Delhi,Visa,False

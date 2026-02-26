@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E9094BA5,23078.99,USER_0021,1,Myntra,Jaipur,Visa,False
+8AD93D45,772.98,USER_0005,21,WireTransfer_Global,Kolkata,Mastercard,True
+B579C030,1012.46,USER_0042,17,MedPlus Pharmacy,Bangalore,Mastercard,False
+BF4AEEF6,3714.15,USER_0028,0,Flipkart,Hyderabad,Visa,False

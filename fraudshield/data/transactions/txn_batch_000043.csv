@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+46130096,11094.12,USER_0006,1,D-Mart,Jaipur,Mastercard,False
+694844CC,4451.87,USER_0041,16,Amazon,Ahmedabad,RuPay,False
+8C9E8685,844.17,USER_0037,10,Netflix,Pune,Visa,False

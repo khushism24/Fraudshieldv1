@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+07C34B28,4324.32,USER_0041,12,Zomato,Bangalore,Mastercard,False
+2DEEA9B1,3689.33,USER_0031,19,Reliance Mart,Bangalore,Mastercard,False
+B9486EAD,81.45,USER_0049,22,CasinoRoyal,Pune,Mastercard,True
+215411A1,3187.21,USER_0039,5,Netflix,Surat,RuPay,False
+526C12A5,1551.55,USER_0034,23,BigBasket,Kolkata,Mastercard,False

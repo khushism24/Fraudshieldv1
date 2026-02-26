@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2959AD16,2395.74,USER_0002,16,Reliance Mart,Delhi,Mastercard,False
+587091FA,548.78,USER_0037,9,CryptoExchange_BuyBit,Delhi,Mastercard,True
+852FD2B5,1648.49,USER_0006,17,CasinoRoyal,Jaipur,Visa,True
+7EA04225,3486.99,USER_0012,22,CryptoExchange_BuyBit,Delhi,RuPay,True
+F8904521,4359.25,USER_0046,13,Reliance Mart,Delhi,Amex,False
+0E3C55B3,680.71,USER_0026,7,BookMyShow,Chennai,RuPay,False
+88B5FF19,2880.82,USER_0003,16,BigBasket,Pune,Amex,False
+F7C8E298,3818.29,USER_0003,18,D-Mart,Jaipur,RuPay,False

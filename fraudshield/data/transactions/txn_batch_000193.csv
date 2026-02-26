@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+24E70B93,1369.37,USER_0026,18,MedPlus Pharmacy,Jaipur,RuPay,False
+6DD813BA,3260.19,USER_0010,23,Reliance Mart,Bangalore,Mastercard,False
+660F8EC5,3709.08,USER_0025,7,D-Mart,Mumbai,Visa,False

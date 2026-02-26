@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+051949EC,3777.24,USER_0040,12,Netflix,Mumbai,Mastercard,False
+2DABFFF9,15714.38,USER_0049,5,D-Mart,Ahmedabad,Mastercard,False
+4455A797,1025.87,USER_0008,23,WireTransfer_Global,Ahmedabad,Mastercard,True
+308E86EF,13818.72,USER_0029,5,Reliance Mart,Kolkata,Mastercard,False

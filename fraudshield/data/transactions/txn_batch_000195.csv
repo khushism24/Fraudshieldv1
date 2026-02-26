@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E27DFA58,535.1,USER_0001,15,Swiggy,Delhi,RuPay,False
+3EC46EB4,3550.9,USER_0003,21,CasinoRoyal,Delhi,Mastercard,True
+7E0FD52F,7692.56,USER_0041,5,CryptoExchange_BuyBit,Ahmedabad,RuPay,True
+BF28BE47,1406.95,USER_0012,19,Flipkart,Delhi,Mastercard,False

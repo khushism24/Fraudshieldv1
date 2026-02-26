@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0208C9CF,3682.15,USER_0037,19,Ola,Jaipur,Mastercard,False
+DFFE8944,3333.61,USER_0027,17,D-Mart,Delhi,Visa,False
+D387C9C8,1673.46,USER_0044,15,Amazon,Bangalore,Mastercard,False
+57BC731A,4324.42,USER_0045,5,CasinoRoyal,Ahmedabad,RuPay,True

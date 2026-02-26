@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4A10BDD6,1013.03,USER_0017,12,Flipkart,Bangalore,RuPay,False
+F2885A7B,21146.9,USER_0049,4,Myntra,Surat,Amex,False
+069C950B,22831.36,USER_0032,0,Reliance Mart,Jaipur,Mastercard,False
+D67C516D,1527.12,USER_0046,7,Myntra,Jaipur,RuPay,False
+E657B06C,1737.56,USER_0041,15,CasinoRoyal,Pune,RuPay,True

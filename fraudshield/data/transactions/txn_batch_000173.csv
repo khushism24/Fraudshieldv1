@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+89501508,4441.27,USER_0038,8,BigBasket,Chennai,Mastercard,False
+68115132,4464.87,USER_0046,23,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+8B91FE32,2281.39,USER_0029,15,Reliance Mart,Surat,Mastercard,False

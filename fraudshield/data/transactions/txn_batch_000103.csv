@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F8397757,2311.74,USER_0048,16,IRCTC,Jaipur,RuPay,False
+55D22521,2061.08,USER_0031,6,Ola,Delhi,Visa,False
+F46DC10A,2512.4,USER_0002,23,Zomato,Kolkata,Amex,False
+1C6603A8,4028.14,USER_0007,8,Ola,Mumbai,Amex,False

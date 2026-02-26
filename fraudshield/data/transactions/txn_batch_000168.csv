@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+312F17D6,331.37,USER_0026,17,CryptoExchange_BuyBit,Chennai,RuPay,True
+01B64AEB,3512.39,USER_0049,10,Myntra,Jaipur,RuPay,False
+BCA5A791,3063.93,USER_0004,0,Amazon,Jaipur,Amex,False
+1CFDCD1E,896.57,USER_0047,6,BigBasket,Jaipur,RuPay,False
+D8526C77,1041.86,USER_0025,6,Netflix,Bangalore,Amex,False

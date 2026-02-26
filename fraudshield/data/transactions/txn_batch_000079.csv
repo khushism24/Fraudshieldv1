@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+C18BC5AF,996.82,USER_0033,20,CryptoExchange_BuyBit,Hyderabad,RuPay,True
+628E166F,1786.33,USER_0029,7,CasinoRoyal,Pune,RuPay,True
+8D8B0AE6,695.68,USER_0019,6,Zomato,Kolkata,RuPay,False
+3A923775,4098.89,USER_0046,0,MedPlus Pharmacy,Ahmedabad,Visa,False
+FE637F0B,3931.96,USER_0035,17,CryptoExchange_BuyBit,Pune,Visa,True
+B49CE0A2,3179.07,USER_0034,12,Ola,Chennai,Visa,False
+EAD290E2,3052.07,USER_0014,10,Swiggy,Delhi,RuPay,False
+E2E8A7D1,3268.86,USER_0028,9,BigBasket,Bangalore,Mastercard,False

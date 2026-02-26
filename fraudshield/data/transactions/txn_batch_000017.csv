@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4AEEC2CA,2723.3,USER_0015,12,D-Mart,Ahmedabad,RuPay,False
+541C6A69,2018.58,USER_0034,12,Swiggy,Hyderabad,Visa,False
+9C17E6EB,3686.43,USER_0024,6,Netflix,Jaipur,Mastercard,False

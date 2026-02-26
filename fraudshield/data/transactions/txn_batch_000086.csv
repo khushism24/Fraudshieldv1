@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+59EAD3D0,4437.54,USER_0027,15,Uber,Hyderabad,Visa,False
+7C85C408,2775.36,USER_0048,19,WireTransfer_Global,Ahmedabad,Mastercard,True
+2C3D26FE,1056.96,USER_0023,15,BigBasket,Ahmedabad,Amex,False
+39ABEE94,864.23,USER_0014,12,Amazon,Delhi,RuPay,False

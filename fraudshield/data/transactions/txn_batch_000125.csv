@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8FBB4ED5,3150.19,USER_0017,15,Flipkart,Hyderabad,Visa,False
+6800D68D,5710.58,USER_0006,4,BookMyShow,Bangalore,Amex,False
+69382BAA,380.16,USER_0027,11,Myntra,Kolkata,Visa,False
+9534C15D,394.03,USER_0042,15,Ola,Ahmedabad,Mastercard,False
+F27D1110,1331.77,USER_0037,23,Amazon,Pune,Mastercard,False
+13BCDAC5,1813.8,USER_0029,6,MedPlus Pharmacy,Kolkata,Visa,False
+4E347B3C,2810.25,USER_0038,9,IRCTC,Chennai,RuPay,False

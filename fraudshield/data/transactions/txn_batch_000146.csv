@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+265BB996,167.32,USER_0048,11,D-Mart,Mumbai,Amex,False
+4C7DF281,3560.52,USER_0003,22,CasinoRoyal,Hyderabad,Mastercard,True
+85EF5218,3817.2,USER_0032,6,Uber,Ahmedabad,Visa,False
+FBA044BD,3159.0,USER_0042,19,Netflix,Bangalore,Amex,False

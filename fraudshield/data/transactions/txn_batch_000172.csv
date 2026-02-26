@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+FD136BD7,3525.68,USER_0009,21,BookMyShow,Kolkata,Visa,False
+BF5D30AF,3135.98,USER_0015,13,IRCTC,Mumbai,Visa,False
+13FD24D8,4310.2,USER_0042,20,Reliance Mart,Mumbai,RuPay,False
+AC9E5707,414.05,USER_0003,13,Myntra,Delhi,RuPay,False
+4FC70B90,13623.96,USER_0012,0,WireTransfer_Global,Jaipur,Visa,True
+AE08F1C1,2624.23,USER_0009,6,IRCTC,Hyderabad,Amex,False
+7A4AA0E8,7811.47,USER_0042,1,CryptoExchange_BuyBit,Bangalore,RuPay,True

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1916CCB4,13787.72,USER_0030,2,MedPlus Pharmacy,Delhi,RuPay,False
+A8B35BC2,624.69,USER_0048,7,IRCTC,Delhi,Amex,False
+AEA730E6,4943.63,USER_0020,1,D-Mart,Hyderabad,Mastercard,False

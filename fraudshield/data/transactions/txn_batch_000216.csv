@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BAA9048F,3559.1,USER_0002,8,Zomato,Mumbai,RuPay,False
+16D10680,2419.67,USER_0001,18,Zomato,Surat,Visa,False
+D1C52D6E,3334.26,USER_0036,16,BigBasket,Delhi,Visa,False
+A7B316D5,4255.71,USER_0001,10,CryptoExchange_BuyBit,Jaipur,Mastercard,True
+6E6F6518,2049.03,USER_0048,1,Netflix,Mumbai,Amex,False

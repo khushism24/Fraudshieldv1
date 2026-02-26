@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+8EFF70E6,1102.92,USER_0042,22,Zomato,Mumbai,Mastercard,False
+2A0533C0,13421.75,USER_0002,1,Flipkart,Mumbai,RuPay,False
+75A7D83D,1157.17,USER_0042,22,WireTransfer_Global,Kolkata,RuPay,True
+F9B8684F,3509.42,USER_0036,20,IRCTC,Ahmedabad,Amex,False
+C0D8BCDA,2958.58,USER_0023,16,Flipkart,Hyderabad,Visa,False
+9BF243DE,1268.44,USER_0035,18,Netflix,Pune,Mastercard,False
+9F1BDDB4,2049.92,USER_0018,1,CryptoExchange_BuyBit,Bangalore,Visa,True
+5439EFD2,3197.14,USER_0049,8,Reliance Mart,Hyderabad,Mastercard,False

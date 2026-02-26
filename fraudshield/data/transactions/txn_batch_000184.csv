@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+66A490CC,1978.61,USER_0012,13,MedPlus Pharmacy,Delhi,Amex,False
+D67A77D7,1828.93,USER_0033,17,IRCTC,Mumbai,Visa,False
+74DCDF39,2926.55,USER_0015,6,BigBasket,Delhi,RuPay,False

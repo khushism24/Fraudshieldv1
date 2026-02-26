@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BFFF8638,3570.23,USER_0033,12,Netflix,Hyderabad,Mastercard,False
+6AB511C3,1200.21,USER_0002,6,Swiggy,Pune,RuPay,False
+B7A5365D,4080.56,USER_0019,13,Netflix,Kolkata,RuPay,False
+8DCC729C,3915.8,USER_0031,10,D-Mart,Chennai,Mastercard,False
+6F020DFB,274.58,USER_0025,12,MedPlus Pharmacy,Mumbai,RuPay,False

@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+71FE96B7,1267.51,USER_0007,7,Zomato,Kolkata,RuPay,False
+C5BCBC20,1212.11,USER_0047,15,WireTransfer_Global,Bangalore,Visa,True
+7897F4CD,1202.39,USER_0023,22,Amazon,Chennai,Visa,False
+639CCC09,20760.94,USER_0016,3,Ola,Ahmedabad,RuPay,False
+8E2990E7,16647.06,USER_0007,0,D-Mart,Ahmedabad,Amex,False
+7A203539,142.55,USER_0010,16,BookMyShow,Mumbai,Visa,False
+1F9FCA44,13467.99,USER_0044,3,MedPlus Pharmacy,Pune,Visa,False
+82E83DFF,2463.28,USER_0033,7,Zomato,Chennai,RuPay,False

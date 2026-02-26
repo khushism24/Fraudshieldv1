@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+1D22F3F5,2373.1,USER_0026,11,Netflix,Bangalore,Visa,False
+BACF5031,10437.62,USER_0042,4,Uber,Surat,Mastercard,False
+6D954585,1477.23,USER_0043,3,IRCTC,Hyderabad,Amex,False
+339AEEEC,1968.28,USER_0005,7,Uber,Bangalore,Amex,False
+1906EF5F,3010.77,USER_0006,10,BigBasket,Bangalore,Mastercard,False

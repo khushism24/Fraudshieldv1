@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+7CD7A17E,4428.75,USER_0007,20,Zomato,Chennai,RuPay,False
+1202076D,3010.02,USER_0007,19,CasinoRoyal,Chennai,RuPay,True
+E9CC1921,184.07,USER_0029,22,BigBasket,Bangalore,Amex,False

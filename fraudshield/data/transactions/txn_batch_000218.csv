@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2AF743A1,14566.57,USER_0006,3,Uber,Hyderabad,Amex,False
+9B10BDB6,2310.67,USER_0043,12,Flipkart,Ahmedabad,RuPay,False
+C4129609,2238.05,USER_0011,12,BigBasket,Hyderabad,RuPay,False
+68A31EC5,18684.27,USER_0027,3,MedPlus Pharmacy,Chennai,Amex,False
+7E491CFF,300.19,USER_0044,22,Flipkart,Mumbai,RuPay,False

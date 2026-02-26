@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2227D4CA,2080.28,USER_0034,20,Myntra,Ahmedabad,Visa,False
+B48AC46C,920.17,USER_0024,22,Flipkart,Bangalore,RuPay,False
+714C0536,788.46,USER_0020,19,Ola,Kolkata,Amex,False
+8CD796FF,937.95,USER_0011,16,Uber,Bangalore,RuPay,False
+E5210CEB,2679.76,USER_0038,19,WireTransfer_Global,Surat,Visa,True
+649BA12F,2384.81,USER_0009,5,BigBasket,Bangalore,Amex,False
+877C3809,4107.14,USER_0015,20,IRCTC,Mumbai,Visa,False

@@ -1,0 +1,56 @@
+version: "3.9"
+
+# ─────────────────────────────────────────────────────────────────
+#  FraudShield AI — Docker Compose
+#  Runs 4 services that work together:
+#   1. data-generator  → streams fake transactions into ./data/transactions/
+#   2. fraud-pipeline  → Pathway reads stream, detects fraud, writes to ./data/output/
+#   3. rag-server      → Pathway indexes policy docs, serves semantic search at :8765
+#   4. dashboard       → Streamlit UI at http://localhost:8501
+# ─────────────────────────────────────────────────────────────────
+
+services:
+
+  data-generator:
+    build: .
+    command: python generate_data.py
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
+  fraud-pipeline:
+    build: .
+    command: python fraud_pipeline.py
+    volumes:
+      - ./data:/app/data
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    depends_on:
+      - data-generator
+    restart: unless-stopped
+
+  rag-server:
+    build: .
+    command: python rag_server.py
+    ports:
+      - "8765:8765"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    restart: unless-stopped
+
+  dashboard:
+    build: .
+    command: streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - RAG_SERVER_URL=http://rag-server:8765
+    depends_on:
+      - fraud-pipeline
+      - rag-server
+    restart: unless-stopped

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+44A416E5,605.82,USER_0042,6,Uber,Bangalore,RuPay,False
+96C5F7CF,1479.74,USER_0006,12,D-Mart,Bangalore,RuPay,False
+8CA5DB02,2241.92,USER_0007,7,CasinoRoyal,Hyderabad,Mastercard,True

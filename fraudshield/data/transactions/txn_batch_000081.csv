@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+50215E79,1146.44,USER_0032,21,CasinoRoyal,Chennai,Amex,True
+A7C8265D,4043.72,USER_0049,6,Uber,Delhi,Mastercard,False
+74F738D0,1690.56,USER_0032,13,BookMyShow,Mumbai,Mastercard,False
+9B166C15,4319.67,USER_0033,8,Amazon,Surat,Visa,False
+C17829F1,21815.85,USER_0027,3,Ola,Jaipur,Mastercard,False
+FE63C839,3674.6,USER_0009,11,Ola,Ahmedabad,Visa,False

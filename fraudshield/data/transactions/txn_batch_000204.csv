@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+76179F5C,2758.9,USER_0050,16,MedPlus Pharmacy,Ahmedabad,RuPay,False
+966EF3C0,2704.11,USER_0050,8,Flipkart,Bangalore,RuPay,False
+92458063,4432.4,USER_0029,15,Ola,Chennai,Mastercard,False
+7058C0B5,3582.22,USER_0014,11,Myntra,Delhi,Visa,False
+859AA3AF,11739.42,USER_0001,0,BookMyShow,Bangalore,Mastercard,False
+2B8E2E42,2601.06,USER_0050,21,Zomato,Chennai,RuPay,False
+A443F63F,3126.88,USER_0019,9,CryptoExchange_BuyBit,Pune,RuPay,True

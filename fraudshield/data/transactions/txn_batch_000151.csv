@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+2B3C0052,1223.9,USER_0022,17,Amazon,Mumbai,Amex,False
+22A8D156,15669.87,USER_0040,1,WireTransfer_Global,Kolkata,Amex,True
+D5A94305,2815.1,USER_0042,19,BigBasket,Hyderabad,Amex,False
+B345EEDB,2006.56,USER_0018,21,CasinoRoyal,Mumbai,RuPay,True
+E755BF3C,2999.52,USER_0027,0,CryptoExchange_BuyBit,Mumbai,Mastercard,True
+50BF7365,4479.14,USER_0026,21,Amazon,Ahmedabad,Visa,False

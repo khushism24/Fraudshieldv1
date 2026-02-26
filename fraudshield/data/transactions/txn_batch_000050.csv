@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+4432866B,191.19,USER_0032,23,IRCTC,Kolkata,Visa,False
+73136DFE,179.67,USER_0010,22,D-Mart,Surat,RuPay,False
+DF24DC73,2259.29,USER_0033,7,Reliance Mart,Jaipur,Amex,False

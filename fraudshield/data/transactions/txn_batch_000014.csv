@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+0DF87BA7,3959.8,USER_0030,9,WireTransfer_Global,Ahmedabad,Visa,True
+0A6EF2F3,17535.86,USER_0047,2,Amazon,Mumbai,RuPay,False
+4F94DECF,1345.45,USER_0018,23,Reliance Mart,Kolkata,Mastercard,False

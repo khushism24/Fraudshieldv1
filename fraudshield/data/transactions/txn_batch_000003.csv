@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+BFC5AFE4,1450.98,USER_0012,14,Myntra,Jaipur,Amex,False
+1E477C5E,3429.65,USER_0004,7,MedPlus Pharmacy,Bangalore,Mastercard,False
+0DA22286,818.32,USER_0035,23,Zomato,Surat,Amex,False

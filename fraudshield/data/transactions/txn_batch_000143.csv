@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3762B9B6,2823.11,USER_0006,3,Swiggy,Surat,Mastercard,False
+3DEC339E,11204.45,USER_0013,0,Zomato,Pune,RuPay,False
+CBC5C360,3050.07,USER_0018,14,IRCTC,Delhi,Visa,False
+81588C74,1693.23,USER_0020,22,Swiggy,Pune,Amex,False
+7DF26C6A,2818.93,USER_0023,11,WireTransfer_Global,Ahmedabad,Visa,True
+2F945E1C,10535.89,USER_0033,5,MedPlus Pharmacy,Hyderabad,Visa,False
+0CC4076D,267.71,USER_0009,9,Flipkart,Hyderabad,Visa,False
+82A5AF26,2574.59,USER_0042,16,Amazon,Surat,Amex,False

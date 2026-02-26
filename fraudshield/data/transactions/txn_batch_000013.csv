@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+24DC0A00,17308.06,USER_0039,1,Reliance Mart,Chennai,RuPay,False
+AAE96258,1394.92,USER_0022,3,D-Mart,Surat,RuPay,False
+1EAE5D63,2951.25,USER_0025,7,CryptoExchange_BuyBit,Delhi,RuPay,True
+FDE02D8C,959.65,USER_0011,16,WireTransfer_Global,Jaipur,Visa,True
+1698024A,4025.7,USER_0015,11,IRCTC,Hyderabad,Mastercard,False
+BACF98A0,3180.56,USER_0049,6,MedPlus Pharmacy,Kolkata,RuPay,False

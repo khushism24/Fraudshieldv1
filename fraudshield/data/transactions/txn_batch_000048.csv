@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+E7B2B104,4092.96,USER_0018,17,CasinoRoyal,Bangalore,Amex,True
+880563A5,3824.15,USER_0022,15,CasinoRoyal,Kolkata,Amex,True
+D6A8E033,2382.1,USER_0035,20,Uber,Mumbai,Mastercard,False
+DEC77296,9835.73,USER_0012,4,D-Mart,Delhi,Mastercard,False
+D180BE16,4320.83,USER_0044,10,CasinoRoyal,Jaipur,Mastercard,True

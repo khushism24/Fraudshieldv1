@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3190BD5D,11199.05,USER_0037,5,IRCTC,Pune,Amex,False
+D0EB8A4A,5216.7,USER_0024,1,Reliance Mart,Hyderabad,Amex,False
+D5778828,3293.57,USER_0034,14,Swiggy,Chennai,Amex,False
+8E16D410,2258.68,USER_0007,9,BookMyShow,Chennai,RuPay,False
+16B17D24,2006.14,USER_0018,6,D-Mart,Delhi,Visa,False

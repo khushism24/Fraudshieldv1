@@ -1,0 +1,5 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+791E2F13,1266.76,USER_0012,22,Amazon,Surat,Mastercard,False
+DC98BBF9,3758.9,USER_0011,6,Reliance Mart,Surat,Visa,False
+807BB395,4381.13,USER_0010,15,CryptoExchange_BuyBit,Chennai,Mastercard,True
+446F438D,1431.4,USER_0033,14,IRCTC,Ahmedabad,Visa,False

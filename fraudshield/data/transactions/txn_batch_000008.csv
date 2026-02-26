@@ -1,0 +1,8 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+42165001,920.92,USER_0003,20,BookMyShow,Bangalore,RuPay,False
+9EFEA614,2244.9,USER_0039,7,BookMyShow,Pune,Mastercard,False
+F61FD328,472.85,USER_0046,9,Netflix,Kolkata,Amex,False
+8EC4B72F,2811.29,USER_0008,9,IRCTC,Surat,Mastercard,False
+38ECABDD,1797.89,USER_0015,10,Zomato,Mumbai,Mastercard,False
+74B08C84,500.07,USER_0011,10,Zomato,Chennai,RuPay,False
+010EBFDD,545.48,USER_0011,12,Netflix,Surat,RuPay,False

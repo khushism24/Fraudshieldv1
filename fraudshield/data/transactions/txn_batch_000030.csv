@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+F7232BB8,3133.8,USER_0044,22,Swiggy,Pune,Mastercard,False
+5DBAEF2B,20898.2,USER_0044,4,CryptoExchange_BuyBit,Pune,Mastercard,True
+56CD3175,795.81,USER_0027,8,WireTransfer_Global,Pune,Visa,True

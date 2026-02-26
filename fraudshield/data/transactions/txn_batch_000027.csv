@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+52679FF4,3127.83,USER_0026,6,IRCTC,Hyderabad,Mastercard,False
+9DC6A05D,4353.7,USER_0046,15,IRCTC,Delhi,Amex,False
+951C714B,1010.3,USER_0009,12,Reliance Mart,Pune,Visa,False
+81BD04A2,4213.62,USER_0035,9,Myntra,Chennai,Mastercard,False
+7DFAE138,976.06,USER_0039,6,Swiggy,Pune,Amex,False
+F683C5B8,3900.39,USER_0050,20,Amazon,Delhi,Mastercard,False

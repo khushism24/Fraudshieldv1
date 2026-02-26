@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+A8356E8B,1376.36,USER_0014,3,IRCTC,Hyderabad,Amex,False
+BDE5DFF0,19619.83,USER_0024,3,CryptoExchange_BuyBit,Bangalore,Visa,True
+7A542805,581.98,USER_0017,18,D-Mart,Chennai,RuPay,False

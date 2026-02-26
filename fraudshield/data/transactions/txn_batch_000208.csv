@@ -1,0 +1,7 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+ECC8E918,907.96,USER_0032,9,Amazon,Delhi,Mastercard,False
+D671351B,1168.03,USER_0034,8,Myntra,Delhi,Amex,False
+0290D664,2929.76,USER_0035,22,Netflix,Chennai,Amex,False
+4D54AC3A,3863.35,USER_0018,14,Amazon,Jaipur,Mastercard,False
+B5DC8B9C,1790.18,USER_0035,0,CryptoExchange_BuyBit,Hyderabad,Mastercard,True
+79F9EC19,2232.86,USER_0032,16,CasinoRoyal,Surat,Mastercard,True

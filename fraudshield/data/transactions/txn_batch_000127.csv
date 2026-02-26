@@ -1,0 +1,9 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+89539D2E,122.85,USER_0015,16,Zomato,Surat,RuPay,False
+B3316112,844.09,USER_0035,14,Zomato,Chennai,Amex,False
+42288073,1957.18,USER_0035,19,Zomato,Chennai,Mastercard,False
+F4417492,12168.36,USER_0030,5,MedPlus Pharmacy,Bangalore,Visa,False
+285EEEC5,293.19,USER_0031,10,Swiggy,Delhi,Visa,False
+C7AC2540,4134.58,USER_0022,10,Myntra,Kolkata,RuPay,False
+09C131EB,724.78,USER_0025,22,D-Mart,Pune,Amex,False
+AC67AE8E,2207.49,USER_0009,6,CasinoRoyal,Delhi,Amex,True

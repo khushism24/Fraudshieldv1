@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+439E16C0,2501.77,USER_0040,11,Zomato,Delhi,Visa,False
+666086FD,3839.73,USER_0049,10,Swiggy,Delhi,Amex,False
+A7A32792,4355.04,USER_0024,20,Swiggy,Pune,Mastercard,False
+35F5F3E2,4571.63,USER_0018,0,Netflix,Chennai,RuPay,False
+5D41FBCD,3633.37,USER_0001,6,Swiggy,Jaipur,Visa,False

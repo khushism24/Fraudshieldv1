@@ -1,0 +1,6 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+52ACDC1D,1733.34,USER_0040,19,Myntra,Hyderabad,Mastercard,False
+19B382C4,3202.43,USER_0049,21,BookMyShow,Ahmedabad,RuPay,False
+8922E902,426.02,USER_0017,16,Uber,Pune,Mastercard,False
+15180093,2827.34,USER_0005,20,Uber,Bangalore,Mastercard,False
+E4CCB3BC,1451.97,USER_0016,23,Reliance Mart,Bangalore,Visa,False

@@ -1,0 +1,4 @@
+transaction_id,amount,user_id,hour,merchant,location,card_type,is_high_risk_merchant
+3C989196,759.46,USER_0032,21,Ola,Hyderabad,Visa,False
+FAE5021D,1343.9,USER_0014,18,WireTransfer_Global,Ahmedabad,RuPay,True
+8C68AB48,9273.89,USER_0032,1,Flipkart,Hyderabad,Mastercard,False
